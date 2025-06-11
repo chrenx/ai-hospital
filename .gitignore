@@ -1,5 +1,5 @@
 related/*
-datasets/*
+# datasets/*
 
 
 !datasets/nejm_imagechallenge_dataset.csv

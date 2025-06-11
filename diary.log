@@ -1,0 +1,21 @@
+What should AI triage do (front-desk nurse)?
+The nurse’s job is to extract enough context from the patient’s complaints to either:
+1️⃣ Send them to the right specialty (if the problem is clear-cut, e.g., skin rash → dermatology), or
+2️⃣ Escalate to emergency care if it sounds urgent (e.g., stroke symptoms, heart attack symptoms).
+
+What questions should AI Triage ask:
+1. Chief Complaint / Main Concern
+   a. What symptoms are you experiencing?
+   b. Where is the pain or problem?
+2. Symptom Details
+   a. When did it start?
+   b. How severe is it? (mild, moderate, severe)
+   c. Is it constant or does it come and go?
+3. Associated Symptoms
+   a. Do you have any of these symptoms: fever, chills, shortness of breath, chest pain, dizziness, numbness, vomiting, or diarrhea?
+4. Past Medical History
+   a. Do you have any health conditions that might be related to this problem? (like diabetes, high blood pressure, heart disease if chest pain is the complaint)
+4. Medications & Allergies
+   a. Are you currently taking any medications?
+   b. Do you have any allergies?
+
