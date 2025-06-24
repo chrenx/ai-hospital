@@ -134,8 +134,7 @@ def main(opt):
         'actual_specialty': ground_truths,
         'predicted_specialty': predictions
     })
-    results_df.to_csv(os.path.join(opt.save_dir, 
-                                   f"triage_pred_{os.path.basename(opt.model_name)}.csv"), 
+    results_df.to_csv(os.path.join(opt.save_dir, f"triage_pred_{opt.model_name}.csv"), 
                       index=False)
 
     print("Finished.")
@@ -147,8 +146,7 @@ if __name__ == "__main__":
         opt = Box(yaml.safe_load(f))
     
     opt.cur_time    = get_cur_time()
-    opt.save_dir    = os.path.join(opt.save_dir, 
-                                   f"{opt.cur_time}_{os.path.basename(opt.model_name)}")
+    opt.save_dir    = os.path.join(opt.save_dir, f"{opt.cur_time}_{opt.model_name}")
     opt.codes_dir   = os.path.join(opt.save_dir, "codes")
     opt.log_dir     = os.path.join(opt.save_dir, 'log')
 

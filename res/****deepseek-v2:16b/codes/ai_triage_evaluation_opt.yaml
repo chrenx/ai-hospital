@@ -1,5 +1,5 @@
 ai_triage_format: "whole"   # either "whole" or "conversational"
-model_name: "richardyoung/llama-medx_v32:latest"   
+model_name: "deepseek-v2:16b"   
                             # "koesn/llama3-openbiollm-8b:q6_K", 
                             # "richardyoung/llama-medx_v32:latest", 
                             # "ahmgam/medllama3-v20:latest"

@@ -19,3 +19,22 @@ What questions should AI Triage ask:
    a. Are you currently taking any medications?
    b. Do you have any allergies?
 
+llm_config = {
+    "config_list": [
+        {
+            "model":    "deepseek-ai/DeepSeek-V3",
+            "base_url": "https://api.siliconflow.cn/v1",
+            "api_key":  "sk-zlhpbuynjtlhysdqbqwfcuglzwdxxfhlasuamnsmkselhqto",
+        }
+    ]
+}
+
+llm_config = {
+    "config_list": [
+        {
+            "model":    "gpt-4o",
+            "base_url": "https://api.ai.it.ufl.edu/v1",
+            "api_key":  "sk-JoOzBJv4uLYVjOKFU5if1w",
+        }
+    ]
+}

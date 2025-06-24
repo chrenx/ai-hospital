@@ -1,0 +1,8 @@
+ai_triage_format: whole
+model_name: deepseek-v2:16b
+specialty_similarity: 0.8
+data_root: datasets/mtsamples_layman.csv
+save_dir: res/2025_06_12_12_28_21_97_deepseek-v2:16b
+cur_time: '2025_06_12_12_28_21_97'
+codes_dir: res/2025_06_12_12_28_21_97_deepseek-v2:16b/codes
+log_dir: res/2025_06_12_12_28_21_97_deepseek-v2:16b/log

@@ -1329,3 +1329,133 @@ This specialty directly addresses blood disorders such as acute lymphoblastic le
 
 10:18:18 --->   row_id 4748 - Actual: Cardiovascular / Pulmonary | Predicted: none | Hematology - Oncology
 
+10:19:43 --->   row_id 4750 - Actual: Cardiovascular / Pulmonary | Predicted: none | Hematology - Oncology
+
+10:22:06 --->   row_id 4754 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Gastroenterology
+
+10:23:04 --->   row_id 4755 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | The symptoms described—lightheadedness, dizziness, fainting spells, and palpitations—are being evaluated despite normal heart test results. Considering potential causes beyond cardiology, possibilities include gastrointestinal issues or hormonal imbalances. Given the options, Gastroenterology is a suitable specialty to explore digestive system-related causes that might explain these symptoms. 
+
+Answer: 'Gastroenterology'
+
+10:24:02 --->   row_id 4757 - Actual: Cardiovascular / Pulmonary | Predicted: Endocrinology | Endocrinology
+
+10:24:29 --->   row_id 4758 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | The correct medical specialty to choose in this scenario is:
+
+**General Medicine**
+
+This choice makes sense because the facial tic may require an initial assessment by a primary care physician who can evaluate the symptoms and refer the patient to a specialist if needed.
+
+10:29:23 --->   row_id 4767 - Actual: Cardiovascular / Pulmonary | Predicted: none | Hematology - Oncology
+
+10:31:45 --->   row_id 4772 - Actual: Cardiovascular / Pulmonary | Predicted: none | The appropriate medical specialty for managing blood clotting issues, such as high INR levels and anticoagulation therapy, is:
+
+**Hematology - Oncology**
+
+This specialty focuses on disorders of the blood and would be responsible for adjusting medications like Coumadin or switching to aspirin to manage clotting risks effectively.
+
+10:40:13 --->   row_id 4789 - Actual: Cardiovascular / Pulmonary | Predicted: Allergy / Immunology | The correct medical specialty for this patient's concerns is:
+
+**Allergy / Immunology**
+
+This choice is based on the patient's primary issues of worsening asthma and allergies, which are best addressed by an allergist or immunologist.
+
+10:41:06 --->   row_id 4791 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | General Medicine
+
+10:45:17 --->   row_id 4799 - Actual: Cardiovascular / Pulmonary | Predicted: Nephrology | Nephrology
+
+10:51:23 --->   row_id 4809 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | The appropriate medical specialty in this case is:
+
+**General Medicine**
+
+This conclusion is based on the patient's mild symptoms, normal test results, and the recommendation for follow-up with a primary care physician, indicating that no specific specialist referral was deemed necessary.
+
+10:52:11 --->   row_id 4811 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Gastroenterology
+
+10:59:44 --->   row_id 4827 - Actual: Cardiovascular / Pulmonary | Predicted: none | The correct medical specialty is:
+
+**Hematology - Oncology**
+
+This specialty deals with the diagnosis and treatment of cancers, including the use of chemotherapy ports for administering treatment.
+
+11:00:17 --->   row_id 4828 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Gastroenterology
+
+11:04:21 --->   row_id 4836 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | The correct medical specialty is: **General Medicine**
+
+11:06:46 --->   row_id 4837 - Actual: Cardiovascular / Pulmonary | Predicted: none | Hematology - Oncology
+
+11:11:07 --->   row_id 4844 - Actual: Cardiovascular / Pulmonary | Predicted: none | The correct medical specialty in this case is:
+
+**Hematology - Oncology**
+
+This specialty is appropriate because the patient's diagnosis of adenocarcinoma involves evaluating the cancer's spread through imaging and lymph node assessment, which falls under oncological management.
+
+11:14:18 --->   row_id 4850 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | The patient's symptoms were assessed across multiple systems including the heart, lungs, blood vessels, and chest bones. Since no issues were found, the most appropriate specialty is:
+
+**General Medicine**
+
+This choice is made because General Medicine provides comprehensive care for patients with normal findings across various systems, managing overall health and coordinating further care if needed.
+
+11:16:05 --->   row_id 4853 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | General Medicine
+
+11:29:08 --->   row_id 4877 - Actual: Cardiovascular / Pulmonary | Predicted: none | Hematology - Oncology
+
+11:29:52 --->   row_id 4878 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | The appropriate medical specialty for this individual, given their symptoms and test results, is:
+
+**General Medicine**
+
+This choice is based on the need for a comprehensive approach to manage chronic symptoms that don't fit neatly into a specific subspecialty, especially since cardiac issues have been ruled out. General Medicine physicians are well-suited to handle such cases.
+
+11:35:45 --->   row_id 4889 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | The correct medical specialty for this individual's current health issues is:
+
+**Gastroenterology**
+
+11:36:16 --->   row_id 4890 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | The correct medical specialty is:
+
+**General Medicine**
+
+This choice is based on her stable condition with no acute issues, chronic hypertension management, and the need for regular follow-ups without specific organ system concerns beyond what a generalist typically handles.
+
+11:37:11 --->   row_id 4892 - Actual: Cardiovascular / Pulmonary | Predicted: Sleep Medicine | **Sleep Medicine**
+
+The individual's primary concern is his reported snoring and observed stoppages in breathing during sleep, which strongly suggests obstructive sleep apnea. This condition can significantly impact overall health, including contributing to hypertension and cardiovascular issues. Therefore, Sleep Medicine is the most appropriate specialty for addressing these symptoms.
+
+11:38:02 --->   row_id 4893 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | The correct medical specialty based on the description is:
+
+**General Medicine**
+
+11:42:33 --->   row_id 4901 - Actual: Cardiovascular / Pulmonary | Predicted: none | The correct medical specialty for this patient's situation is **'Cardiovascular / Pulmonary'**. 
+
+This specialty addresses the heart disease, atrial fibrillation, and respiratory symptoms such as orthopnea and paroxysmal nocturnal dyspnea described in the patient's case. While diabetes is managed under Endocrinology, the primary focus here is on cardiovascular and pulmonary issues.
+
+11:43:32 --->   row_id 4902 - Actual: Cardiovascular / Pulmonary | Predicted: Endocrinology | Endocrinology
+
+11:44:04 --->   row_id 4903 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | The correct medical specialty based on the information provided is:
+
+**Gastroenterology**
+
+This specialty addresses conditions affecting the gastrointestinal tract, including duodenal cancer, making it the most relevant given the patient's primary diagnosis.
+
+11:45:32 --->   row_id 4905 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | The patient's symptoms suggest possible referral pain from the esophagus, potentially related to gastroesophageal reflux disease (GERD), especially given the occurrence after meals. Therefore, the most appropriate medical specialty to consult would be:
+
+**Gastroenterology**
+
+11:48:10 --->   row_id 4909 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Gastroenterology
+
+12:00:35 --->   row_id 4933 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | The correct medical specialty in this scenario is:
+
+**General Medicine**
+
+This specialty is appropriate because the primary issue involves an infection (osteomyelitis) requiring prolonged antibiotic therapy via a central line, which falls under the scope of managing systemic infections, typically handled by General Medicine.
+
+12:13:04 --->   row_id 4956 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | The appropriate medical specialty for this patient is:
+
+**General Medicine**
+
+This choice is based on the patient's complex, multi-organ system complications requiring comprehensive management.
+
+12:14:07 --->   row_id 4958 - Actual: Cardiovascular / Pulmonary | Predicted: none | The correct medical specialty is **Hematology - Oncology**.
+
+12:26:34 --->   row_id 4995 - Actual: Allergy / Immunology | Predicted: Rheumatology | The patient's case falls under **Rheumatology** because Kawasaki disease is a multisystem inflammatory condition managed primarily by rheumatologists, especially in pediatric cases.
+
+12:27:41 --->   row_id 4997 - Actual: Allergy / Immunology | Predicted: Cardiovascular / Pulmonary | Cardiovascular / Pulmonary
+
