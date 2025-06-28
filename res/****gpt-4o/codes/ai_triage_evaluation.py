@@ -148,6 +148,8 @@ def main(opt):
             'Gastroenterology',
             'Endocrinology'
         ]
+    
+    print(f"\nUsing {opt.llm_backend} ...\n")
 
     for idx, row in tqdm(data.iterrows(), total=len(data)):
         desc = row['description']
@@ -205,17 +207,8 @@ if __name__ == "__main__":
         opt = Box(yaml.safe_load(f))
     
     opt.cur_time    = get_cur_time()
-    
-    if opt.llm_backend == "api":
-        basename = opt.api_config.model
-    else:
-        basename = os.path.basename(opt.model_name)
-
-    print(f"\nUsing {basename} ...\n")
-
     opt.save_dir    = os.path.join(opt.save_dir, 
-                                   f"{opt.cur_time}_{basename}")
-
+                                   f"{opt.cur_time}_{os.path.basename(opt.model_name)}")
     opt.codes_dir   = os.path.join(opt.save_dir, "codes")
     opt.log_dir     = os.path.join(opt.save_dir, 'log')
 

@@ -1,0 +1,1611 @@
+03:17:26 --->   row_id 19 - Actual: General Medicine | Predicted: Gastroenterology | The correct medical specialty from the list provided is: **'Gastroenterology'**.
+
+03:17:28 --->   row_id 1457 - Actual: Sleep Medicine | Predicted: General Medicine | 'General Medicine'
+
+03:17:29 --->   row_id 1458 - Actual: Sleep Medicine | Predicted: General Medicine | 'General Medicine'
+
+03:17:30 --->   row_id 1459 - Actual: Sleep Medicine | Predicted: General Medicine | 'General Medicine'
+
+03:17:43 --->   row_id 1469 - Actual: Sleep Medicine | Predicted: General Medicine | 'General Medicine'
+
+03:17:45 --->   row_id 1470 - Actual: Sleep Medicine | Predicted: General Medicine | 'General Medicine'
+
+03:17:46 --->   row_id 1471 - Actual: Sleep Medicine | Predicted: General Medicine | 'General Medicine'
+
+03:17:47 --->   row_id 1472 - Actual: Sleep Medicine | Predicted: General Medicine | 'General Medicine'
+
+03:17:48 --->   row_id 1473 - Actual: Sleep Medicine | Predicted: General Medicine | 'General Medicine'
+
+03:18:16 --->   row_id 2979 - Actual: Nephrology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:18:57 --->   row_id 3011 - Actual: Nephrology | Predicted: General Medicine | 'General Medicine'
+
+03:19:01 --->   row_id 3014 - Actual: Nephrology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:19:10 --->   row_id 3020 - Actual: Nephrology | Predicted: none | 'Hematology - Oncology'
+
+03:19:19 --->   row_id 3026 - Actual: Nephrology | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:19:21 --->   row_id 3027 - Actual: Nephrology | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:19:26 --->   row_id 3031 - Actual: Nephrology | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:19:30 --->   row_id 3034 - Actual: Nephrology | Predicted: General Medicine | 'General Medicine'
+
+03:19:31 --->   row_id 3035 - Actual: Nephrology | Predicted: General Medicine | 'General Medicine'
+
+03:19:33 --->   row_id 3036 - Actual: Nephrology | Predicted: General Medicine | 'General Medicine'
+
+03:19:34 --->   row_id 3037 - Actual: Nephrology | Predicted: General Medicine | 'General Medicine'
+
+03:19:35 --->   row_id 3038 - Actual: Nephrology | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:19:39 --->   row_id 3039 - Actual: Nephrology | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:19:40 --->   row_id 3040 - Actual: Nephrology | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:19:42 --->   row_id 3041 - Actual: Nephrology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:19:45 --->   row_id 3043 - Actual: Nephrology | Predicted: Endocrinology | 'Endocrinology'
+
+03:19:46 --->   row_id 3044 - Actual: Nephrology | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:20:03 --->   row_id 3055 - Actual: Nephrology | Predicted: none | 'Hematology - Oncology'
+
+03:20:08 --->   row_id 3110 - Actual: Hematology - Oncology | Predicted: Endocrinology | 'Endocrinology'
+
+03:20:09 --->   row_id 3112 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:11 --->   row_id 3113 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:12 --->   row_id 3114 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:13 --->   row_id 3115 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:14 --->   row_id 3116 - Actual: Hematology - Oncology | Predicted: General Medicine | 'General Medicine'
+
+03:20:15 --->   row_id 3117 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:16 --->   row_id 3118 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:18 --->   row_id 3119 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:19 --->   row_id 3120 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:20 --->   row_id 3121 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:22 --->   row_id 3122 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:23 --->   row_id 3123 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:25 --->   row_id 3124 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:26 --->   row_id 3125 - Actual: Hematology - Oncology | Predicted: Nephrology | Nephrology
+
+03:20:28 --->   row_id 3126 - Actual: Hematology - Oncology | Predicted: Endocrinology | 'Endocrinology'
+
+03:20:30 --->   row_id 3127 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:31 --->   row_id 3128 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:32 --->   row_id 3129 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:34 --->   row_id 3130 - Actual: Hematology - Oncology | Predicted: General Medicine | The correct medical specialty is: **General Medicine**
+
+03:20:36 --->   row_id 3131 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:37 --->   row_id 3132 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:38 --->   row_id 3133 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:40 --->   row_id 3134 - Actual: Hematology - Oncology | Predicted: Endocrinology | 'Endocrinology'
+
+03:20:41 --->   row_id 3135 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:42 --->   row_id 3136 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:44 --->   row_id 3137 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:45 --->   row_id 3138 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:47 --->   row_id 3139 - Actual: Hematology - Oncology | Predicted: General Medicine | 'General Medicine'
+
+03:20:49 --->   row_id 3140 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:50 --->   row_id 3141 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:51 --->   row_id 3142 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:53 --->   row_id 3143 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:54 --->   row_id 3144 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:56 --->   row_id 3145 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:20:57 --->   row_id 3146 - Actual: Hematology - Oncology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:20:58 --->   row_id 3147 - Actual: Hematology - Oncology | Predicted: none | The correct medical specialty is: **'Hematology - Oncology'**
+
+03:21:00 --->   row_id 3148 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:01 --->   row_id 3149 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:03 --->   row_id 3150 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:05 --->   row_id 3151 - Actual: Hematology - Oncology | Predicted: General Medicine | 'General Medicine'
+
+03:21:06 --->   row_id 3152 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:07 --->   row_id 3153 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:09 --->   row_id 3154 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:10 --->   row_id 3155 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:12 --->   row_id 3156 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:14 --->   row_id 3157 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:15 --->   row_id 3158 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:17 --->   row_id 3159 - Actual: Hematology - Oncology | Predicted: Cardiovascular / Pulmonary | The correct medical specialty is: 'Cardiovascular / Pulmonary'
+
+03:21:18 --->   row_id 3160 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:20 --->   row_id 3161 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:21 --->   row_id 3162 - Actual: Hematology - Oncology | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:21:23 --->   row_id 3163 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:24 --->   row_id 3164 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:26 --->   row_id 3165 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:27 --->   row_id 3166 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:29 --->   row_id 3167 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:30 --->   row_id 3168 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:32 --->   row_id 3169 - Actual: Hematology - Oncology | Predicted: Cardiovascular / Pulmonary | The correct medical specialty is: 'Cardiovascular / Pulmonary'
+
+03:21:33 --->   row_id 3170 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:35 --->   row_id 3171 - Actual: Hematology - Oncology | Predicted: Endocrinology | 'Endocrinology'
+
+03:21:36 --->   row_id 3172 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:38 --->   row_id 3173 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:39 --->   row_id 3174 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:41 --->   row_id 3175 - Actual: Hematology - Oncology | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:21:43 --->   row_id 3176 - Actual: Hematology - Oncology | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:21:44 --->   row_id 3177 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:45 --->   row_id 3178 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:46 --->   row_id 3179 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:48 --->   row_id 3180 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:49 --->   row_id 3181 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:50 --->   row_id 3182 - Actual: Hematology - Oncology | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:21:52 --->   row_id 3183 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:53 --->   row_id 3184 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:55 --->   row_id 3185 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:56 --->   row_id 3186 - Actual: Hematology - Oncology | Predicted: General Medicine | 'General Medicine'
+
+03:21:57 --->   row_id 3187 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:21:58 --->   row_id 3188 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:22:00 --->   row_id 3189 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:22:01 --->   row_id 3190 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:22:03 --->   row_id 3191 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:22:13 --->   row_id 3192 - Actual: Hematology - Oncology | Predicted: General Medicine | 'Ophthalmology'  
+
+*(Note: Since 'Ophthalmology' wasn’t in the provided list, the closest relevant specialty from the given options would be:)*  
+
+**'General Medicine'**  
+
+*(However, this surgery is typically performed by an ophthalmologist or an oculoplastic surgeon, not a generalist.)*  
+
+If forced to choose strictly from the list without additional context, **'General Medicine'** is the least incorrect, but the answer is fundamentally flawed as the correct specialty isn’t listed.  
+
+**Key Issue**: The listed specialties do not include **Ophthalmology** or **Surgical Oncology**, which are the accurate fields for this procedure. A better answer would require the correct specialty to be among the options.  
+
+*(Hypothetically, if the question insists on selecting from the given list despite inaccuracy, I’d highlight this limitation but default to 'General Medicine' as a placeholder.)*  
+
+**Final forced-choice answer from the list**:  
+'General Medicine'
+
+03:22:15 --->   row_id 3193 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:22:16 --->   row_id 3194 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:22:17 --->   row_id 3195 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:22:18 --->   row_id 3196 - Actual: Hematology - Oncology | Predicted: General Medicine | 'General Medicine'
+
+03:22:20 --->   row_id 3197 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:22:21 --->   row_id 3198 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:22:23 --->   row_id 3199 - Actual: Hematology - Oncology | Predicted: General Medicine | 'General Medicine'
+
+03:22:28 --->   row_id 3202 - Actual: General Medicine | Predicted: Endocrinology | 'Endocrinology'
+
+03:22:29 --->   row_id 3203 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:22:30 --->   row_id 3204 - Actual: Hematology - Oncology | Predicted: none | 'Hematology - Oncology'
+
+03:22:31 --->   row_id 3205 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:22:37 --->   row_id 3208 - Actual: General Medicine | Predicted: none | Hematology - Oncology
+
+03:22:39 --->   row_id 3210 - Actual: General Medicine | Predicted: Nephrology | 'Nephrology'
+
+03:22:41 --->   row_id 3211 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:22:42 --->   row_id 3212 - Actual: General Medicine | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+03:22:45 --->   row_id 3214 - Actual: General Medicine | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+03:22:48 --->   row_id 3216 - Actual: General Medicine | Predicted: none | 'Hematology - Oncology'
+
+03:22:49 --->   row_id 3217 - Actual: General Medicine | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+03:22:50 --->   row_id 3218 - Actual: General Medicine | Predicted: Rheumatology | 'Rheumatology'
+
+03:22:53 --->   row_id 3220 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:22:54 --->   row_id 3221 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:22:55 --->   row_id 3222 - Actual: General Medicine | Predicted: Endocrinology | 'Endocrinology'
+
+03:22:56 --->   row_id 3223 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:22:58 --->   row_id 3224 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:23:03 --->   row_id 3227 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | The correct medical specialty is: 'Cardiovascular / Pulmonary'
+
+03:23:04 --->   row_id 3228 - Actual: General Medicine | Predicted: Nephrology | 'Nephrology'
+
+03:23:06 --->   row_id 3230 - Actual: General Medicine | Predicted: Sleep Medicine | "Sleep Medicine"
+
+03:23:10 --->   row_id 3232 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:23:47 --->   row_id 3259 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:23:54 --->   row_id 3264 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | The correct medical specialty is: 'Cardiovascular / Pulmonary'
+
+03:24:03 --->   row_id 3265 - Actual: General Medicine | Predicted: none | The correct medical specialties from the list provided that align with the described conditions and care are:  
+
+1. **Hematology - Oncology** (colon cancer follow-up with Dr. Z)  
+2. **Gastroenterology** (J-tube management with Dr. B, GERD, gastroparesis)  
+3. **Endocrinology** (diabetes management with Dr. A, hypoglycemia)  
+
+*(Note: While other specialties like cardiology or pulmonology would also be involved for heart failure and dyspnea, they were not options in the given list.)*  
+
+However, since the instruction specifies choosing ***one*** correct specialty **without any other response**, the best single answer is:  
+
+**Gastroenterology** (given the direct mention of Dr. B and multiple GI-related issues).  
+
+*(If multiple selections were allowed, Hematology-Oncology and Endocrinology would also be included.)*
+
+03:24:06 --->   row_id 3267 - Actual: General Medicine | Predicted: none | 'Hematology - Oncology'
+
+03:24:11 --->   row_id 3271 - Actual: General Medicine | Predicted: Allergy / Immunology | Allergy / Immunology
+
+03:24:12 --->   row_id 3272 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:24:14 --->   row_id 3273 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:24:15 --->   row_id 3274 - Actual: General Medicine | Predicted: Allergy / Immunology | Allergy / Immunology
+
+03:24:17 --->   row_id 3275 - Actual: General Medicine | Predicted: none | 'Hematology - Oncology'
+
+03:24:18 --->   row_id 3276 - Actual: General Medicine | Predicted: Endocrinology | 'Endocrinology'
+
+03:24:21 --->   row_id 3278 - Actual: General Medicine | Predicted: Endocrinology | 'Endocrinology'
+
+03:24:23 --->   row_id 3280 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:24:25 --->   row_id 3281 - Actual: General Medicine | Predicted: none | 'Hematology - Oncology'
+
+03:24:29 --->   row_id 3284 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:24:32 --->   row_id 3285 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:24:33 --->   row_id 3286 - Actual: General Medicine | Predicted: Endocrinology | 'Endocrinology'
+
+03:24:35 --->   row_id 3287 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:24:38 --->   row_id 3290 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:24:41 --->   row_id 3292 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:24:51 --->   row_id 3299 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:24:53 --->   row_id 3301 - Actual: General Medicine | Predicted: Endocrinology | 'Endocrinology'
+
+03:24:54 --->   row_id 3302 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:25:02 --->   row_id 3308 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:25:03 --->   row_id 3309 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:25:07 --->   row_id 3312 - Actual: General Medicine | Predicted: Nephrology | 'Nephrology'
+
+03:25:10 --->   row_id 3314 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | **Cardiovascular / Pulmonary**
+
+03:25:14 --->   row_id 3317 - Actual: General Medicine | Predicted: Endocrinology | The correct medical specialty is **'Endocrinology'**.
+
+03:25:15 --->   row_id 3318 - Actual: General Medicine | Predicted: Endocrinology | Endocrinology
+
+03:25:23 --->   row_id 3323 - Actual: General Medicine | Predicted: Endocrinology | 'Endocrinology'
+
+03:25:29 --->   row_id 3327 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:25:32 --->   row_id 3328 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:25:33 --->   row_id 3329 - Actual: General Medicine | Predicted: none | 'Hematology - Oncology'
+
+03:25:34 --->   row_id 3330 - Actual: General Medicine | Predicted: Rheumatology | **Rheumatology**
+
+03:25:36 --->   row_id 3331 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:25:37 --->   row_id 3332 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:25:42 --->   row_id 3335 - Actual: General Medicine | Predicted: Rheumatology | 'Rheumatology'
+
+03:25:43 --->   row_id 3336 - Actual: General Medicine | Predicted: Nephrology | 'Nephrology'
+
+03:25:46 --->   row_id 3338 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:25:47 --->   row_id 3339 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:25:49 --->   row_id 3340 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:25:59 --->   row_id 3345 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:26:01 --->   row_id 3346 - Actual: General Medicine | Predicted: Gastroenterology | Gastroenterology
+
+03:26:02 --->   row_id 3347 - Actual: General Medicine | Predicted: Rheumatology | 'Rheumatology'
+
+03:26:04 --->   row_id 3348 - Actual: General Medicine | Predicted: Endocrinology | 'Endocrinology'
+
+03:26:05 --->   row_id 3349 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:26:07 --->   row_id 3350 - Actual: General Medicine | Predicted: Endocrinology | 'Endocrinology'
+
+03:26:09 --->   row_id 3352 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:26:13 --->   row_id 3355 - Actual: General Medicine | Predicted: none | 'Hematology - Oncology'
+
+03:26:15 --->   row_id 3356 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:26:16 --->   row_id 3357 - Actual: General Medicine | Predicted: none | 'Hematology - Oncology'
+
+03:26:18 --->   row_id 3358 - Actual: General Medicine | Predicted: Allergy / Immunology | 'Allergy / Immunology'
+
+03:26:20 --->   row_id 3360 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:26:22 --->   row_id 3361 - Actual: General Medicine | Predicted: Allergy / Immunology | 'Allergy / Immunology'
+
+03:26:28 --->   row_id 3365 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:26:35 --->   row_id 3370 - Actual: General Medicine | Predicted: Rheumatology | 'Rheumatology'
+
+03:26:36 --->   row_id 3371 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | **Cardiovascular / Pulmonary**
+
+03:26:42 --->   row_id 3375 - Actual: General Medicine | Predicted: Endocrinology | **Endocrinology**
+
+03:26:44 --->   row_id 3377 - Actual: General Medicine | Predicted: Nephrology | 'Nephrology'
+
+03:26:45 --->   row_id 3378 - Actual: General Medicine | Predicted: Nephrology | 'Nephrology'
+
+03:26:52 --->   row_id 3383 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:26:58 --->   row_id 3387 - Actual: General Medicine | Predicted: Endocrinology | 'Endocrinology'
+
+03:27:13 --->   row_id 3396 - Actual: General Medicine | Predicted: none | The correct medical specialty from the list provided is: **'Cardiovascular / Pulmonary'**.  
+
+(Note: While the patient’s bladder cancer falls under **'Hematology - Oncology'**, the primary focus of the question—given ischemia, stenting of coronary arteries (LAD/RCA), and post-procedural care—best aligns with **'Cardiovascular / Pulmonary'**.)
+
+03:27:14 --->   row_id 3397 - Actual: General Medicine | Predicted: none | 'Hematology - Oncology'
+
+03:27:16 --->   row_id 3398 - Actual: General Medicine | Predicted: none | 'Hematology - Oncology'
+
+03:27:21 --->   row_id 3401 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:27:23 --->   row_id 3403 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:27:25 --->   row_id 3405 - Actual: General Medicine | Predicted: none | none
+
+03:27:25 --->   row_id 3406 - Actual: General Medicine | Predicted: none | none
+
+03:27:25 --->   row_id 3407 - Actual: General Medicine | Predicted: none | none
+
+03:27:25 --->   row_id 3408 - Actual: General Medicine | Predicted: none | none
+
+03:27:25 --->   row_id 3409 - Actual: General Medicine | Predicted: none | none
+
+03:27:25 --->   row_id 3410 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3411 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3412 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3413 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3414 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3415 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3416 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3417 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3418 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3419 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3420 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3421 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3422 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3423 - Actual: General Medicine | Predicted: none | none
+
+03:27:26 --->   row_id 3424 - Actual: General Medicine | Predicted: none | none
+
+03:27:27 --->   row_id 3426 - Actual: General Medicine | Predicted: none | none
+
+03:27:28 --->   row_id 3427 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:27:28 --->   row_id 3428 - Actual: General Medicine | Predicted: none | none
+
+03:27:31 --->   row_id 3429 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:27:32 --->   row_id 3430 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:27:32 --->   row_id 3431 - Actual: General Medicine | Predicted: none | none
+
+03:27:32 --->   row_id 3432 - Actual: General Medicine | Predicted: none | none
+
+03:27:32 --->   row_id 3433 - Actual: General Medicine | Predicted: none | none
+
+03:27:32 --->   row_id 3434 - Actual: General Medicine | Predicted: none | none
+
+03:27:32 --->   row_id 3435 - Actual: General Medicine | Predicted: none | none
+
+03:27:32 --->   row_id 3436 - Actual: General Medicine | Predicted: none | none
+
+03:27:34 --->   row_id 3437 - Actual: General Medicine | Predicted: none | 'Hematology - Oncology'
+
+03:27:36 --->   row_id 3438 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:27:37 --->   row_id 3439 - Actual: General Medicine | Predicted: none | 'Hematology - Oncology'
+
+03:27:40 --->   row_id 3442 - Actual: General Medicine | Predicted: none | none
+
+03:27:40 --->   row_id 3443 - Actual: General Medicine | Predicted: none | none
+
+03:27:40 --->   row_id 3444 - Actual: General Medicine | Predicted: none | none
+
+03:27:40 --->   row_id 3445 - Actual: General Medicine | Predicted: none | none
+
+03:27:42 --->   row_id 3446 - Actual: General Medicine | Predicted: none | 'Hematology - Oncology'
+
+03:27:43 --->   row_id 3447 - Actual: General Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:27:43 --->   row_id 3448 - Actual: General Medicine | Predicted: none | none
+
+03:27:43 --->   row_id 3449 - Actual: General Medicine | Predicted: none | none
+
+03:27:43 --->   row_id 3450 - Actual: General Medicine | Predicted: none | none
+
+03:27:43 --->   row_id 3451 - Actual: General Medicine | Predicted: none | none
+
+03:27:45 --->   row_id 3452 - Actual: General Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:27:45 --->   row_id 3453 - Actual: General Medicine | Predicted: none | none
+
+03:27:45 --->   row_id 3454 - Actual: General Medicine | Predicted: none | none
+
+03:27:45 --->   row_id 3455 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:45 --->   row_id 3456 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:45 --->   row_id 3457 - Actual: General Medicine | Predicted: none | none
+
+03:27:46 --->   row_id 3458 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:46 --->   row_id 3459 - Actual: General Medicine | Predicted: none | none
+
+03:27:46 --->   row_id 3460 - Actual: General Medicine | Predicted: none | none
+
+03:27:46 --->   row_id 3461 - Actual: General Medicine | Predicted: none | none
+
+03:27:46 --->   row_id 3462 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:46 --->   row_id 3463 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:46 --->   row_id 3464 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:46 --->   row_id 3465 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:46 --->   row_id 3466 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:46 --->   row_id 3467 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:46 --->   row_id 3468 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:46 --->   row_id 3469 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:46 --->   row_id 3470 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3471 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3472 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3473 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3474 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3475 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3476 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3477 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3478 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3479 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3480 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3481 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3482 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3483 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:47 --->   row_id 3484 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:49 --->   row_id 3486 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:49 --->   row_id 3487 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:49 --->   row_id 3488 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:49 --->   row_id 3489 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:49 --->   row_id 3490 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:49 --->   row_id 3491 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:49 --->   row_id 3492 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:51 --->   row_id 3493 - Actual: Gastroenterology | Predicted: General Medicine | 'General Medicine'
+
+03:27:52 --->   row_id 3495 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:52 --->   row_id 3496 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:52 --->   row_id 3497 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:52 --->   row_id 3498 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:52 --->   row_id 3499 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:52 --->   row_id 3500 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:52 --->   row_id 3501 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3503 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3504 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3505 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3506 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3507 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3508 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3509 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3510 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3511 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3512 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3513 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3514 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:54 --->   row_id 3515 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:59 --->   row_id 3518 - Actual: Gastroenterology | Predicted: General Medicine | 'General Medicine'
+
+03:27:59 --->   row_id 3519 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:59 --->   row_id 3520 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:59 --->   row_id 3521 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:59 --->   row_id 3522 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:59 --->   row_id 3523 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:59 --->   row_id 3524 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:59 --->   row_id 3525 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:59 --->   row_id 3526 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:59 --->   row_id 3527 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:59 --->   row_id 3528 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:59 --->   row_id 3529 - Actual: Gastroenterology | Predicted: none | none
+
+03:27:59 --->   row_id 3530 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:01 --->   row_id 3532 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:01 --->   row_id 3533 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:01 --->   row_id 3534 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:01 --->   row_id 3535 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:01 --->   row_id 3536 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:01 --->   row_id 3537 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:01 --->   row_id 3538 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:01 --->   row_id 3539 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:01 --->   row_id 3540 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:04 --->   row_id 3543 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:04 --->   row_id 3544 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:04 --->   row_id 3545 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:04 --->   row_id 3546 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:04 --->   row_id 3547 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:04 --->   row_id 3548 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:04 --->   row_id 3549 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:04 --->   row_id 3550 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:05 --->   row_id 3551 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:07 --->   row_id 3554 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:07 --->   row_id 3555 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:07 --->   row_id 3556 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:07 --->   row_id 3557 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:07 --->   row_id 3558 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:07 --->   row_id 3559 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:12 --->   row_id 3563 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:12 --->   row_id 3564 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:12 --->   row_id 3565 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:12 --->   row_id 3566 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:12 --->   row_id 3567 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:12 --->   row_id 3568 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:12 --->   row_id 3569 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:15 --->   row_id 3572 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:15 --->   row_id 3573 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:15 --->   row_id 3574 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:15 --->   row_id 3575 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:15 --->   row_id 3576 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:18 --->   row_id 3579 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:20 --->   row_id 3581 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:20 --->   row_id 3582 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:20 --->   row_id 3583 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3584 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3585 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3586 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3587 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3588 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3589 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3590 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3591 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3592 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3593 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3594 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3595 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:21 --->   row_id 3596 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:22 --->   row_id 3597 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:24 --->   row_id 3600 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:24 --->   row_id 3601 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:24 --->   row_id 3602 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:24 --->   row_id 3603 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:24 --->   row_id 3604 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:24 --->   row_id 3605 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:24 --->   row_id 3606 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:24 --->   row_id 3607 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:26 --->   row_id 3608 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+03:28:26 --->   row_id 3609 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:26 --->   row_id 3610 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:26 --->   row_id 3611 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:26 --->   row_id 3612 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:26 --->   row_id 3613 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:26 --->   row_id 3614 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:26 --->   row_id 3615 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:26 --->   row_id 3616 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:30 --->   row_id 3618 - Actual: Gastroenterology | Predicted: General Medicine | 'General Medicine'
+
+03:28:33 --->   row_id 3621 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:33 --->   row_id 3622 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:33 --->   row_id 3623 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:33 --->   row_id 3624 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:35 --->   row_id 3626 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:35 --->   row_id 3627 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:35 --->   row_id 3628 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3629 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3630 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3631 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3632 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3633 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3634 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3635 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3636 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3637 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3638 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3639 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3640 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3641 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:36 --->   row_id 3642 - Actual: Gastroenterology | Predicted: none | none
+
+03:28:49 --->   row_id 3651 - Actual: Gastroenterology | Predicted: General Medicine | 'General Medicine'
+
+03:29:01 --->   row_id 3659 - Actual: Gastroenterology | Predicted: none | The correct medical specialty is: **'Hematology - Oncology'**
+
+03:29:02 --->   row_id 3660 - Actual: Gastroenterology | Predicted: General Medicine | 'General Medicine'
+
+03:29:05 --->   row_id 3663 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3664 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3665 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3666 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3667 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3668 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3669 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3670 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3671 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3672 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3673 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3674 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3675 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3676 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:06 --->   row_id 3677 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:08 --->   row_id 3678 - Actual: Gastroenterology | Predicted: General Medicine | 'General Medicine'
+
+03:29:08 --->   row_id 3679 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:08 --->   row_id 3680 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:08 --->   row_id 3681 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:08 --->   row_id 3682 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:08 --->   row_id 3683 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:08 --->   row_id 3684 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:10 --->   row_id 3686 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:10 --->   row_id 3688 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:10 --->   row_id 3689 - Actual: Gastroenterology | Predicted: none | none
+
+03:29:10 --->   row_id 3786 - Actual: Endocrinology | Predicted: none | none
+
+03:29:10 --->   row_id 3788 - Actual: Endocrinology | Predicted: none | none
+
+03:29:10 --->   row_id 3789 - Actual: Endocrinology | Predicted: none | none
+
+03:29:10 --->   row_id 3790 - Actual: Endocrinology | Predicted: none | none
+
+03:29:10 --->   row_id 3791 - Actual: Endocrinology | Predicted: none | none
+
+03:29:10 --->   row_id 3792 - Actual: Endocrinology | Predicted: none | none
+
+03:29:10 --->   row_id 3793 - Actual: Endocrinology | Predicted: none | none
+
+03:29:11 --->   row_id 3794 - Actual: Endocrinology | Predicted: none | none
+
+03:29:11 --->   row_id 3795 - Actual: Endocrinology | Predicted: none | none
+
+03:29:11 --->   row_id 3796 - Actual: Endocrinology | Predicted: none | none
+
+03:29:11 --->   row_id 3797 - Actual: Endocrinology | Predicted: none | none
+
+03:29:11 --->   row_id 3798 - Actual: Endocrinology | Predicted: none | none
+
+03:29:11 --->   row_id 3799 - Actual: Endocrinology | Predicted: none | none
+
+03:29:11 --->   row_id 3800 - Actual: Endocrinology | Predicted: none | none
+
+03:29:11 --->   row_id 3801 - Actual: Endocrinology | Predicted: none | none
+
+03:29:11 --->   row_id 3803 - Actual: Endocrinology | Predicted: none | none
+
+03:29:11 --->   row_id 3805 - Actual: Endocrinology | Predicted: none | none
+
+03:29:11 --->   row_id 3808 - Actual: Endocrinology | Predicted: none | none
+
+03:29:12 --->   row_id 3811 - Actual: Endocrinology | Predicted: none | none
+
+03:29:13 --->   row_id 4611 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:13 --->   row_id 4612 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:13 --->   row_id 4613 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:13 --->   row_id 4614 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:13 --->   row_id 4616 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:13 --->   row_id 4617 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:13 --->   row_id 4618 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:15 --->   row_id 4619 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:29:15 --->   row_id 4620 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:15 --->   row_id 4621 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:15 --->   row_id 4622 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:15 --->   row_id 4623 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:15 --->   row_id 4624 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:15 --->   row_id 4625 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:17 --->   row_id 4627 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:17 --->   row_id 4628 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:17 --->   row_id 4629 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:17 --->   row_id 4630 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:19 --->   row_id 4632 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:19 --->   row_id 4633 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:19 --->   row_id 4634 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:19 --->   row_id 4635 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:19 --->   row_id 4636 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:19 --->   row_id 4637 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:21 --->   row_id 4638 - Actual: Cardiovascular / Pulmonary | Predicted: none | 'Hematology - Oncology'
+
+03:29:21 --->   row_id 4639 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:21 --->   row_id 4640 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:21 --->   row_id 4641 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:21 --->   row_id 4642 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:21 --->   row_id 4643 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:21 --->   row_id 4644 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:23 --->   row_id 4645 - Actual: Cardiovascular / Pulmonary | Predicted: none | 'Hematology - Oncology'
+
+03:29:24 --->   row_id 4646 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | 'General Medicine'
+
+03:29:25 --->   row_id 4647 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:30 --->   row_id 4651 - Actual: Cardiovascular / Pulmonary | Predicted: Nephrology | The correct medical specialty is: 'Nephrology'
+
+03:29:30 --->   row_id 4652 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:31 --->   row_id 4653 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:32 --->   row_id 4655 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:32 --->   row_id 4656 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:32 --->   row_id 4657 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:32 --->   row_id 4658 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:32 --->   row_id 4659 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:32 --->   row_id 4660 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:32 --->   row_id 4661 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:36 --->   row_id 4665 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:36 --->   row_id 4666 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4667 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4668 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4669 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4670 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4671 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4672 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4673 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4674 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4675 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4676 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4677 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4678 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:37 --->   row_id 4679 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:39 --->   row_id 4681 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:39 --->   row_id 4682 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:39 --->   row_id 4683 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:39 --->   row_id 4684 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:39 --->   row_id 4685 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:40 --->   row_id 4686 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:41 --->   row_id 4688 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:41 --->   row_id 4689 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:41 --->   row_id 4690 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:41 --->   row_id 4691 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:41 --->   row_id 4692 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:41 --->   row_id 4693 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:41 --->   row_id 4694 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:41 --->   row_id 4695 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:41 --->   row_id 4696 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4697 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4698 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4699 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4700 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4701 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4702 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4703 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4704 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4705 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4706 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4707 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4708 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4709 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:42 --->   row_id 4710 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:44 --->   row_id 4711 - Actual: Cardiovascular / Pulmonary | Predicted: none | 'Hematology - Oncology'
+
+03:29:45 --->   row_id 4713 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:45 --->   row_id 4714 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4715 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4716 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4717 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4718 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4719 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4720 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4721 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4722 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4723 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4724 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4725 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4726 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4727 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:46 --->   row_id 4728 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:50 --->   row_id 4731 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:50 --->   row_id 4732 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:50 --->   row_id 4733 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:52 --->   row_id 4734 - Actual: Cardiovascular / Pulmonary | Predicted: none | 'Hematology - Oncology'
+
+03:29:52 --->   row_id 4735 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:52 --->   row_id 4736 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:52 --->   row_id 4737 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:52 --->   row_id 4738 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:52 --->   row_id 4739 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:52 --->   row_id 4740 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:52 --->   row_id 4741 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:52 --->   row_id 4742 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:52 --->   row_id 4743 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:52 --->   row_id 4744 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:29:54 --->   row_id 4745 - Actual: Cardiovascular / Pulmonary | Predicted: none | 'Hematology - Oncology'
+
+03:29:55 --->   row_id 4746 - Actual: Cardiovascular / Pulmonary | Predicted: none | 'Hematology - Oncology'
+
+03:29:56 --->   row_id 4747 - Actual: Cardiovascular / Pulmonary | Predicted: none | 'Hematology - Oncology'
+
+03:29:58 --->   row_id 4748 - Actual: Cardiovascular / Pulmonary | Predicted: none | 'Hematology - Oncology'
+
+03:30:06 --->   row_id 4754 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | 'General Medicine'
+
+03:30:06 --->   row_id 4755 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:06 --->   row_id 4756 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:06 --->   row_id 4757 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:06 --->   row_id 4758 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:06 --->   row_id 4759 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:06 --->   row_id 4760 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:06 --->   row_id 4761 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4762 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4763 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4764 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4765 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4766 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4767 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4768 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4769 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4770 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4771 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4772 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4773 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:07 --->   row_id 4774 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:08 --->   row_id 4775 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4777 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4778 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4779 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4780 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4781 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4782 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4783 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4784 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4785 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4786 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4787 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4788 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:09 --->   row_id 4789 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4790 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4791 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4792 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4793 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4794 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4795 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4796 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4797 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4798 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4799 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4800 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4801 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:10 --->   row_id 4802 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:12 --->   row_id 4804 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:12 --->   row_id 4805 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:12 --->   row_id 4806 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:12 --->   row_id 4807 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:12 --->   row_id 4808 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:12 --->   row_id 4809 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:16 --->   row_id 4811 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | 'Gastroenterology'
+
+03:30:17 --->   row_id 4813 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4814 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4815 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4816 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4817 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4818 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4819 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4820 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4821 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4822 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4823 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4824 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4825 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4826 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:18 --->   row_id 4827 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:20 --->   row_id 4828 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | 'General Medicine'
+
+03:30:20 --->   row_id 4829 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:20 --->   row_id 4830 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:20 --->   row_id 4831 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:20 --->   row_id 4832 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:20 --->   row_id 4833 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:20 --->   row_id 4834 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:22 --->   row_id 4836 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:22 --->   row_id 4837 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:22 --->   row_id 4838 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:22 --->   row_id 4839 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:22 --->   row_id 4840 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:22 --->   row_id 4841 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:22 --->   row_id 4842 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:22 --->   row_id 4843 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4844 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4845 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4846 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4847 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4848 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4849 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4850 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4851 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4852 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4853 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4854 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4855 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4856 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:23 --->   row_id 4857 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:25 --->   row_id 4859 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:25 --->   row_id 4860 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:25 --->   row_id 4861 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:25 --->   row_id 4862 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:25 --->   row_id 4863 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:25 --->   row_id 4864 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:25 --->   row_id 4865 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:25 --->   row_id 4866 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:25 --->   row_id 4867 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:25 --->   row_id 4868 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:25 --->   row_id 4869 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4870 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4871 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4872 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4873 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4874 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4875 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4876 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4877 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4878 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4879 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4880 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4881 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4882 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:26 --->   row_id 4883 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:28 --->   row_id 4884 - Actual: Cardiovascular / Pulmonary | Predicted: General Medicine | 'General Medicine'
+
+03:30:29 --->   row_id 4886 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:31 --->   row_id 4888 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:31 --->   row_id 4889 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:31 --->   row_id 4890 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:31 --->   row_id 4891 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:31 --->   row_id 4892 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:31 --->   row_id 4893 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:31 --->   row_id 4894 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:31 --->   row_id 4895 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:31 --->   row_id 4896 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:31 --->   row_id 4897 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:31 --->   row_id 4898 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:33 --->   row_id 4900 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:33 --->   row_id 4901 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:33 --->   row_id 4902 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:33 --->   row_id 4903 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:33 --->   row_id 4904 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:33 --->   row_id 4905 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:33 --->   row_id 4906 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:33 --->   row_id 4907 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:33 --->   row_id 4908 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:33 --->   row_id 4909 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4910 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4911 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4912 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4913 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4914 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4915 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4916 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4917 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4918 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4919 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4920 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4921 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:34 --->   row_id 4922 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:36 --->   row_id 4924 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:36 --->   row_id 4925 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:36 --->   row_id 4926 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:36 --->   row_id 4927 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:36 --->   row_id 4928 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:36 --->   row_id 4929 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:36 --->   row_id 4930 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:36 --->   row_id 4931 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:36 --->   row_id 4932 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:36 --->   row_id 4933 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4934 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4935 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4936 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4937 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4938 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4939 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4940 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4941 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4942 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4943 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4944 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4945 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4946 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:37 --->   row_id 4947 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:48 --->   row_id 4955 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:48 --->   row_id 4956 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:48 --->   row_id 4957 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:48 --->   row_id 4958 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:48 --->   row_id 4959 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:48 --->   row_id 4960 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:54 --->   row_id 4965 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:54 --->   row_id 4966 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:54 --->   row_id 4967 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:54 --->   row_id 4968 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:54 --->   row_id 4969 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:54 --->   row_id 4970 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:56 --->   row_id 4972 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:56 --->   row_id 4973 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:56 --->   row_id 4974 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:56 --->   row_id 4975 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:56 --->   row_id 4976 - Actual: Cardiovascular / Pulmonary | Predicted: none | none
+
+03:30:56 --->   row_id 4993 - Actual: Allergy / Immunology | Predicted: none | none
+
+03:30:57 --->   row_id 4994 - Actual: Allergy / Immunology | Predicted: none | none
+
+03:30:57 --->   row_id 4995 - Actual: Allergy / Immunology | Predicted: none | none
+
+03:30:57 --->   row_id 4996 - Actual: Allergy / Immunology | Predicted: none | none
+
+03:30:57 --->   row_id 4997 - Actual: Allergy / Immunology | Predicted: none | none
+
+03:30:57 --->   row_id 4998 - Actual: Allergy / Immunology | Predicted: none | none
+
