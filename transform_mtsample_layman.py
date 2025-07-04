@@ -27,7 +27,7 @@ def generate_layman_description(description, transcription):
 # Prepare new dataset list
 new_dataset = []
 # Load the original dataset
-data = pd.read_csv('datasets/mtsamples_internal_medicine.csv')
+data = pd.read_csv('datasets/mtsamples_selected_medicine_cleaned.csv')
 
 # Iterate through dataset and create layman entries
 for idx, row in tqdm(data.iterrows(), total=len(data)):

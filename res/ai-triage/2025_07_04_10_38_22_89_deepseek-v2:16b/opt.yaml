@@ -1,0 +1,15 @@
+ai_triage_format: whole
+model_name: deepseek-v2:16b
+specialty_similarity: 0.8
+data_root: datasets/mtsamples_layman_v3.csv
+save_dir: res/2025_07_04_10_38_22_89_deepseek-v2:16b
+api_config:
+  model: gpt-4.1
+  base_url: https://api.ai.it.ufl.edu/v1
+  api_key: sk-JoOzBJv4uLYVjOKFU5if1w
+llm_backend: ollama
+debug: false
+cur_time: '2025_07_04_10_38_22_89'
+basename: deepseek-v2:16b
+codes_dir: res/2025_07_04_10_38_22_89_deepseek-v2:16b/codes
+log_dir: res/2025_07_04_10_38_22_89_deepseek-v2:16b/log

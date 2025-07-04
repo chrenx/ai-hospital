@@ -1,0 +1,244 @@
+02:42:10 --->   row_id 27 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:42:18 --->   row_id 33 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:42:23 --->   row_id 36 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:42:37 --->   row_id 50 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:42:43 --->   row_id 58 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:42:46 --->   row_id 60 - Actual: Urology | Predicted: Psychiatry / Psychology | Psychiatry / Psychology
+
+02:42:57 --->   row_id 70 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:43:03 --->   row_id 81 - Actual: Urology | Predicted: Psychiatry / Psychology | Psychiatry / Psychology
+
+02:43:04 --->   row_id 83 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:43:09 --->   row_id 90 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:43:13 --->   row_id 95 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:43:21 --->   row_id 101 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:43:24 --->   row_id 103 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:43:36 --->   row_id 111 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:43:54 --->   row_id 138 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:44:32 --->   row_id 167 - Actual: Urology | Predicted: Psychiatry / Psychology | Psychiatry / Psychology
+
+02:44:42 --->   row_id 180 - Actual: Urology | Predicted: Gastroenterology | Gastroenterology
+
+02:45:03 --->   row_id 1470 - Actual: Sleep Medicine | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+02:45:15 --->   row_id 1481 - Actual: Rheumatology | Predicted: Cardiovascular / Pulmonary | Cardiovascular / Pulmonary
+
+02:45:17 --->   row_id 1482 - Actual: Rheumatology | Predicted: Dermatology | 'Dermatology'
+
+02:45:18 --->   row_id 1483 - Actual: Rheumatology | Predicted: none | Neurology
+
+02:45:22 --->   row_id 1487 - Actual: Rheumatology | Predicted: Orthopedic | Orthopedic
+
+02:46:38 --->   row_id 1777 - Actual: Psychiatry / Psychology | Predicted: none | api-error
+
+02:46:42 --->   row_id 1782 - Actual: Psychiatry / Psychology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+02:46:46 --->   row_id 1791 - Actual: Psychiatry / Psychology | Predicted: Sleep Medicine | Sleep Medicine
+
+02:46:47 --->   row_id 1792 - Actual: Psychiatry / Psychology | Predicted: none | Neurology
+
+02:46:50 --->   row_id 1795 - Actual: Psychiatry / Psychology | Predicted: none | Neurology
+
+02:46:57 --->   row_id 1800 - Actual: Psychiatry / Psychology | Predicted: none | api-error
+
+02:46:58 --->   row_id 1801 - Actual: Psychiatry / Psychology | Predicted: none | api-error
+
+02:47:00 --->   row_id 1805 - Actual: Psychiatry / Psychology | Predicted: none | api-error
+
+02:47:09 --->   row_id 1818 - Actual: Psychiatry / Psychology | Predicted: none | Toxicology is the correct specialty for poisoning, but since it's not an option on your list, I would suggest consulting a 'Gastroenterology' specialist as they deal with the digestive system and could help identify if poison ingestion is the cause. Additionally, 'Psychiatry / Psychology' might be relevant if the symptoms are due to anxiety or psychological factors. However, an immediate visit to the emergency room is highly recommended.
+
+02:47:39 --->   row_id 2048 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+02:47:43 --->   row_id 2055 - Actual: Orthopedic | Predicted: Cardiovascular / Pulmonary | Cardiovascular / Pulmonary
+
+02:47:57 --->   row_id 2061 - Actual: Orthopedic | Predicted: Rheumatology | Rheumatology
+
+02:48:13 --->   row_id 2077 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+02:49:00 --->   row_id 2120 - Actual: Orthopedic | Predicted: none | Neurology
+
+02:49:01 --->   row_id 2123 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+02:49:17 --->   row_id 2149 - Actual: Orthopedic | Predicted: none | Neurology
+
+02:50:07 --->   row_id 2198 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+02:50:13 --->   row_id 2202 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+02:50:34 --->   row_id 2223 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+02:51:10 --->   row_id 2262 - Actual: Orthopedic | Predicted: Rheumatology | Rheumatology
+
+02:51:15 --->   row_id 2267 - Actual: Orthopedic | Predicted: Sleep Medicine | Sleep Medicine
+
+02:51:24 --->   row_id 2274 - Actual: Orthopedic | Predicted: none | Neurology
+
+02:52:27 --->   row_id 2330 - Actual: Orthopedic | Predicted: Dermatology | Dermatology
+
+02:52:55 --->   row_id 2350 - Actual: Orthopedic | Predicted: Cardiovascular / Pulmonary | Cardiovascular / Pulmonary
+
+02:53:45 --->   row_id 2425 - Actual: Ophthalmology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:54:08 --->   row_id 3456 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:54:15 --->   row_id 3467 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+02:54:35 --->   row_id 3486 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | Cardiovascular / Pulmonary
+
+02:54:38 --->   row_id 3488 - Actual: Gastroenterology | Predicted: Urology | Urology
+
+02:54:41 --->   row_id 3490 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | Cardiovascular / Pulmonary
+
+02:54:44 --->   row_id 3492 - Actual: Gastroenterology | Predicted: Urology | Urology
+
+02:55:19 --->   row_id 3522 - Actual: Gastroenterology | Predicted: Orthopedic | Orthopedic
+
+02:55:26 --->   row_id 3529 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:55:38 --->   row_id 3540 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:55:46 --->   row_id 3547 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:55:47 --->   row_id 3548 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:55:51 --->   row_id 3551 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+02:56:08 --->   row_id 3566 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | Cardiovascular / Pulmonary
+
+02:56:14 --->   row_id 3577 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:56:20 --->   row_id 3585 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:56:22 --->   row_id 3590 - Actual: Gastroenterology | Predicted: Endocrinology | Endocrinology
+
+02:56:26 --->   row_id 3597 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:56:58 --->   row_id 3641 - Actual: Gastroenterology | Predicted: Psychiatry / Psychology | Psychiatry / Psychology
+
+02:57:03 --->   row_id 3644 - Actual: Gastroenterology | Predicted: Sleep Medicine | Sleep Medicine
+
+02:57:16 --->   row_id 3654 - Actual: Gastroenterology | Predicted: Sleep Medicine | Sleep Medicine
+
+02:57:17 --->   row_id 3655 - Actual: Gastroenterology | Predicted: Sleep Medicine | Sleep Medicine
+
+02:57:35 --->   row_id 3671 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+02:57:36 --->   row_id 3672 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:57:42 --->   row_id 3678 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:57:45 --->   row_id 3681 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+02:58:06 --->   row_id 3696 - Actual: ENT - Otolaryngology | Predicted: Cardiovascular / Pulmonary | Cardiovascular / Pulmonary
+
+02:58:21 --->   row_id 3708 - Actual: ENT - Otolaryngology | Predicted: Cardiovascular / Pulmonary | Cardiovascular / Pulmonary
+
+02:58:40 --->   row_id 3724 - Actual: ENT - Otolaryngology | Predicted: Orthopedic | Orthopedic
+
+02:59:35 --->   row_id 3786 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:59:38 --->   row_id 3788 - Actual: Endocrinology | Predicted: Cardiovascular / Pulmonary | Cardiovascular / Pulmonary
+
+02:59:40 --->   row_id 3789 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+02:59:41 --->   row_id 3790 - Actual: Endocrinology | Predicted: Cardiovascular / Pulmonary | Cardiovascular / Pulmonary
+
+02:59:43 --->   row_id 3791 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+02:59:45 --->   row_id 3792 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:59:46 --->   row_id 3794 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:59:49 --->   row_id 3797 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+02:59:51 --->   row_id 3798 - Actual: Endocrinology | Predicted: Orthopedic | Orthopedic
+
+02:59:52 --->   row_id 3799 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+02:59:54 --->   row_id 3801 - Actual: Endocrinology | Predicted: none | Hematology - Oncology
+
+02:59:55 --->   row_id 3808 - Actual: Endocrinology | Predicted: Gastroenterology | Gastroenterology
+
+02:59:57 --->   row_id 3811 - Actual: Endocrinology | Predicted: Sleep Medicine | Sleep Medicine
+
+03:00:03 --->   row_id 4003 - Actual: Dermatology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+03:00:06 --->   row_id 4008 - Actual: Dermatology | Predicted: Gastroenterology | Gastroenterology
+
+03:00:14 --->   row_id 4015 - Actual: Dermatology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+03:00:17 --->   row_id 4019 - Actual: Dermatology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+03:00:18 --->   row_id 4023 - Actual: Dermatology | Predicted: Gastroenterology | Gastroenterology
+
+03:00:24 --->   row_id 4616 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | Orthopedic
+
+03:00:45 --->   row_id 4631 - Actual: Cardiovascular / Pulmonary | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+03:00:53 --->   row_id 4637 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | Orthopedic
+
+03:01:07 --->   row_id 4646 - Actual: Cardiovascular / Pulmonary | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+03:01:11 --->   row_id 4652 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Gastroenterology
+
+03:01:21 --->   row_id 4665 - Actual: Cardiovascular / Pulmonary | Predicted: Endocrinology | Endocrinology
+
+03:01:57 --->   row_id 4689 - Actual: Cardiovascular / Pulmonary | Predicted: Sleep Medicine | Sleep Medicine
+
+03:02:02 --->   row_id 4694 - Actual: Cardiovascular / Pulmonary | Predicted: Rheumatology | 'Rheumatology'
+
+03:02:10 --->   row_id 4700 - Actual: Cardiovascular / Pulmonary | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+03:02:43 --->   row_id 4720 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Gastroenterology
+
+03:03:17 --->   row_id 4754 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Gastroenterology
+
+03:03:23 --->   row_id 4758 - Actual: Cardiovascular / Pulmonary | Predicted: Psychiatry / Psychology | Psychiatry / Psychology
+
+03:03:26 --->   row_id 4760 - Actual: Cardiovascular / Pulmonary | Predicted: Psychiatry / Psychology | Psychiatry / Psychology
+
+03:03:33 --->   row_id 4764 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | Orthopedic
+
+03:04:02 --->   row_id 4789 - Actual: Cardiovascular / Pulmonary | Predicted: Allergy / Immunology | Allergy / Immunology
+
+03:04:53 --->   row_id 4830 - Actual: Cardiovascular / Pulmonary | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+03:05:53 --->   row_id 4880 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | Orthopedic
+
+03:05:58 --->   row_id 4885 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | Orthopedic
+
+03:06:03 --->   row_id 4888 - Actual: Cardiovascular / Pulmonary | Predicted: Sleep Medicine | Sleep Medicine
+
+03:06:04 --->   row_id 4889 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Gastroenterology
+
+03:06:15 --->   row_id 4900 - Actual: Cardiovascular / Pulmonary | Predicted: Psychiatry / Psychology | Psychiatry / Psychology
+
+03:06:16 --->   row_id 4902 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | Orthopedic
+
+03:06:49 --->   row_id 4924 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | Orthopedic
+
+03:07:35 --->   row_id 4961 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | Orthopedic
+
+03:07:42 --->   row_id 4965 - Actual: Cardiovascular / Pulmonary | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+03:07:52 --->   row_id 4974 - Actual: Cardiovascular / Pulmonary | Predicted: Psychiatry / Psychology | Psychiatry / Psychology
+
+03:07:57 --->   row_id 4993 - Actual: Allergy / Immunology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+03:07:59 --->   row_id 4994 - Actual: Allergy / Immunology | Predicted: ENT - Otolaryngology | ENT - Otolaryngology
+
+03:08:00 --->   row_id 4995 - Actual: Allergy / Immunology | Predicted: none | Pediatrics
+

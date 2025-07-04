@@ -1,0 +1,339 @@
+00:57:50 --->   row_id 27 - Actual: Urology | Predicted: Gastroenterology | 'Gastroenterology'
+
+00:57:57 --->   row_id 33 - Actual: Urology | Predicted: Gastroenterology | 'Gastroenterology'
+
+00:58:02 --->   row_id 36 - Actual: Urology | Predicted: Gastroenterology | 'Gastroenterology'
+
+00:58:14 --->   row_id 50 - Actual: Urology | Predicted: Gastroenterology | 'Gastroenterology'
+
+00:58:20 --->   row_id 58 - Actual: Urology | Predicted: Gastroenterology | 'Gastroenterology'
+
+00:58:24 --->   row_id 60 - Actual: Urology | Predicted: Psychiatry / Psychology | 'Psychiatry / Psychology'
+
+00:58:31 --->   row_id 66 - Actual: Urology | Predicted: Nephrology | 'Nephrology'
+
+00:58:34 --->   row_id 70 - Actual: Urology | Predicted: Gastroenterology | **Gastroenterology**
+
+00:58:42 --->   row_id 81 - Actual: Urology | Predicted: Psychiatry / Psychology | None of the specialties are directly relevant to the described condition ("I feel fine right now, no pain or discomfort"). If forced to choose, the least inappropriate might be:  
+
+'Psychiatry / Psychology' (as the statement is about subjective well-being).  
+
+However, the correct answer is that **no specialty is needed** based on the given information.  
+
+(Note: If the instruction strictly requires selecting one, the answer would be 'Psychiatry / Psychology', but this is an edge case.)
+
+00:58:43 --->   row_id 83 - Actual: Urology | Predicted: Gastroenterology | 'Gastroenterology'
+
+00:58:52 --->   row_id 95 - Actual: Urology | Predicted: Gastroenterology | 'Gastroenterology'
+
+00:59:04 --->   row_id 101 - Actual: Urology | Predicted: Gastroenterology | 'Gastroenterology'
+
+00:59:06 --->   row_id 103 - Actual: Urology | Predicted: Gastroenterology | 'Gastroenterology'
+
+00:59:34 --->   row_id 138 - Actual: Urology | Predicted: Gastroenterology | 'Gastroenterology'
+
+00:59:59 --->   row_id 167 - Actual: Urology | Predicted: Psychiatry / Psychology | There isn't enough information to definitively choose a medical specialty, as the absence of pain or discomfort could apply to many situations. However, if no further context is provided, the most neutral choice might be:  
+
+**Psychiatry / Psychology**  
+
+(Note: This is based on the lack of physical symptoms suggesting a mental health context, but additional details would be needed for a precise answer.)  
+
+If this is insufficient, please provide more context about the patient or scenario.
+
+01:00:03 --->   row_id 171 - Actual: Urology | Predicted: Nephrology | 'Nephrology'
+
+01:00:06 --->   row_id 180 - Actual: Urology | Predicted: Gastroenterology | 'Gastroenterology'
+
+01:00:20 --->   row_id 1467 - Actual: Sleep Medicine | Predicted: Gastroenterology | 'Gastroenterology'
+
+01:00:25 --->   row_id 1470 - Actual: Sleep Medicine | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:00:37 --->   row_id 1481 - Actual: Rheumatology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:00:38 --->   row_id 1482 - Actual: Rheumatology | Predicted: Dermatology | Dermatology
+
+01:00:42 --->   row_id 1483 - Actual: Rheumatology | Predicted: none | 'Neurology' (Note: Since 'Neurology' is not in the provided list, the closest possible option based on the symptoms described would be 'Orthopedic' for potential musculoskeletal involvement, though a neurological cause is more likely. For an accurate match, 'Neurology' should ideally be included in the list.)  
+
+**If strictly limited to the given options:** 'Orthopedic'.  
+
+(However, the symptoms strongly suggest a neurological issue, such as myopathy, neuropathy, or spinal cord pathology, which would typically fall under Neurology.)
+
+01:00:45 --->   row_id 1487 - Actual: Rheumatology | Predicted: Orthopedic | 'Orthopedic'
+
+01:01:09 --->   row_id 1782 - Actual: Psychiatry / Psychology | Predicted: none | 'Neurology' (Note: Although "Neurology" wasn't in the original list, it would be the most appropriate specialty for these symptoms. If strictly limited to the provided options, the next best choice might be 'Cardiovascular / Pulmonary' due to potential circulatory or respiratory causes of weakness and unresponsiveness, though this is less precise.)  
+
+**Strictly from the given list:** 'Cardiovascular / Pulmonary'
+
+01:01:12 --->   row_id 1791 - Actual: Psychiatry / Psychology | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+01:01:19 --->   row_id 1792 - Actual: Psychiatry / Psychology | Predicted: none | 'Neurology'  
+
+*(Note: Since 'Neurology' was not in your original list, the closest relevant specialty from your provided options would be 'Rheumatology' for potential autoimmune or inflammatory causes, but neurological symptoms like foot dragging and coordination issues strongly suggest Neurology as the correct fit. If strictly limited to your list, 'Rheumatology' may be considered as a secondary option.)*  
+
+**However, the most accurate answer is Neurology.** Would you like to include it in your list for a precise response?
+
+01:01:24 --->   row_id 1795 - Actual: Psychiatry / Psychology | Predicted: none | 'Neurology'  
+
+(Note: Since 'Neurology' was not listed in the original options, the closest relevant specialty from the provided list would be 'Cardiovascular / Pulmonary' if considering migraines or blood pressure issues, or 'Ophthalmology' if focusing on the vision symptoms. However, neurology is the most accurate specialty for these symptoms.)
+
+01:01:32 --->   row_id 1800 - Actual: Psychiatry / Psychology | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+01:02:02 --->   row_id 2034 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:02:12 --->   row_id 2048 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:02:23 --->   row_id 2061 - Actual: Orthopedic | Predicted: Rheumatology | Rheumatology
+
+01:02:38 --->   row_id 2077 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:03:02 --->   row_id 2100 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:03:04 --->   row_id 2101 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:03:08 --->   row_id 2106 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:03:22 --->   row_id 2120 - Actual: Orthopedic | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:03:44 --->   row_id 2149 - Actual: Orthopedic | Predicted: none | 'Neurology'  
+
+*(Note: Since 'Neurology' was not in the original list, the most relevant specialty from the provided options for weakness, swallowing difficulty, and numbness would be:)*  
+
+**'Cardiovascular / Pulmonary'** (if considering potential neurological overlap like Guillain-Barré syndrome or myasthenia gravis, but strictly from the list, this is the closest).  
+
+*(However, the symptoms are classically neurological. If permitted to suggest outside the list, 'Neurology' is unequivocally correct.)*  
+
+Given the constraints: **'Cardiovascular / Pulmonary'** (as some neuromuscular conditions may involve respiratory muscles).  
+
+*(For clinical accuracy, a neurological evaluation is essential.)*  
+
+**Final answer from the list:**  
+**'Cardiovascular / Pulmonary'**
+
+01:04:01 --->   row_id 2164 - Actual: Orthopedic | Predicted: none | 'Neurology' 
+
+(Note: Since 'Neurology' was not in the original list, the closest relevant specialty from the provided options would be **'Orthopedic'**, but this may not be the most accurate fit. Numbness and walking difficulties often point to neurological or spinal issues, which might require a neurologist or specialist in **'Rheumatology'** if related to autoimmune conditions. For strict adherence to your instructions, I’ll select **'Rheumatology'** as the closest possible match from the given list.)  
+
+**Final answer (from original list):** 'Rheumatology'  
+
+(If possible, consider adding 'Neurology' to the list for a more precise match.)
+
+01:04:49 --->   row_id 2211 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:04:55 --->   row_id 2216 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:05:10 --->   row_id 2240 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:05:14 --->   row_id 2241 - Actual: Orthopedic | Predicted: none | 'Neurology' 
+
+(Note: Since 'Neurology' was not listed in the provided options, the next most relevant specialty from the given list for unilateral weakness and mobility issues would be 'Orthopedic'.)  
+
+**Correct response from the provided list:**  
+**'Orthopedic'**
+
+01:05:32 --->   row_id 2262 - Actual: Orthopedic | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:05:37 --->   row_id 2267 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:05:42 --->   row_id 2271 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:05:49 --->   row_id 2274 - Actual: Orthopedic | Predicted: none | 'Neurology'  
+
+(Note: Since 'Neurology' was not in the original list, the most relevant specialty from the provided options would be 'Orthopedic', but neurological symptoms like numbness, tingling, and dragging a leg are typically under 'Neurology'.)  
+
+If strictly limited to the given list: **'Orthopedic'** (though this is less precise for neurological symptoms).
+
+01:06:09 --->   row_id 2296 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:06:35 --->   row_id 2318 - Actual: Orthopedic | Predicted: Rheumatology | 'Rheumatology'
+
+01:07:06 --->   row_id 2345 - Actual: Orthopedic | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:07:14 --->   row_id 2350 - Actual: Orthopedic | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:08:00 --->   row_id 2425 - Actual: Ophthalmology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:08:23 --->   row_id 3456 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:08:30 --->   row_id 3467 - Actual: Gastroenterology | Predicted: none | 'Cardiovascular / Pulmonary' or 'Gastroenterology'
+
+01:08:44 --->   row_id 3483 - Actual: Gastroenterology | Predicted: Urology | 'Urology'
+
+01:08:48 --->   row_id 3486 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:08:52 --->   row_id 3488 - Actual: Gastroenterology | Predicted: Urology | 'Urology'
+
+01:08:55 --->   row_id 3490 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:08:57 --->   row_id 3492 - Actual: Gastroenterology | Predicted: Urology | 'Urology'
+
+01:09:39 --->   row_id 3522 - Actual: Gastroenterology | Predicted: none | 'Neurology' 
+
+(Note: Since 'Neurology' was not in the provided list, the next most appropriate choice would be:  
+'ENT - Otolaryngology')  
+
+However, given the symptoms described (headache, pain at the back of the head after trauma, confusion, fatigue), the correct specialty should be **Neurology** (or **Neurosurgery** if structural injury is suspected). If strictly limited to the options provided, none perfectly fit, but 'ENT - Otolaryngology' might address head trauma in some contexts.  
+
+For precision, the list should include **Neurology** or **Emergency Medicine**.  
+
+**Clarified answer (if forced to choose from the given list):** 'ENT - Otolaryngology' (though suboptimal).  
+
+(If the list were expanded, 'Neurology' would be the correct answer.)
+
+01:09:45 --->   row_id 3529 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:09:56 --->   row_id 3540 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:10:02 --->   row_id 3547 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:10:03 --->   row_id 3548 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:10:22 --->   row_id 3566 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:10:28 --->   row_id 3577 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:10:35 --->   row_id 3590 - Actual: Gastroenterology | Predicted: Endocrinology | 'Endocrinology'
+
+01:11:12 --->   row_id 3641 - Actual: Gastroenterology | Predicted: Psychiatry / Psychology | Since the description "I feel fine. No pain or discomfort" does not indicate any specific medical issue, none of the listed specialties are directly applicable. However, if forced to choose without additional context, the most neutral option might be:  
+
+**Psychiatry / Psychology**  
+
+(Note: This is an inference based on general well-being rather than a clear medical concern.)
+
+01:11:15 --->   row_id 3644 - Actual: Gastroenterology | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+01:11:26 --->   row_id 3654 - Actual: Gastroenterology | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+01:11:28 --->   row_id 3655 - Actual: Gastroenterology | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+01:11:37 --->   row_id 3659 - Actual: Gastroenterology | Predicted: none | 'Cardiovascular / Pulmonary' OR 'Gastroenterology'  
+
+(Note: Given the symptoms—night sweats, shortness of breath (cardiovascular/pulmonary concern), and acid reflux (gastrointestinal concern)—the two most relevant specialties would be these. A single definitive choice cannot be made without further evaluation, but these are the top candidates.)  
+
+However, if strictly **one** choice is required: **'Cardiovascular / Pulmonary'** (as shortness of breath and night sweats can indicate serious conditions like heart failure or pulmonary issues, which may warrant priority evaluation over reflux).  
+
+(Your prompt requested no other response, but clinical accuracy demands context. If forced to pick **one**: 'Cardiovascular / Pulmonary'.)
+
+01:11:49 --->   row_id 3671 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:11:56 --->   row_id 3678 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:11:58 --->   row_id 3681 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:12:11 --->   row_id 3692 - Actual: ENT - Otolaryngology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:12:17 --->   row_id 3696 - Actual: ENT - Otolaryngology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:12:31 --->   row_id 3708 - Actual: ENT - Otolaryngology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:12:49 --->   row_id 3724 - Actual: ENT - Otolaryngology | Predicted: Orthopedic | 'Orthopedic'
+
+01:12:53 --->   row_id 3732 - Actual: ENT - Otolaryngology | Predicted: Allergy / Immunology | 'Allergy / Immunology'
+
+01:13:35 --->   row_id 3786 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:13:38 --->   row_id 3788 - Actual: Endocrinology | Predicted: Cardiovascular / Pulmonary | 'Cardiovascular / Pulmonary'
+
+01:13:40 --->   row_id 3789 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:13:41 --->   row_id 3790 - Actual: Endocrinology | Predicted: Nephrology | 'Nephrology'
+
+01:13:42 --->   row_id 3791 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:13:44 --->   row_id 3792 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:13:45 --->   row_id 3794 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:13:48 --->   row_id 3797 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:13:49 --->   row_id 3798 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:13:50 --->   row_id 3799 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:13:52 --->   row_id 3801 - Actual: Endocrinology | Predicted: none | 'Hematology - Oncology'
+
+01:13:53 --->   row_id 3808 - Actual: Endocrinology | Predicted: Gastroenterology | 'Gastroenterology'
+
+01:13:55 --->   row_id 3811 - Actual: Endocrinology | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+01:14:00 --->   row_id 4003 - Actual: Dermatology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:14:03 --->   row_id 4008 - Actual: Dermatology | Predicted: Gastroenterology | 'Gastroenterology'
+
+01:14:07 --->   row_id 4013 - Actual: Dermatology | Predicted: Rheumatology | 'Rheumatology'
+
+01:14:11 --->   row_id 4019 - Actual: Dermatology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:14:13 --->   row_id 4023 - Actual: Dermatology | Predicted: Gastroenterology | 'Gastroenterology'
+
+01:14:18 --->   row_id 4616 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | 'Orthopedic'
+
+01:14:34 --->   row_id 4631 - Actual: Cardiovascular / Pulmonary | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:14:43 --->   row_id 4637 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | 'Orthopedic'
+
+01:14:55 --->   row_id 4646 - Actual: Cardiovascular / Pulmonary | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:14:58 --->   row_id 4652 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | 'Gastroenterology'
+
+01:15:09 --->   row_id 4665 - Actual: Cardiovascular / Pulmonary | Predicted: Endocrinology | 'Endocrinology'
+
+01:15:29 --->   row_id 4689 - Actual: Cardiovascular / Pulmonary | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+01:15:34 --->   row_id 4694 - Actual: Cardiovascular / Pulmonary | Predicted: Rheumatology | 'Rheumatology'
+
+01:15:36 --->   row_id 4697 - Actual: Cardiovascular / Pulmonary | Predicted: Nephrology | 'Nephrology'
+
+01:15:41 --->   row_id 4700 - Actual: Cardiovascular / Pulmonary | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:16:01 --->   row_id 4720 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | 'Gastroenterology'
+
+01:16:34 --->   row_id 4758 - Actual: Cardiovascular / Pulmonary | Predicted: Psychiatry / Psychology | 'Psychiatry / Psychology'
+
+01:16:41 --->   row_id 4760 - Actual: Cardiovascular / Pulmonary | Predicted: Psychiatry / Psychology | Since the person is feeling fine and has no pain or discomfort, none of the listed specialties are directly relevant. However, if we must choose from the given options without additional input, the answer would be:  
+
+**None applicable.**  
+
+(If forced to select, a general follow-up might involve **Psychiatry / Psychology**, as routine mental health checkups can be relevant even without physical symptoms, but this is speculative.)  
+
+*Note: The prompt restricts the response to a single specialty without explanation, but logically, no medical specialty is needed based on the given statement.*
+
+01:16:43 --->   row_id 4762 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | **Gastroenterology**
+
+01:16:46 --->   row_id 4764 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | 'Orthopedic'
+
+01:17:57 --->   row_id 4830 - Actual: Cardiovascular / Pulmonary | Predicted: Allergy / Immunology | 'Allergy / Immunology'
+
+01:18:50 --->   row_id 4880 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | 'Orthopedic'
+
+01:18:55 --->   row_id 4885 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | 'Orthopedic'
+
+01:19:02 --->   row_id 4889 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Gastroenterology
+
+01:19:03 --->   row_id 4892 - Actual: Cardiovascular / Pulmonary | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+01:19:21 --->   row_id 4900 - Actual: Cardiovascular / Pulmonary | Predicted: Psychiatry / Psychology | Since the description indicates no pain or discomfort and the person is feeling fine, none of the listed medical specialties are relevant at this time. However, if forced to choose the most neutral option, it would be:  
+
+**'Psychiatry / Psychology'** (as general well-being could be loosely related to mental health, though no issues are reported).  
+
+But strictly speaking, no specialty applies to the given statement.
+
+01:19:22 --->   row_id 4902 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | 'Orthopedic'
+
+01:19:50 --->   row_id 4924 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | 'Orthopedic'
+
+01:20:32 --->   row_id 4961 - Actual: Cardiovascular / Pulmonary | Predicted: Orthopedic | 'Orthopedic'
+
+01:20:38 --->   row_id 4965 - Actual: Cardiovascular / Pulmonary | Predicted: Sleep Medicine | 'Sleep Medicine'
+
+01:20:49 --->   row_id 4974 - Actual: Cardiovascular / Pulmonary | Predicted: Psychiatry / Psychology | Given the statement "I feel fine right now, no pain," which indicates no active symptoms or concerns, none of the listed medical specialties are directly relevant. However, if forced to choose the most neutral or general option, the answer would be:  
+
+**Psychiatry / Psychology**  
+
+(Since mental well-being is implied by "feeling fine," though no specialty is truly necessary based on the statement.)
+
+01:20:54 --->   row_id 4993 - Actual: Allergy / Immunology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:20:55 --->   row_id 4994 - Actual: Allergy / Immunology | Predicted: ENT - Otolaryngology | 'ENT - Otolaryngology'
+
+01:20:56 --->   row_id 4995 - Actual: Allergy / Immunology | Predicted: Dermatology | 'Dermatology'
+

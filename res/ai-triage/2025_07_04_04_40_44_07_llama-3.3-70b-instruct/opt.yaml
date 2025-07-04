@@ -1,0 +1,15 @@
+ai_triage_format: whole
+model_name: llama-3.3-70b-instruct
+specialty_similarity: 0.8
+data_root: datasets/mtsamples_layman_v3.csv
+save_dir: res/2025_07_04_04_40_44_07_llama-3.3-70b-instruct
+api_config:
+  model: gpt-4.1
+  base_url: https://api.ai.it.ufl.edu/v1
+  api_key: sk-JoOzBJv4uLYVjOKFU5if1w
+llm_backend: api
+debug: false
+cur_time: '2025_07_04_04_40_44_07'
+basename: llama-3.3-70b-instruct
+codes_dir: res/2025_07_04_04_40_44_07_llama-3.3-70b-instruct/codes
+log_dir: res/2025_07_04_04_40_44_07_llama-3.3-70b-instruct/log

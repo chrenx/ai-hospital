@@ -1,0 +1,694 @@
+10:38:33 --->   row_id 27 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:36 --->   row_id 33 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:37 --->   row_id 34 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:38 --->   row_id 36 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:42 --->   row_id 47 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:43 --->   row_id 50 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:46 --->   row_id 58 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:47 --->   row_id 60 - Actual: Urology | Predicted: Psychiatry / Psychology | Specialty: Psychiatry / Psychology
+
+10:38:47 --->   row_id 62 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:50 --->   row_id 66 - Actual: Urology | Predicted: none | Specialty: Nephrology
+
+10:38:51 --->   row_id 70 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:51 --->   row_id 75 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:53 --->   row_id 78 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:53 --->   row_id 81 - Actual: Urology | Predicted: none | Specialty: Primary Care
+
+10:38:54 --->   row_id 83 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:55 --->   row_id 90 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:56 --->   row_id 91 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:57 --->   row_id 95 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:38:58 --->   row_id 98 - Actual: Urology | Predicted: Orthopedic | Specialty: Orthopedic
+
+10:39:00 --->   row_id 100 - Actual: Urology | Predicted: Orthopedic | Specialty: Orthopedic
+
+10:39:00 --->   row_id 101 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:39:01 --->   row_id 103 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:39:04 --->   row_id 108 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:39:05 --->   row_id 110 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:39:06 --->   row_id 111 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:39:13 --->   row_id 138 - Actual: Urology | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:39:21 --->   row_id 167 - Actual: Urology | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:39:24 --->   row_id 180 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:39:32 --->   row_id 1470 - Actual: Sleep Medicine | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:39:33 --->   row_id 1473 - Actual: Sleep Medicine | Predicted: Psychiatry / Psychology | Specialty: Psychiatry / Psychology
+
+10:39:36 --->   row_id 1481 - Actual: Rheumatology | Predicted: none | Specialty: Pulmonology
+
+10:39:37 --->   row_id 1482 - Actual: Rheumatology | Predicted: Dermatology | Specialty: Dermatology
+
+10:39:39 --->   row_id 1487 - Actual: Rheumatology | Predicted: Orthopedic | Specialty: Orthopedic
+
+10:39:47 --->   row_id 1782 - Actual: Psychiatry / Psychology | Predicted: Urology | Specialty: Neurology
+
+10:39:48 --->   row_id 1791 - Actual: Psychiatry / Psychology | Predicted: Sleep Medicine | Specialty: Sleep Medicine
+
+10:39:48 --->   row_id 1792 - Actual: Psychiatry / Psychology | Predicted: Urology | Specialty: Neurology
+
+10:39:50 --->   row_id 1795 - Actual: Psychiatry / Psychology | Predicted: Urology | Specialty: Neurology
+
+10:39:51 --->   row_id 1798 - Actual: Psychiatry / Psychology | Predicted: Urology | Specialty: Neurology
+
+10:39:54 --->   row_id 1805 - Actual: Psychiatry / Psychology | Predicted: Sleep Medicine | Specialty: Sleep Medicine
+
+10:39:59 --->   row_id 2018 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:01 --->   row_id 2020 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:01 --->   row_id 2021 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:03 --->   row_id 2025 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:03 --->   row_id 2027 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:04 --->   row_id 2034 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:05 --->   row_id 2038 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:06 --->   row_id 2044 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:07 --->   row_id 2045 - Actual: Orthopedic | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:40:07 --->   row_id 2046 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:08 --->   row_id 2047 - Actual: Orthopedic | Predicted: Urology | Specialty: Neurology
+
+10:40:09 --->   row_id 2048 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:09 --->   row_id 2050 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:13 --->   row_id 2060 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:13 --->   row_id 2061 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:14 --->   row_id 2062 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:14 --->   row_id 2063 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:16 --->   row_id 2068 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:19 --->   row_id 2077 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:20 --->   row_id 2078 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:23 --->   row_id 2089 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:25 --->   row_id 2092 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:26 --->   row_id 2094 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:26 --->   row_id 2095 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:27 --->   row_id 2096 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:27 --->   row_id 2097 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:29 --->   row_id 2100 - Actual: Orthopedic | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:40:30 --->   row_id 2101 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:31 --->   row_id 2106 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:33 --->   row_id 2108 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:33 --->   row_id 2109 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:34 --->   row_id 2111 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:35 --->   row_id 2113 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:35 --->   row_id 2114 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:36 --->   row_id 2117 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:37 --->   row_id 2120 - Actual: Orthopedic | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:40:38 --->   row_id 2123 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:39 --->   row_id 2125 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:39 --->   row_id 2126 - Actual: Orthopedic | Predicted: Urology | Specialty: Neurology
+
+10:40:40 --->   row_id 2128 - Actual: Orthopedic | Predicted: Urology | Specialty: Neurology
+
+10:40:41 --->   row_id 2132 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:42 --->   row_id 2137 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:44 --->   row_id 2149 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:45 --->   row_id 2150 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:48 --->   row_id 2162 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:49 --->   row_id 2164 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:52 --->   row_id 2169 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:55 --->   row_id 2177 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:56 --->   row_id 2179 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:57 --->   row_id 2181 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:58 --->   row_id 2182 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:58 --->   row_id 2183 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:40:59 --->   row_id 2184 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:03 --->   row_id 2199 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:04 --->   row_id 2201 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:05 --->   row_id 2202 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:06 --->   row_id 2203 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:07 --->   row_id 2205 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:07 --->   row_id 2206 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:09 --->   row_id 2210 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:10 --->   row_id 2211 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:11 --->   row_id 2213 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:12 --->   row_id 2216 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:12 --->   row_id 2218 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:14 --->   row_id 2231 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:15 --->   row_id 2232 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:15 --->   row_id 2234 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:16 --->   row_id 2235 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:16 --->   row_id 2237 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:17 --->   row_id 2238 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:18 --->   row_id 2240 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:19 --->   row_id 2241 - Actual: Orthopedic | Predicted: Urology | Specialty: Neurology
+
+10:41:21 --->   row_id 2246 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:23 --->   row_id 2251 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:24 --->   row_id 2254 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:25 --->   row_id 2261 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:26 --->   row_id 2262 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:27 --->   row_id 2263 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:28 --->   row_id 2267 - Actual: Orthopedic | Predicted: none | Specialty: Internal Medicine
+
+10:41:29 --->   row_id 2268 - Actual: Orthopedic | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:41:30 --->   row_id 2271 - Actual: Orthopedic | Predicted: Rheumatology | Specialist: Rheumatology
+
+10:41:32 --->   row_id 2274 - Actual: Orthopedic | Predicted: Urology | Specialty: Neurology
+
+10:41:34 --->   row_id 2279 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:35 --->   row_id 2281 - Actual: Orthopedic | Predicted: Urology | Specialty: Neurology
+
+10:41:35 --->   row_id 2282 - Actual: Orthopedic | Predicted: Urology | Specialty: Neurology
+
+10:41:36 --->   row_id 2284 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:36 --->   row_id 2287 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:38 --->   row_id 2291 - Actual: Orthopedic | Predicted: Urology | Specialty: Neurology
+
+10:41:38 --->   row_id 2293 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:40 --->   row_id 2296 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:41 --->   row_id 2299 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:42 --->   row_id 2300 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:45 --->   row_id 2306 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:45 --->   row_id 2307 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:48 --->   row_id 2313 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:49 --->   row_id 2317 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:50 --->   row_id 2318 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:54 --->   row_id 2326 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:55 --->   row_id 2330 - Actual: Orthopedic | Predicted: Dermatology | Specialty: Dermatology
+
+10:41:56 --->   row_id 2332 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:58 --->   row_id 2335 - Actual: Orthopedic | Predicted: Urology | Specialty: Neurology
+
+10:41:58 --->   row_id 2336 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:41:59 --->   row_id 2338 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:00 --->   row_id 2339 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:00 --->   row_id 2340 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:01 --->   row_id 2341 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:01 --->   row_id 2342 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:02 --->   row_id 2343 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:03 --->   row_id 2344 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:03 --->   row_id 2345 - Actual: Orthopedic | Predicted: Urology | Specialty: Neurology
+
+10:42:04 --->   row_id 2346 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:04 --->   row_id 2347 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:05 --->   row_id 2348 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:06 --->   row_id 2350 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:07 --->   row_id 2351 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:07 --->   row_id 2352 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:08 --->   row_id 2354 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:09 --->   row_id 2355 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:09 --->   row_id 2356 - Actual: Orthopedic | Predicted: Urology | Specialty: Neurology
+
+10:42:10 --->   row_id 2357 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:11 --->   row_id 2358 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:12 --->   row_id 2361 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:13 --->   row_id 2363 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:42:25 --->   row_id 2425 - Actual: Ophthalmology | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:42:34 --->   row_id 3456 - Actual: Gastroenterology | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:42:37 --->   row_id 3467 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:42:42 --->   row_id 3483 - Actual: Gastroenterology | Predicted: Urology | Specialty: Urology
+
+10:42:44 --->   row_id 3486 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:42:46 --->   row_id 3490 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:43:01 --->   row_id 3522 - Actual: Gastroenterology | Predicted: none | Specialty: Trauma / Emergency Medicine
+
+10:43:14 --->   row_id 3552 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:43:20 --->   row_id 3566 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:43:39 --->   row_id 3641 - Actual: Gastroenterology | Predicted: none | Specialty: Primary Care
+
+10:43:41 --->   row_id 3644 - Actual: Gastroenterology | Predicted: none | Specialty: Internal Medicine
+
+10:43:46 --->   row_id 3654 - Actual: Gastroenterology | Predicted: none | Specialty: Primary Care
+
+10:43:46 --->   row_id 3655 - Actual: Gastroenterology | Predicted: Sleep Medicine | Specialty: Sleep Medicine
+
+10:43:47 --->   row_id 3659 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:43:52 --->   row_id 3670 - Actual: Gastroenterology | Predicted: Urology | Specialty: Urology
+
+10:43:56 --->   row_id 3678 - Actual: Gastroenterology | Predicted: none | Specialty: Pulmonology
+
+10:43:57 --->   row_id 3681 - Actual: Gastroenterology | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:44:05 --->   row_id 3695 - Actual: ENT - Otolaryngology | Predicted: none | Specialty: Pulmonology
+
+10:44:06 --->   row_id 3696 - Actual: ENT - Otolaryngology | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:44:12 --->   row_id 3708 - Actual: ENT - Otolaryngology | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:44:20 --->   row_id 3724 - Actual: ENT - Otolaryngology | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:44:22 --->   row_id 3731 - Actual: ENT - Otolaryngology | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:44:26 --->   row_id 3746 - Actual: ENT - Otolaryngology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:44:29 --->   row_id 3751 - Actual: ENT - Otolaryngology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:44:33 --->   row_id 3761 - Actual: ENT - Otolaryngology | Predicted: none | Specialty: Otolaryngology
+
+10:44:41 --->   row_id 3786 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:44:43 --->   row_id 3788 - Actual: Endocrinology | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:44:43 --->   row_id 3789 - Actual: Endocrinology | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+10:44:44 --->   row_id 3791 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:44:45 --->   row_id 3792 - Actual: Endocrinology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:44:46 --->   row_id 3794 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:44:47 --->   row_id 3797 - Actual: Endocrinology | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:44:48 --->   row_id 3798 - Actual: Endocrinology | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:44:48 --->   row_id 3799 - Actual: Endocrinology | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:44:49 --->   row_id 3801 - Actual: Endocrinology | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:44:49 --->   row_id 3808 - Actual: Endocrinology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:44:50 --->   row_id 3811 - Actual: Endocrinology | Predicted: Sleep Medicine | Specialty: Sleep Medicine
+
+10:44:52 --->   row_id 4003 - Actual: Dermatology | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:44:53 --->   row_id 4008 - Actual: Dermatology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:44:56 --->   row_id 4015 - Actual: Dermatology | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:44:58 --->   row_id 4019 - Actual: Dermatology | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:45:08 --->   row_id 4631 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Pulmonology
+
+10:45:11 --->   row_id 4637 - Actual: Cardiovascular / Pulmonary | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:45:17 --->   row_id 4646 - Actual: Cardiovascular / Pulmonary | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:45:18 --->   row_id 4652 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:45:22 --->   row_id 4665 - Actual: Cardiovascular / Pulmonary | Predicted: Psychiatry / Psychology | Specialty: Psychiatry / Psychology
+
+10:45:27 --->   row_id 4677 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Pulmonology
+
+10:45:31 --->   row_id 4689 - Actual: Cardiovascular / Pulmonary | Predicted: Sleep Medicine | Specialty: Sleep Medicine
+
+10:45:33 --->   row_id 4694 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Pulmonology
+
+10:45:36 --->   row_id 4700 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Pulmonology
+
+10:45:46 --->   row_id 4720 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:45:56 --->   row_id 4744 - Actual: Cardiovascular / Pulmonary | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:45:59 --->   row_id 4754 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:46:02 --->   row_id 4758 - Actual: Cardiovascular / Pulmonary | Predicted: Ophthalmology | Specialty: Ophthalmology
+
+10:46:03 --->   row_id 4760 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: General Practice
+
+10:46:05 --->   row_id 4764 - Actual: Cardiovascular / Pulmonary | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:46:17 --->   row_id 4789 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Pulmonology
+
+10:46:22 --->   row_id 4799 - Actual: Cardiovascular / Pulmonary | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:46:29 --->   row_id 4812 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Pulmonology
+
+10:46:36 --->   row_id 4828 - Actual: Cardiovascular / Pulmonary | Predicted: Sleep Medicine | Specialty: Pulmonary / Sleep Medicine
+
+10:46:38 --->   row_id 4831 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Pulmonology
+
+10:46:38 --->   row_id 4832 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Pulmonology
+
+10:46:41 --->   row_id 4838 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Pulmonology
+
+10:46:49 --->   row_id 4858 - Actual: Cardiovascular / Pulmonary | Predicted: Urology | Specialty: Neurology
+
+10:47:01 --->   row_id 4880 - Actual: Cardiovascular / Pulmonary | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:47:03 --->   row_id 4885 - Actual: Cardiovascular / Pulmonary | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:47:06 --->   row_id 4889 - Actual: Cardiovascular / Pulmonary | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:47:10 --->   row_id 4900 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: General Practice
+
+10:47:11 --->   row_id 4902 - Actual: Cardiovascular / Pulmonary | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:47:12 --->   row_id 4905 - Actual: Cardiovascular / Pulmonary | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:47:23 --->   row_id 4924 - Actual: Cardiovascular / Pulmonary | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:47:33 --->   row_id 4944 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Pulmonology
+
+10:47:35 --->   row_id 4948 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Pulmonary Medicine
+
+10:47:35 --->   row_id 4949 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Pulmonary Medicine
+
+10:47:41 --->   row_id 4961 - Actual: Cardiovascular / Pulmonary | Predicted: Rheumatology | Specialty: Rheumatology
+
+10:47:44 --->   row_id 4965 - Actual: Cardiovascular / Pulmonary | Predicted: Sleep Medicine | Specialty: Sleep Medicine
+
+10:47:47 --->   row_id 4974 - Actual: Cardiovascular / Pulmonary | Predicted: none | Specialty: Emergency Medicine
+
+10:47:49 --->   row_id 4993 - Actual: Allergy / Immunology | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+10:47:50 --->   row_id 4994 - Actual: Allergy / Immunology | Predicted: none | Specialty: Pulmonology
+
+10:47:51 --->   row_id 4995 - Actual: Allergy / Immunology | Predicted: none | Specialty: Pediatrics
+
+10:47:51 --->   row_id 4996 - Actual: Allergy / Immunology | Predicted: none | Specialty: Pulmonology
+
+10:50:49 --->   row_id 27 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+10:53:40 --->   row_id 33 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+11:02:22 --->   row_id 47 - Actual: Urology | Predicted: Rheumatology | Specialty: Rheumatology
+
+11:06:36 --->   row_id 58 - Actual: Urology | Predicted: Gastroenterology | The patient presents with multiple symptoms: frequent waking at night, abdominal cramping, reduced appetite, and a sore throat. While Sleep Medicine could address the disrupted sleep, the primary concern appears to be gastrointestinal due to the abdominal cramps. The sore throat might be secondary or part of an infection, but Gastroenterology is the most fitting specialty for addressing the main symptoms.
+
+Specialty: Gastroenterology
+
+11:07:42 --->   row_id 60 - Actual: Urology | Predicted: Psychiatry / Psychology | Specialty: Psychiatry / Psychology
+
+11:10:35 --->   row_id 66 - Actual: Urology | Predicted: Sleep Medicine | Specialty: Sleep Medicine
+
+11:11:56 --->   row_id 70 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+11:14:52 --->   row_id 81 - Actual: Urology | Predicted: Psychiatry / Psychology | Specialty: Psychiatry / Psychology
+
+11:15:56 --->   row_id 83 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+11:24:08 --->   row_id 101 - Actual: Urology | Predicted: Gastroenterology | The patient's symptoms point towards an issue in the abdomen, likely related to digestion or a gastrointestinal problem. The pain worsening with movement suggests it might be something like appendicitis or another condition affecting the lower right side of the abdomen.
+
+Specialty: Gastroenterology
+
+11:37:32 --->   row_id 138 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+11:43:24 --->   row_id 156 - Actual: Urology | Predicted: Orthopedic | Specialty: Orthopedic
+
+11:47:03 --->   row_id 167 - Actual: Urology | Predicted: Psychiatry / Psychology | Specialty: Psychiatry / Psychology
+
+11:51:38 --->   row_id 180 - Actual: Urology | Predicted: Gastroenterology | Specialty: Gastroenterology
+
+11:59:31 --->   row_id 1470 - Actual: Sleep Medicine | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+12:06:01 --->   row_id 1481 - Actual: Rheumatology | Predicted: Orthopedic | Specialty: Orthopedic
+
+12:06:41 --->   row_id 1482 - Actual: Rheumatology | Predicted: Dermatology | Specialty: Dermatology
+
+12:08:07 --->   row_id 1487 - Actual: Rheumatology | Predicted: Orthopedic | Specialty: Orthopedic
+
+12:16:02 --->   row_id 1782 - Actual: Psychiatry / Psychology | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:17:07 --->   row_id 1791 - Actual: Psychiatry / Psychology | Predicted: Sleep Medicine | Specialty: Sleep Medicine
+
+12:18:04 --->   row_id 1792 - Actual: Psychiatry / Psychology | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:19:46 --->   row_id 1795 - Actual: Psychiatry / Psychology | Predicted: Ophthalmology | Specialty: Ophthalmology
+
+12:22:45 --->   row_id 1800 - Actual: Psychiatry / Psychology | Predicted: Sleep Medicine | Specialty: Sleep Medicine
+
+12:23:59 --->   row_id 1805 - Actual: Psychiatry / Psychology | Predicted: Sleep Medicine | Specialty: Sleep Medicine
+
+12:27:28 --->   row_id 2008 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:28:09 --->   row_id 2011 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:30:23 --->   row_id 2020 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:31:32 --->   row_id 2021 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:33:09 --->   row_id 2024 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:33:43 --->   row_id 2025 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:36:07 --->   row_id 2034 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:36:49 --->   row_id 2038 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:37:48 --->   row_id 2041 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:38:49 --->   row_id 2044 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:41:26 --->   row_id 2048 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:41:51 --->   row_id 2050 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:45:32 --->   row_id 2060 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:45:58 --->   row_id 2061 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:46:40 --->   row_id 2062 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:48:47 --->   row_id 2068 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:49:28 --->   row_id 2069 - Actual: Orthopedic | Predicted: Rheumatology | The patient's symptoms—pain in the left leg, sore big toe, and swelling—are indicative of a potential rheumatic condition such as gout or arthritis, which fall under the purview of Rheumatology.
+
+Specialty: Rheumatology
+
+12:50:03 --->   row_id 2071 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:52:28 --->   row_id 2077 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:54:25 --->   row_id 2080 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+12:59:18 --->   row_id 2094 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:01:09 --->   row_id 2096 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:01:33 --->   row_id 2097 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:02:28 --->   row_id 2098 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:05:02 --->   row_id 2100 - Actual: Orthopedic | Predicted: ENT - Otolaryngology | Specialty: ENT - Otolaryngology
+
+13:05:36 --->   row_id 2101 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:08:31 --->   row_id 2106 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:08:56 --->   row_id 2107 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:09:35 --->   row_id 2108 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:12:48 --->   row_id 2114 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:13:21 --->   row_id 2117 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:15:15 --->   row_id 2120 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:15:55 --->   row_id 2123 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:20:11 --->   row_id 2132 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:22:03 --->   row_id 2140 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:23:26 --->   row_id 2149 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:24:01 --->   row_id 2150 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:24:35 --->   row_id 2157 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:25:41 --->   row_id 2159 - Actual: Orthopedic | Predicted: Rheumatology | The patient's symptoms—low back pain, stiffness, buttock poking sensation, and increased pain when standing on one foot—suggest a possible musculoskeletal or neurological issue. Rheumatology is the appropriate specialty because it addresses conditions like arthritis, which can cause such symptoms.
+
+Specialty: Rheumatology
+
+13:26:01 --->   row_id 2160 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:29:20 --->   row_id 2164 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:32:42 --->   row_id 2168 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:33:19 --->   row_id 2169 - Actual: Orthopedic | Predicted: Cardiovascular / Pulmonary | Specialty: Cardiovascular / Pulmonary
+
+13:44:40 --->   row_id 2188 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:46:03 --->   row_id 2194 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:47:43 --->   row_id 2199 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:49:47 --->   row_id 2201 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:50:20 --->   row_id 2202 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:53:42 --->   row_id 2206 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:55:06 --->   row_id 2209 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:55:26 --->   row_id 2210 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+13:59:19 --->   row_id 2216 - Actual: Orthopedic | Predicted: Rheumatology | The patient's symptoms—right hip pain limiting movement, fatigue, and confusion—are indicative of a possible systemic issue. While Orthopedics could address the hip pain, the additional symptoms suggest a more comprehensive approach is needed. Rheumatology is best suited to evaluate conditions like lupus or rheumatoid arthritis, which can cause joint pain alongside systemic issues such as fatigue and cognitive dysfunction.
+
+Specialty: Rheumatology
+
+14:00:06 --->   row_id 2218 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:00:39 --->   row_id 2223 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:00:51 --->   row_id 2225 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:01:42 --->   row_id 2231 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:03:41 --->   row_id 2235 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:04:14 --->   row_id 2237 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:04:48 --->   row_id 2238 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:06:41 --->   row_id 2240 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:08:56 --->   row_id 2244 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:12:44 --->   row_id 2251 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:15:27 --->   row_id 2261 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:16:21 --->   row_id 2262 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:19:48 --->   row_id 2267 - Actual: Orthopedic | Predicted: Sleep Medicine | Specialty: Sleep Medicine
+
+14:20:29 --->   row_id 2268 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:21:46 --->   row_id 2271 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:23:51 --->   row_id 2274 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:27:54 --->   row_id 2284 - Actual: Orthopedic | Predicted: Rheumatology | The patient's symptoms—numbness, pain, and locking fingers—are indicative of potential nerve compression or musculoskeletal issues, suggesting a need for evaluation in Rheumatology.
+
+Specialty: Rheumatology
+
+14:32:56 --->   row_id 2296 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:33:27 --->   row_id 2298 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:34:37 --->   row_id 2299 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:37:51 --->   row_id 2304 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+
+14:39:14 --->   row_id 2306 - Actual: Orthopedic | Predicted: Rheumatology | Specialty: Rheumatology
+

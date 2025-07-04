@@ -1,0 +1,15 @@
+ai_triage_format: whole
+model_name: gemma-3-27b-it
+specialty_similarity: 0.8
+data_root: datasets/mtsamples_layman_v3.csv
+save_dir: res/2025_07_04_03_41_50_30_gemma-3-27b-it
+api_config:
+  model: gpt-4.1
+  base_url: https://api.ai.it.ufl.edu/v1
+  api_key: sk-JoOzBJv4uLYVjOKFU5if1w
+llm_backend: api
+debug: false
+cur_time: '2025_07_04_03_41_50_30'
+basename: gemma-3-27b-it
+codes_dir: res/2025_07_04_03_41_50_30_gemma-3-27b-it/codes
+log_dir: res/2025_07_04_03_41_50_30_gemma-3-27b-it/log

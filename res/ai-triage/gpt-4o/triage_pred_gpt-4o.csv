@@ -1,0 +1,935 @@
+row_id,description,actual_specialty,predicted_specialty
+11,I feel short of breath sometimes and my chest feels tight.,cardiovascular / pulmonary,cardiovascular / pulmonary
+16,I'm having trouble breathing and my throat feels really tight. I also feel a lot of pressure in my chest.,cardiovascular / pulmonary,cardiovascular / pulmonary
+18,I'm feeling a bit sore and tender down there. There's some mild discomfort in my groin area.,urology,urology
+26,I'm having trouble peeing and it feels like my bladder is always full.,urology,urology
+27,I feel some pain and discomfort around my belly button. It's a bit sore and tender to touch.,urology,gastroenterology
+29,I feel some soreness and a bit of discomfort in my groin area.,urology,urology
+30,"I feel like I need to pee really often, especially in the morning. Sometimes I also feel a bulge in my vagina when using cream. I'm worried something might be wrong.",urology,urology
+31,I'm having trouble peeing and it feels like my bladder is always full. I also have blurry vision sometimes.,urology,urology
+32,I feel some pain in my lower right side and noticed blood in my urine.,urology,urology
+33,I feel some pain and discomfort around my belly button area. It hurts more when I move or touch it.,urology,gastroenterology
+34,I feel the need to go to the bathroom frequently and urgently. Sometimes I can’t hold it in.,urology,urology
+35,I feel pain in my scrotum.,urology,urology
+36,I'm feeling some discomfort and a bit of pain in my lower abdomen.,urology,gastroenterology
+37,"I'm having trouble peeing, and it hurts sometimes. I feel a lot of pressure in my lower belly.",urology,urology
+39,I have some pain in my left testicle. It feels like a twisting sensation. I'm really uncomfortable and can't walk or stand up properly.,urology,urology
+40,"I feel some discomfort in my lower abdomen and a bit of pain when I pee. It’s also hard to start peeing, and I notice some blood in my urine.",urology,urology
+41,I feel some discomfort and mild pain in my scrotum. There's also some swelling and tenderness.,urology,urology
+42,I feel swelling and some discomfort in my left testicle. It's been like this for a day.,urology,urology
+43,I feel a constant urge to pee but can't go properly. It's painful and very uncomfortable.,urology,urology
+46,I have pain in my left testicle.,urology,urology
+47,I feel pain in my lower abdomen and back. I also feel really tired.,urology,urology
+48,I feel some discomfort in my lower abdomen and mild pain around my surgical area. I also have to pee more often than usual.,urology,urology
+50,I feel some pain and discomfort in my lower abdomen. I'm also a bit fatigued.,urology,gastroenterology
+53,I have trouble urinating and some pain in my lower abdomen.,urology,urology
+55,I feel some pain in my lower back and side. There's a bit of discomfort when I pee. I'm also feeling really tired.,urology,urology
+56,I'm feeling some pain in my lower back and a bit of discomfort when I urinate.,urology,urology
+58,"I'm waking up every hour or so at night, my abdomen has been cramping, and my appetite is down. I also have a sore throat.",urology,gastroenterology
+59,I feel a bit of urgency when I need to pee. Sometimes it's hard to control.,urology,urology
+60,"I feel fine, just a bit worried.",urology,psychiatry / psychology
+62,I feel discomfort and pain in my lower abdomen and groin.,urology,urology
+63,I'm feeling some pain and discomfort around my genital area.,urology,urology
+64,I feel some discomfort and difficulty when urinating. I've also noticed a slight pain in my lower back.,urology,urology
+65,I feel some discomfort when I pee. It's hard to start and sometimes it stops suddenly.,urology,urology
+66,I'm feeling really tired and I have to get up at night to pee a couple of times.,urology,urology
+69,"My penis and scrotum are swollen, and there's some discharge. I feel warm and uncomfortable.",urology,urology
+70,I have pain in my lower abdomen. It's mostly on the right side.,urology,gastroenterology
+75,I'm feeling some pain and discomfort in my lower abdomen. It's also a bit sore around my groin area.,urology,urology
+77,I feel some pain in my lower stomach and groin area.,urology,urology
+78,I feel pain in my lower abdomen and groin area. My groin feels sore and tender.,urology,urology
+81,"I feel fine right now, no pain or discomfort.",urology,psychiatry / psychology
+83,I feel some pain and discomfort in my lower abdomen. I'm also tired and weak.,urology,gastroenterology
+85,"I feel fine right now, no pain or discomfort. No issues with catheterizing.",urology,urology
+87,I feel some pain in my groin and scrotum area. It gets worse when I move around.,urology,urology
+90,"I'm feeling a lot of pain in my lower abdomen and back. It's really uncomfortable, and I've been feeling very tired.",urology,gastroenterology
+91,I feel some pain in my lower abdomen and groin area. It feels sore and a bit tender when I move.,urology,urology
+92,I feel some pain in my lower abdomen and groin area. There's also some discomfort and soreness around my penis.,urology,urology
+95,I feel some discomfort and pain in my lower abdomen. It gets worse when I move around or cough.,urology,gastroenterology
+96,I'm feeling some pain in my groin area and it's a bit sore. There's also some swelling around the incision site.,urology,urology
+98,I'm feeling some pain in my groin area and discomfort when I move.,urology,urology
+99,I feel some pain and discomfort in my lower abdomen and groin area.,urology,urology
+100,I've got some pain and discomfort in my right groin area.,urology,urology
+101,I feel some pain in my lower right belly. It gets worse when I move around.,urology,gastroenterology
+102,I feel a bulge and some pain in my left groin area.,urology,urology
+103,"I feel a bulge in my lower belly area, especially when I stand or move around a lot.",urology,gastroenterology
+104,I feel some pain and swelling in my groin area.,urology,urology
+105,I feel some pain and discomfort in my left groin area.,urology,urology
+106,I feel pain and discomfort in my lower abdomen and groin area. My scrotum is swollen and sore.,urology,urology
+107,I feel some discomfort and a bit of pain in my lower belly and groin area.,urology,urology
+108,"I feel pain and discomfort in my lower abdomen and groin area. It hurts when I move, and I feel very tired.",urology,urology
+109,I feel some pain and discomfort in my lower abdomen and genital area.,urology,urology
+110,I feel pain in my lower abdomen and pelvis. I'm also feeling pressure and discomfort down there.,urology,urology
+111,"My lower abdomen feels sore, and there's some discomfort when I move.",urology,gastroenterology
+112,I feel sore and there’s some swelling down there.,urology,urology
+115,I feel some pain and discomfort in my groin area. The area is swollen and tender.,urology,urology
+117,I noticed blood in my urine last night. I don't feel any pain or discomfort.,urology,urology
+118,I'm having trouble peeing and feel some pain in my lower stomach. My urine looks pink.,urology,urology
+124,I feel the constant urge to pee and sometimes can't hold it. I also feel some discomfort down there.,urology,urology
+129,I need to pee more often during the day and once at night. No pain or other issues when I go.,urology,urology
+130,I have trouble emptying my bladder completely. My urine flow is slow and sometimes dribbles. I wake up several times at night to pee.,urology,urology
+132,I feel pain in my lower back and I'm very tired. I also feel a burning sensation when I pee.,urology,urology
+135,I feel a weak urine stream and have trouble starting to pee.,urology,urology
+136,I feel like I can't fully empty my bladder. It’s uncomfortable and I have trouble starting to pee.,urology,urology
+137,"I've noticed some improvement with firmer erections lasting about 10 minutes. No pain, fever, or chills. No issues with urination.",urology,urology
+138,I feel a lot of pain in my right side and it's really uncomfortable.,urology,gastroenterology
+139,I'm feeling some discomfort and a bit sore. There’s also some blood in my urine.,urology,urology
+140,I'm having blood in my urine and some pain in my lower back.,urology,urology
+142,I feel some pain when I pee and I need to go to the bathroom a lot.,urology,urology
+143,I feel some discomfort and a bit of pain when I pee. It also burns a little.,urology,urology
+144,"I feel a constant need to urinate, but it's hard to go. There's some discomfort in my lower abdomen.",urology,urology
+145,I notice blood in my urine and feel discomfort in my bladder.,urology,urology
+146,I feel some discomfort and burning when I pee.,urology,urology
+148,"I feel a lot of discomfort and pain in my lower abdomen. It's hard to pee, and I feel really tired. Sometimes there's a bit of blood when I urinate.",urology,urology
+149,I feel really tired and my lower abdomen is sore. I also have some difficulty urinating and it hurts when I pee.,urology,urology
+156,I feel fine right now. No pain or trouble peeing. Just a bit of swelling.,urology,urology
+157,I feel pain in my lower back and some discomfort when I pee. I also feel really tired and have a bit of a fever.,urology,urology
+159,I'm feeling sore and a bit tender down there.,urology,urology
+163,"I feel a lot of pain and discomfort in my groin area. My penis has been erect for a long time, and it's really painful.",urology,urology
+164,I feel a bit of discomfort and pain when I pee. My urine sprays in different directions.,urology,urology
+167,I don't feel any pain or discomfort.,urology,psychiatry / psychology
+168,I feel some pain around my penis and it's a bit swollen.,urology,urology
+170,I don't have any pain or trouble peeing. I feel fine overall.,urology,urology
+171,"I feel really tired and weak. There's blood in my urine, and I'm having trouble passing it. My lower back pain is the same as usual.",urology,urology
+173,I feel some discomfort in my bladder and a bit of pain. It feels like there's irritation inside.,urology,urology
+175,I notice blood in my urine and have pain in my lower abdomen. It's been hard to pee and I feel tired.,urology,urology
+180,I feel some pain in my abdomen. It hurts when I move around.,urology,gastroenterology
+1454,I feel really tired all the time and have trouble staying awake during the day.,sleep medicine,sleep medicine
+1457,I'm feeling really tired and drowsy. Sometimes I get random sharp sensations in my head.,sleep medicine,sleep medicine
+1458,I'm feeling really tired all the time and having trouble sleeping well.,sleep medicine,sleep medicine
+1459,I'm feeling really tired and can't sleep well at night.,sleep medicine,sleep medicine
+1461,"I feel tired all the time and have trouble sleeping through the night. I often wake up feeling groggy and have headaches in the morning. During the day, I find it hard to stay awake and often doze off.",sleep medicine,sleep medicine
+1463,I feel really tired during the day and sometimes doze off when I'm bored. My wife says I snore loudly and stop breathing at night.,sleep medicine,sleep medicine
+1464,"I feel pretty well-rested in the mornings. Sometimes my CPAP mask comes off at night, but I don't snore much anymore. I don't feel overly tired during the day.",sleep medicine,sleep medicine
+1465,I feel really tired in the mornings and sleepy during the day. I snore loudly at night and sometimes wake up feeling like I can't breathe.,sleep medicine,sleep medicine
+1466,I feel exhausted and can't stay asleep at night. I often wake up and toss and turn. My legs hurt a lot.,sleep medicine,sleep medicine
+1467,"I feel really tired and weak during the day. When I wake up in the morning, I often feel dizzy and have a stomachache. I also wake up multiple times during the night.",sleep medicine,sleep medicine
+1468,I feel really tired all the time and I keep waking up during the night. It's hard for me to get a good night's sleep.,sleep medicine,sleep medicine
+1469,I'm having trouble sleeping and often feel really tired during the day.,sleep medicine,sleep medicine
+1470,I'm feeling really dizzy.,sleep medicine,ent - otolaryngology
+1472,I'm feeling really tired and having trouble sleeping.,sleep medicine,sleep medicine
+1473,I feel really tired and can't seem to stay focused. Sometimes I feel like I'm zoning out or losing track of time.,sleep medicine,sleep medicine
+1474,I feel really tired during the day. I wake up a lot at night. I'm having trouble sleeping well.,sleep medicine,sleep medicine
+1476,I feel really tired and drowsy. It’s hard to stay awake.,sleep medicine,sleep medicine
+1477,I have aches and pains in my hands and elbows. The pain has been bothering me for a few weeks now. I'm also noticing more hair loss recently.,rheumatology,rheumatology
+1479,"My fingers, elbows, and neck hurt sometimes. It used to be worse, but now the pain is almost gone.",rheumatology,rheumatology
+1480,I don't have any joint pain right now. My wrists are swollen but not really tender.,rheumatology,rheumatology
+1481,"My left hand feels uncomfortable and numb, especially on the back of my second, third, and fourth fingers. I've also had a dry cough and felt feverish for the past few days.",rheumatology,cardiovascular / pulmonary
+1482,I have some light rashes on my cheeks and a few on my arms and legs. The rashes seem a bit darker sometimes. I feel fine otherwise.,rheumatology,dermatology
+1483,"I feel very weak, especially in my legs. My grip strength is almost gone, and I can't walk without help.",rheumatology,none
+1484,"I'm feeling a lot of pain in my knees and I'm really tired all the time. My legs, neck, and hands feel stiff too.",rheumatology,rheumatology
+1487,"My right knee hurts almost every day, and it's a bit swollen. It feels weak and tender sometimes.",rheumatology,orthopedic
+1757,"I feel restless in the morning and have trouble focusing until later. In the afternoon, I get really hyper again and can't calm down.",psychiatry / psychology,psychiatry / psychology
+1759,I feel extremely tired all the time. I have trouble sleeping and often wake up in the middle of the night. I also feel very sad and worried about things a lot.,psychiatry / psychology,psychiatry / psychology
+1762,I feel anxious and worried. I also feel a bit stressed.,psychiatry / psychology,psychiatry / psychology
+1765,I'm feeling really depressed and stressed out. I'm also having trouble sleeping and feeling very fatigued.,psychiatry / psychology,psychiatry / psychology
+1766,"I feel really sad and hopeless. Sometimes, I don't want to get out of bed.",psychiatry / psychology,psychiatry / psychology
+1769,I feel really distracted and have trouble focusing on anything. I have a hard time finishing tasks and often forget what I was doing. I also feel pretty down and unmotivated.,psychiatry / psychology,psychiatry / psychology
+1770,"I feel very anxious and restless. My thoughts are all over the place, and I can't seem to focus. I'm also feeling paranoid and suspicious of everything around me.",psychiatry / psychology,psychiatry / psychology
+1773,I feel anxious and restless. My chest pain has gone away. I don't want surgery.,psychiatry / psychology,psychiatry / psychology
+1774,I feel really anxious and sad. I have trouble sleeping and concentrating. I often feel pain in my body and get panic attacks daily.,psychiatry / psychology,psychiatry / psychology
+1776,I'm feeling really down and anxious. I'm also really tired and frustrated with everything.,psychiatry / psychology,psychiatry / psychology
+1777,I feel anxious and paranoid. I believe people are trying to hurt me.,psychiatry / psychology,none
+1780,I feel really confused and disorganized. I'm experiencing paranoia and I haven't been sleeping well. I feel like I'm in jail and I don't understand why.,psychiatry / psychology,psychiatry / psychology
+1781,"I feel really anxious and out of control. I can't think clearly, and I'm really scared.",psychiatry / psychology,psychiatry / psychology
+1782,"I feel completely unresponsive. I can't move or speak, and I feel really weak.",psychiatry / psychology,cardiovascular / pulmonary
+1789,"I feel really happy and excited, but my mood keeps changing quickly. My thoughts are all over the place.",psychiatry / psychology,psychiatry / psychology
+1791,I'm feeling really sleepy and out of it. I have a bit of pain in my back. My mood is just okay.,psychiatry / psychology,sleep medicine
+1792,"I feel really tired all the time and sometimes my right foot drags when I walk. I also occasionally bump into things and have muscle pain in my neck and shoulders. Overall, I just feel really worn out.",psychiatry / psychology,none
+1794,I feel really stressed and confused. I get upset easily and think everyone is mad at me. I also feel lonely and like I don’t have any friends.,psychiatry / psychology,psychiatry / psychology
+1795,I have a bad headache and feel dizzy. My vision gets blurry sometimes. I also feel nauseous.,psychiatry / psychology,none
+1796,"I sometimes feel confused and can't remember things. I've noticed some mild memory lapses and occasional trouble focusing. I feel stressed out lately, especially at work.",psychiatry / psychology,psychiatry / psychology
+1797,I feel confused and have trouble concentrating. Sometimes I forget what I'm doing or saying. I'm also having trouble sleeping and feel emotionally up and down.,psychiatry / psychology,psychiatry / psychology
+1798,I feel confused and can't think clearly. My speech is jumbled and doesn't make sense. I'm having trouble responding to questions.,psychiatry / psychology,psychiatry / psychology
+1799,I'm feeling really nervous and can't concentrate. My muscles are shaky and I have constant headaches.,psychiatry / psychology,psychiatry / psychology
+1800,I'm having trouble remembering conversations and events. I also sometimes forget to take my medications and have difficulty finding the right words in conversations. I feel tired during the day and often fall asleep at work.,psychiatry / psychology,none
+1801,I feel really sad and anxious. I have trouble breathing and I'm not socializing much.,psychiatry / psychology,none
+1805,I feel shaky and my back sometimes arches. I get really tired and have trouble waking up in the morning. I'm also a bit worried about going to school.,psychiatry / psychology,none
+1806,I feel really down and it's hard to focus on anything. I'm easily irritated and often distracted. I also feel anxious and get panic attacks in crowded places.,psychiatry / psychology,psychiatry / psychology
+1807,"I feel really agitated and restless. My thoughts are all over the place, and I can't seem to focus. I haven't slept in days.",psychiatry / psychology,psychiatry / psychology
+1808,I feel really anxious and overwhelmed. I also feel really down and can't seem to shake it off.,psychiatry / psychology,psychiatry / psychology
+1812,I feel confused and depressed sometimes. I also have a strong need to keep things very clean.,psychiatry / psychology,psychiatry / psychology
+1814,I feel angry and frustrated a lot. I often lose my temper and get upset easily. I also have trouble with soiling myself during the day.,psychiatry / psychology,psychiatry / psychology
+1818,"I feel really agitated and uneasy. I think something's wrong, like I might have been poisoned.",psychiatry / psychology,none
+2008,"My right foot is really sore, and I can feel some swelling around my big toe. It hurts a lot when I try to move it.",orthopedic,orthopedic
+2011,"My left foot is really sore and swollen. It's hard to move my big toe, and there's a lot of pain when I try.",orthopedic,orthopedic
+2013,I feel some pain and swelling in my wrist. It’s hard to move my hand without discomfort.,orthopedic,orthopedic
+2018,My right arm feels sore and a bit stiff. I also have some numbness and tingling in my hand.,orthopedic,orthopedic
+2019,"My elbow feels sore, and I have some numbness and tingling in my arm and fingers.",orthopedic,orthopedic
+2020,My finger feels stiff and sore. I'm having trouble moving it smoothly.,orthopedic,orthopedic
+2021,I feel a lot of numbness and tingling in my left elbow and hand. My arm feels weak and sometimes painful.,orthopedic,orthopedic
+2022,My knee feels really sore and stiff. I'm also having trouble moving it easily.,orthopedic,orthopedic
+2024,"My left knee hurts a lot and feels stiff. It’s hard to move around, and I feel very tired.",orthopedic,orthopedic
+2025,My thumb feels sore and stiff. It hurts when I try to move it.,orthopedic,orthopedic
+2027,My left thigh hurts a lot. It feels really weak and achy. Sometimes I get sharp pain down my leg.,orthopedic,orthopedic
+2031,My right hip hurts a lot and feels really stiff. I can hardly move without pain.,orthopedic,orthopedic
+2034,My right hip hurts a lot and feels really stiff. Moving around is difficult and painful. I also feel really tired.,orthopedic,orthopedic
+2038,My left hand feels sore and stiff. There's some pain in my third and fourth fingers. My palm feels tender.,orthopedic,orthopedic
+2041,"I feel pain and swelling in my left foot, especially around my big toe and second toe. It's hard to walk on it, and there's a noticeable lump on my second toe.",orthopedic,orthopedic
+2044,I'm feeling a lot of back pain and stiffness. It's really hard to move around.,orthopedic,orthopedic
+2045,I have pain in my right rib area. It hurts when I move.,orthopedic,orthopedic
+2046,"My right leg is really sore, and it feels swollen. It's hard to move it around without feeling pain.",orthopedic,orthopedic
+2047,My right hand and arm feel numb and tingly. I have some pain and weakness too.,orthopedic,orthopedic
+2048,I feel a lot of back pain and stiffness. Moving around is really difficult.,orthopedic,rheumatology
+2050,I feel a lot of lower back pain and stiffness. My legs also feel sore and tired.,orthopedic,orthopedic
+2052,My left shoulder hurts and feels really weak. I also have some trouble moving my arm.,orthopedic,orthopedic
+2055,"My left shoulder hurts a lot, and the pain goes down my left arm to my wrist.",orthopedic,cardiovascular / pulmonary
+2057,"My right shoulder hurts a lot, and I can't move it well. It feels stiff and sore.",orthopedic,orthopedic
+2058,"My right shoulder hurts a lot, and it's hard to move. I feel constant pain, and it's making it difficult to do daily activities.",orthopedic,orthopedic
+2059,My right shoulder hurts and feels sore and achy. It's been getting worse over the last few months. It really bothers me when I throw or play basketball.,orthopedic,orthopedic
+2060,My right thumb feels stiff and sometimes it locks up. I have some pain when I try to move it.,orthopedic,orthopedic
+2061,My hands and elbows have been aching for the past few weeks. The pain is really bothering me. I'm also noticing more hair loss lately.,orthopedic,rheumatology
+2062,My right thumb feels stiff and a bit sore. It’s hard to fully straighten it out.,orthopedic,orthopedic
+2063,I feel some pain in my neck and head. My neck feels stiff and restricted.,orthopedic,orthopedic
+2066,My right arm hurts and feels really stiff. I can't move it much because of the cast.,orthopedic,orthopedic
+2067,"My right knee hurts a lot and is swollen. I can't kneel or crawl, and stairs are really hard. Walking and using the treadmill makes the pain worse, but resting and using ice helps.",orthopedic,orthopedic
+2068,I feel pain in my lower back and near my hips. It hurts when I move.,orthopedic,orthopedic
+2069,"My left leg hurts, and my big toe is really sore. The swelling is pretty bad too.",orthopedic,orthopedic
+2071,I feel pain and discomfort in my right big toe area. It’s swollen and sore.,orthopedic,orthopedic
+2072,"I feel a sharp pain in my right shoulder, and it's hard to move my arm. There's some bruising and swelling too.",orthopedic,orthopedic
+2075,"My left knee hurts a lot, especially when I walk. I feel some pain when I move it. My knee feels weak.",orthopedic,orthopedic
+2076,My left knee really hurts when I move it. It’s hard to stand for long because of the pain. I just want to be able to walk a little bit in my house.,orthopedic,orthopedic
+2077,"I have some pain in my fingers, elbows, and neck.",orthopedic,rheumatology
+2078,"My lower back hurts constantly, sometimes really bad at night or when it's cold. It's hard to get out of bed in the morning. Sitting for too long makes my legs tingle and go numb.",orthopedic,orthopedic
+2079,My right knee feels really painful and swollen. I can barely move it without sharp pain.,orthopedic,orthopedic
+2080,I feel a lot of pain in my left ankle. It's really hard to walk or stand. The pain gets worse when I try to move my ankle.,orthopedic,orthopedic
+2082,"My right foot hurts a lot, especially when I walk or stand. I'm also having trouble moving my big toe.",orthopedic,orthopedic
+2086,"My right elbow hurts, especially on the outer side. It feels sore and tender.",orthopedic,orthopedic
+2087,"My left hip hurts a lot, and I can't put any weight on it. I'm also feeling really stiff and sore around my hip area.",orthopedic,orthopedic
+2089,"I feel constant sharp and aching pain in my lower back, left buttock, and leg. The pain worsens with activity and makes it hard to sleep. It sometimes affects my mood too.",orthopedic,orthopedic
+2090,My lower back and right leg hurt a lot. I also feel some numbness and sharp pain in my left foot. The pain gets worse when I sit for a long time.,orthopedic,orthopedic
+2091,"I have significant pain in my right hip, especially when I move or put weight on it. I'm using a cane to help me walk.",orthopedic,orthopedic
+2092,"I have constant pain in my left hip that's dull, aching, and sometimes stabbing. It gets worse when I sit, twist, or lift things. Rest helps a bit, but the pain often wakes me up at night.",orthopedic,orthopedic
+2094,I feel pain in my lower back on the right side and in both of my knees.,orthopedic,orthopedic
+2095,"I feel pain in my neck and lower back. It radiates into my right arm and leg, causing weakness, numbness, and tingling. I also have intermittent headaches.",orthopedic,orthopedic
+2096,My right wrist feels really sore and stiff. I have some pain when I try to move it.,orthopedic,orthopedic
+2097,My neck and lower back hurt. I feel tender and have muscle spasms.,orthopedic,orthopedic
+2098,I feel a lot of pain in my neck and upper back. It's really hard to move my head. I'm also feeling very tired.,orthopedic,orthopedic
+2099,I feel pain in my left elbow and right forearm. My left hand feels tingly and numb.,orthopedic,orthopedic
+2100,I'm feeling pain in my jaw and ribs. Eating and drinking are difficult.,orthopedic,orthopedic
+2101,"My right leg and ankle really hurt, and my knee and elbow are sore. I feel very tired and weak.",orthopedic,orthopedic
+2102,I have neck and lower back pain. It radiates into my arms and legs with numbness and tingling in my arms.,orthopedic,orthopedic
+2105,"My right knee is a bit sore, and there's some mild drainage from the pin sites. I just started doing exercises for my knee.",orthopedic,orthopedic
+2106,My left ankle hurts a lot and feels stiff. I'm also really tired.,orthopedic,orthopedic
+2107,"My left ankle hurts and feels swollen. It's hard to move, and I feel really tired.",orthopedic,orthopedic
+2108,My wrist really hurts and feels stiff. My fingers are a bit numb too.,orthopedic,orthopedic
+2109,"My left leg really hurts, especially around my knee. It’s hard to move and feels very stiff. I also feel very tired.",orthopedic,orthopedic
+2110,"My right foot hurts, especially around my little toe. It's swollen and I can't put any weight on it.",orthopedic,orthopedic
+2111,My right wrist is really painful and I feel a lot of numbness and tingling in my hand.,orthopedic,orthopedic
+2113,My right ring finger feels numb and tingly.,orthopedic,orthopedic
+2114,"I feel some pain in my right leg and knee. I also get tired quickly. Sometimes, it hurts more when I try to move.",orthopedic,orthopedic
+2117,"My right foot hurts a lot, especially when I walk. It feels really sore and stiff.",orthopedic,orthopedic
+2118,"I have neck pain that shoots down my right arm. My right hand feels tingly, especially in my thumb and index finger.",orthopedic,orthopedic
+2120,"I feel numb from my chest down to my legs. My legs are weak, and I can't stand or walk. My lower body feels cold.",orthopedic,none
+2123,I have some back pain and it feels stiff.,orthopedic,rheumatology
+2124,"My left shoulder hurts a lot and feels really stiff. It’s hard to move my arm, and I feel some swelling.",orthopedic,orthopedic
+2125,My neck and lower back are hurting a lot. The pain in my back goes down my legs.,orthopedic,orthopedic
+2126,I can't move my legs and I feel numbness from my feet up to my waist. There's also a constant pins and needles sensation in my lower body.,orthopedic,orthopedic
+2128,"My legs feel weak, and I can't move them. I also have some numbness and mild pain in my lower back.",orthopedic,orthopedic
+2129,"My shoulder hurts a lot, and it feels weak when I try to lift my arm.",orthopedic,orthopedic
+2132,I feel weak in my legs and my back hurts. I have trouble walking and climbing stairs.,orthopedic,orthopedic
+2136,"My left shoulder hurts, and I can't move it easily in certain directions.",orthopedic,orthopedic
+2137,I have severe low back pain and weakness in both legs. I can barely walk and feel numbness in my legs.,orthopedic,orthopedic
+2140,"My left knee hurts a lot, and it feels swollen. I also feel some stiffness and weakness when I try to move it.",orthopedic,orthopedic
+2146,My elbow really hurts and is swollen. I feel a lump on my arm.,orthopedic,orthopedic
+2149,"I feel weakness in my arms and legs, and it's hard to move around. I’m also having trouble swallowing and feel numbness in my legs.",orthopedic,none
+2150,"My right shoulder hurts and feels stiff. My neck is also stiff, and my fingers are a bit numb. The pain is worse at night and keeps me from sleeping well.",orthopedic,orthopedic
+2157,"My right foot is really sore, and my big toe hurts a lot. I feel some swelling and tenderness around the area. It's hard to move my toe without pain.",orthopedic,orthopedic
+2158,"My right knee hurts a lot, and I can't put much weight on it. It feels swollen and sometimes makes popping sounds.",orthopedic,orthopedic
+2159,I have low back pain and some stiffness. I also feel a poking sensation in my left buttock. It hurts more when I stand on one foot.,orthopedic,orthopedic
+2160,I have severe back pain and it’s hard to move around. My legs feel weak and sometimes numb. It’s really uncomfortable.,orthopedic,orthopedic
+2161,My lower back is sore and I feel some muscle twitching. It’s hard to move around without feeling pain.,orthopedic,orthopedic
+2162,I feel severe pain in my lower back and weakness in my left leg.,orthopedic,orthopedic
+2163,"My lower back hurts a lot, and my right leg has sharp pain too. The pain gets worse when I move around or sit for too long. It’s hard to sleep because of the pain.",orthopedic,orthopedic
+2164,I feel numbness in my legs and hands. It's hard for me to walk.,orthopedic,orthopedic
+2165,"I feel fine, but my lower back is a bit sore.",orthopedic,orthopedic
+2166,"My lower back hurts a lot. I feel a constant, dull ache that sometimes gets sharp. It's hard to move around without pain.",orthopedic,orthopedic
+2167,"My lower back hurts a lot, especially on the right side. I feel some discomfort when moving my hips or legs.",orthopedic,orthopedic
+2168,I feel a lot of pain in my left leg and lower back. It’s hard to move around.,orthopedic,orthopedic
+2169,I have low back pain and some numbness in my right leg. I also get short of breath and urinate frequently.,orthopedic,orthopedic
+2170,I have a lot of pain in my lower back and it shoots down my left leg. It’s hard to move around or do anything without feeling this pain.,orthopedic,orthopedic
+2174,My right knee hurts a lot and feels very unstable. I'm having trouble walking without pain. It's also swollen and stiff.,orthopedic,orthopedic
+2175,I feel pain on the outside of my elbow and my arm feels weak.,orthopedic,orthopedic
+2176,"I'm feeling a lot of pain in my lower back and down my right leg. It's hard to move around, and I'm really tired.",orthopedic,orthopedic
+2177,"I'm feeling some pain in my lower back, mainly on both sides. My right leg pain comes and goes but isn't too bad right now.",orthopedic,orthopedic
+2178,I feel a lot of pain in my lower back and it's hard to move.,orthopedic,orthopedic
+2179,I feel some pain in my left leg that goes down to my big toe. My right leg feels better. My back isn't hurting much.,orthopedic,orthopedic
+2180,I don't feel any pain or discomfort. I just seem to have a rounded back.,orthopedic,orthopedic
+2181,"I feel a lot of back pain, especially in my lower back. It's hard to move around, and the pain doesn't seem to go away.",orthopedic,orthopedic
+2182,"I feel a lot of pain in my lower back. It's hard to move around, and my legs feel weak and numb sometimes.",orthopedic,orthopedic
+2183,My left arm hurts a lot. I feel some numbness and tingling. My neck is really sore.,orthopedic,orthopedic
+2184,"My back hurts a lot, especially in the middle. It feels really weak and tired.",orthopedic,orthopedic
+2186,I feel a lot of pain in my lower back. It hurts especially when I move or try to stand up straight.,orthopedic,orthopedic
+2187,"I feel pain in my right knee, especially when I move it a certain way. There's also some swelling around the knee.",orthopedic,orthopedic
+2188,I have severe back pain and it's hard to move around. It hurts a lot when I try to do anything.,orthopedic,orthopedic
+2193,"My right knee hurts a lot, and it's really sore.",orthopedic,orthopedic
+2194,My left knee hurts and feels stiff. My back is also in a lot of pain.,orthopedic,orthopedic
+2196,"My right knee hurts a lot, and it's hard to walk. I feel like my knee gives out sometimes.",orthopedic,orthopedic
+2198,"My knee hurts a lot, and it's hard to move around. I'm really tired.",orthopedic,rheumatology
+2199,My knees hurt a lot and feel really stiff. They sometimes make clicking noises when I move.,orthopedic,orthopedic
+2200,"I'm feeling pain in my left leg, especially around my knee and shin. It's hard to move my leg without discomfort.",orthopedic,orthopedic
+2201,"My left hip is really sore, and my leg feels stiff. It's hard to move around without a lot of pain.",orthopedic,orthopedic
+2202,"I feel a lot of pain in both my knees, and it's hard to move around.",orthopedic,rheumatology
+2203,I feel some discomfort around my right shoulder blade and occasional stiffness in my neck. My lower back also hurts from time to time.,orthopedic,orthopedic
+2204,"My right forearm hurts a lot, and I can't move it properly. There's some swelling and it feels really uncomfortable.",orthopedic,orthopedic
+2205,"My wound is really painful, and I feel a lot of discomfort in my leg.",orthopedic,orthopedic
+2206,I feel constant pain in my left hip.,orthopedic,orthopedic
+2207,My right foot hurts and it's still draining. It feels sore and a bit swollen.,orthopedic,orthopedic
+2209,My left big toe hurts a lot. The pain is sharp and constant.,orthopedic,orthopedic
+2210,I'm having some pain in my right hip and right calf. I'm also feeling a bit constipated.,orthopedic,orthopedic
+2211,I feel pain in my hip and it's hard to move around. I also feel tired and weak.,orthopedic,orthopedic
+2212,My left shoulder hurts a lot and feels stiff. I can't move it well.,orthopedic,orthopedic
+2213,"My neck feels stiff and painful. I have some tingling and numbness in my left arm. Overall, I'm really tired.",orthopedic,orthopedic
+2214,"I have severe pain in my left hip and lower back, and I can't put any weight on my left leg.",orthopedic,orthopedic
+2216,I feel pain in my right hip and it's hard to move around. I also feel really tired and confused.,orthopedic,orthopedic
+2218,"My right hand hurts, especially on the side. It’s a bit swollen and tender. My grip feels weak.",orthopedic,orthopedic
+2223,My left wrist feels sore and a bit swollen. I have some pain and stiffness in my hand.,orthopedic,rheumatology
+2225,"My left big toe is really sore and swollen. It feels tender and painful, especially when I move it.",orthopedic,orthopedic
+2231,My left little finger feels sore and stiff.,orthopedic,orthopedic
+2232,I have neck pain that radiates to both of my shoulders. My arms feel weak and tingly.,orthopedic,orthopedic
+2234,"My left wrist and thumb hurt, and my hand feels weak and numb.",orthopedic,orthopedic
+2235,"I feel some tingling in both feet. My right knee feels a bit stiff, and my foot feels okay. No pain.",orthopedic,orthopedic
+2237,"My right hand feels stiff and sore, especially my little finger. It's hard to move it.",orthopedic,orthopedic
+2238,My right wrist feels sore and stiff. I notice some swelling and tenderness around the area.,orthopedic,orthopedic
+2239,"My left elbow hurts, and my hand feels numb. My left ankle also hurts, but I can walk fine.",orthopedic,orthopedic
+2240,My right hip hurts and feels stiff. I feel tired and weak.,orthopedic,orthopedic
+2241,"I'm feeling a lot of weakness and difficulty moving, especially on my left side. It's hard to do everyday activities, and I'm worried about falling.",orthopedic,orthopedic
+2242,I feel pain in my wrist and thumb. It hurts when I try to move my thumb or grip things.,orthopedic,orthopedic
+2244,I'm feeling a lot of pain in my lower back and hips. It's hard to move around without it hurting.,orthopedic,orthopedic
+2245,"My lower back hurts, and I have pain shooting down my left leg. It feels really uncomfortable.",orthopedic,orthopedic
+2246,I feel pain in my back and it's hard to move around. There's also some numbness in my legs.,orthopedic,orthopedic
+2248,I'm feeling a lot of pain in my lower back and it's hard to move around.,orthopedic,orthopedic
+2250,"My right shoulder hurts a lot, and I can't move it well. It feels weak and painful when I try to lift my arm.",orthopedic,orthopedic
+2251,My left shoulder hurts a lot and feels really stiff. I also feel really weak and tired.,orthopedic,orthopedic
+2252,"My wrist and thumb hurt, and I feel some numbness and tingling in my hand.",orthopedic,orthopedic
+2254,I have muscle spasms in my left leg and lower back pain.,orthopedic,orthopedic
+2256,"My lower back hurts, and the pain shoots down my left leg and foot.",orthopedic,orthopedic
+2259,My neck and back hurt. It's hard to move without feeling pain.,orthopedic,orthopedic
+2261,My neck feels stiff and sore. I also have some muscle spasms.,orthopedic,orthopedic
+2262,"I feel pain all over, especially in my neck and face. My head also hurts a bit.",orthopedic,rheumatology
+2263,"My back and leg hurt a lot. The pain has gotten a bit better, but it's still there.",orthopedic,orthopedic
+2265,"My left elbow really hurts, and there's a lot of bruising. My arm feels weak and stiff.",orthopedic,orthopedic
+2266,"My left knee hurts a lot, especially when I put weight on it or bend it. It feels like a constant pinching pain. My knee is also swollen and doesn't move as well as it should.",orthopedic,orthopedic
+2267,I feel sleepy and have a headache. My shoulder and ribs hurt.,orthopedic,sleep medicine
+2268,"My neck hurts, and I can't move it well. It feels stiff and sore.",orthopedic,orthopedic
+2269,"My right ankle really hurts and feels swollen. I can't put any weight on it, and it feels unstable.",orthopedic,orthopedic
+2271,"I'm feeling a lot of pain in my neck and arms, especially on the left side. It's hard to swallow and I feel stiff with reduced movement. My steps are slow and short.",orthopedic,orthopedic
+2272,My right foot is in pain and feels really uncomfortable. It hurts more when I try to move or walk.,orthopedic,orthopedic
+2273,I'm feeling a lot of pain in my left hip and leg. It's hard to move around without discomfort.,orthopedic,orthopedic
+2274,"I feel a tingling sensation in my right middle toe. My knees feel wobbly, and I slightly drag my left leg. My right hand feels a bit numb.",orthopedic,none
+2275,"My left forearm hurts, and it's hard to move it. I feel a lot of discomfort and a bit of throbbing pain.",orthopedic,orthopedic
+2276,I'm feeling some numbness and tingling in my hand. There's also a bit of pain in my wrist.,orthopedic,orthopedic
+2278,My wrist feels numb and tingly. I also notice some pain and weakness in my hand.,orthopedic,orthopedic
+2279,"I feel pain and weakness in my right arm, and sometimes I get sharp shooting pains down my left arm while I'm sleeping. My right hand is weak, and I often drop things. The neck pain has improved a bit.",orthopedic,orthopedic
+2281,My right hand feels numb and tingly.,orthopedic,orthopedic
+2282,My left wrist feels numb and tingly. My fingers are weak and it's hard to grip things.,orthopedic,orthopedic
+2284,My right hand feels numb and painful. My fingers sometimes get stuck or lock up.,orthopedic,orthopedic
+2287,My hands feel numb and tingly. I also have some pain in my wrists.,orthopedic,orthopedic
+2289,My wrist feels sore and there's some numbness in my hand.,orthopedic,orthopedic
+2291,"My left hand and arm have been feeling numb and painful, especially around the little finger and forearm. The pain also radiates up to my elbow. My fingers sometimes feel weak and tingly.",orthopedic,orthopedic
+2293,My hand feels numb and tingles a lot. I also have some pain in my wrist and fingers.,orthopedic,orthopedic
+2294,"My left foot hurts a lot, especially around my big toe. I also feel some discomfort in my second toe.",orthopedic,orthopedic
+2295,"My right foot feels sore and swollen. There's some pain, especially when I move my toe. It’s hard to put weight on it.",orthopedic,orthopedic
+2296,I feel pain in my left wrist and hand. My right middle finger is stiff and sore.,orthopedic,orthopedic
+2298,"My right foot hurts a lot, especially when I walk. My toes feel stiff and sore, and I have trouble moving them. Shoes make the pain even worse.",orthopedic,orthopedic
+2299,"My right foot feels really sore, and both my feet are aching. It hurts a lot when I move or put any weight on them.",orthopedic,orthopedic
+2300,"My feet hurt, especially the right one. There's pain in my toes and discomfort when walking.",orthopedic,orthopedic
+2301,"My right foot hurts, and it's hard to walk. The pain is getting worse.",orthopedic,orthopedic
+2302,"My hips hurt, especially the right one. The pain spreads to my groin, and it gets worse when I walk. Sometimes, my right hip pops and clicks painfully.",orthopedic,orthopedic
+2303,My back hurts a lot and it's hard to stand or walk. My hands also feel numb and tingly sometimes.,orthopedic,orthopedic
+2304,"My left foot hurts a lot, especially around the second and third toes. It's tough to walk or wear shoes because of the pain.",orthopedic,orthopedic
+2305,I have sharp pain in my lower back. The pain radiates down my right leg and sometimes my left leg. It gets worse when I sit for a long time or bend over.,orthopedic,orthopedic
+2306,"My back and legs hurt a lot. I feel pain in my buttocks, too. It's hard to move around easily.",orthopedic,orthopedic
+2307,"My right elbow hurts, and I feel some stiffness and swelling.",orthopedic,orthopedic
+2308,My left hip hurts a lot. It feels stiff and sore. I can't move it easily.,orthopedic,orthopedic
+2309,"My left shoulder hurts a lot, and it's hard to move it. It's really sore and feels unstable.",orthopedic,orthopedic
+2310,My left foot is really sore and swollen. It hurts a lot when I try to walk.,orthopedic,orthopedic
+2312,"My right knee hurts, and I feel a hard, tender lump on the side. Sometimes, pain shoots down my calf.",orthopedic,orthopedic
+2313,"My right foot feels sore and swollen. I'm having some pain, especially when I try to move my toes.",orthopedic,orthopedic
+2316,"My right shoulder hurts a lot and feels really stiff. I can't move it much, and it feels weak.",orthopedic,orthopedic
+2317,My left shoulder hurts a lot and feels really stiff. I've been having this pain for a while now.,orthopedic,orthopedic
+2318,"My right shoulder hurts and feels stiff. My left knee is sore, and I have some pain in my right hand.",orthopedic,orthopedic
+2319,"My right shoulder hurts a lot and feels very weak. I can't move it well, and it feels stiff.",orthopedic,orthopedic
+2320,"My right shoulder hurts a lot, and I can't move it well. It feels really sore and stiff.",orthopedic,orthopedic
+2321,"My right knee hurts a lot, and it feels unstable. I also have trouble walking and it feels swollen.",orthopedic,orthopedic
+2323,I have pain in my right shoulder and it's hard to move. It feels really sore and weak.,orthopedic,orthopedic
+2324,My shoulder hurts a lot and feels very stiff. I can't move it without feeling pain.,orthopedic,orthopedic
+2325,"My right shoulder hurts a lot, and I can't move it well. It feels weak and painful all the time.",orthopedic,orthopedic
+2326,My left hip feels sore and stiff. It's hard to move around easily.,orthopedic,orthopedic
+2329,I have severe low back pain. It feels constant and really intense. Sometimes my legs ache too.,orthopedic,orthopedic
+2330,"My left pinky toe hurts a lot, and there's a sore on it. It feels really uncomfortable when I walk.",orthopedic,dermatology
+2331,I feel a lot of pain in my neck and shoulders. There's also some tingling and numbness down my left arm.,orthopedic,orthopedic
+2332,"My feet hurt a lot, and I can't walk.",orthopedic,orthopedic
+2333,I feel pain in my right heel and some swelling.,orthopedic,orthopedic
+2334,My left knee feels really sore and stiff. I'm having trouble moving it without pain.,orthopedic,orthopedic
+2335,I have neck pain and headaches. My left arm feels weak and tingly.,orthopedic,orthopedic
+2336,I feel some neck pain and stiffness. My arms feel a bit weak and tingly.,orthopedic,orthopedic
+2338,I feel neck pain and numbness in my arms.,orthopedic,orthopedic
+2339,"I feel a lot of neck pain and it radiates down my left shoulder and arm. My hands feel numb and tingly. Sometimes, I also feel pain in my right shoulder.",orthopedic,orthopedic
+2340,My neck hurts and feels stiff. I also have some pain shooting down my arm.,orthopedic,orthopedic
+2341,"I feel neck pain and tingling in my left hand fingers. Sometimes, I also feel numbness.",orthopedic,orthopedic
+2342,I feel pain in my neck and shoulders. My neck feels stiff and sore.,orthopedic,orthopedic
+2343,My neck feels sore and stiff. I have some discomfort and pain when I move.,orthopedic,orthopedic
+2344,I have neck pain and stiffness. My right arm feels weak and tingly.,orthopedic,orthopedic
+2345,"My neck is sore, and I feel weak in my right arm and leg. My left arm feels a bit weak too. I'm also having trouble walking properly.",orthopedic,orthopedic
+2346,"I'm feeling a lot of pain in my neck and arms, and I'm really weak.",orthopedic,orthopedic
+2347,I feel pain in my neck and some stiffness.,orthopedic,orthopedic
+2348,My neck feels stiff and sore. I'm also having some pain that goes down my arm.,orthopedic,orthopedic
+2349,I feel pain in my neck and some numbness in my arms. It's hard to move my neck without discomfort.,orthopedic,orthopedic
+2350,I feel pain in my left arm and some stiffness in my neck.,orthopedic,cardiovascular / pulmonary
+2351,"I feel severe pain in my right arm and shoulder, along with numbness and tingling. My neck hurts a lot, and I have frequent headaches.",orthopedic,orthopedic
+2352,My neck hurts and I have pain in my arm and shoulder. I also have headaches.,orthopedic,orthopedic
+2353,My neck hurts and I feel pain shooting down my right arm. My thumb and index finger are numb.,orthopedic,orthopedic
+2354,"I'm feeling a lot of neck pain and stiffness. My left arm feels weak, and I'm having trouble keeping my balance.",orthopedic,orthopedic
+2355,"My neck and left shoulder hurt, and I have pain going down my left arm.",orthopedic,orthopedic
+2356,I feel pain in my neck and down my left arm. My left arm also feels numb and weak.,orthopedic,orthopedic
+2357,My neck hurts and my right arm hurts. My fingers feel numb.,orthopedic,orthopedic
+2358,"My neck hurts a lot, and I have pain that shoots down my arms. I also feel numbness and weakness in my hands.",orthopedic,orthopedic
+2360,"My left leg feels really painful, especially at the back. I can't put weight on it and it feels weak.",orthopedic,orthopedic
+2361,My neck and shoulder hurt a lot. I feel some numbness and tingling in my right arm.,orthopedic,orthopedic
+2362,"My right ankle hurts a lot, especially on the side. It feels sore and a bit stiff.",orthopedic,orthopedic
+2363,I feel severe neck pain and have numbness and weakness in my left arm.,orthopedic,orthopedic
+2367,My legs feel tight and a bit sore. It's hard to walk normally. The casts are uncomfortable.,orthopedic,orthopedic
+2368,My right eye feels sore and a bit blurry. I also notice some discomfort and mild pain.,ophthalmology,ophthalmology
+2371,My right eye feels blurry and a bit sore. I'm also seeing some floaters.,ophthalmology,ophthalmology
+2373,My vision is blurry and my eye feels sore. There's some discomfort around my eye as well.,ophthalmology,ophthalmology
+2378,My left eye feels blurry and uncomfortable. I also feel some pressure in my eye.,ophthalmology,ophthalmology
+2380,"My vision is blurry, and my eye feels sore.",ophthalmology,ophthalmology
+2387,"My left eye feels sore and a bit swollen. My vision is blurry, and it's uncomfortable to blink.",ophthalmology,ophthalmology
+2388,My right eye feels blurry and sore.,ophthalmology,ophthalmology
+2389,"My vision is blurry, and my eyes feel a bit sore and sensitive.",ophthalmology,ophthalmology
+2390,"My vision is a bit blurry, and my eyes feel sore. My face feels tight and swollen.",ophthalmology,ophthalmology
+2391,My right eye feels blurry and a bit sore. It's hard to see clearly.,ophthalmology,ophthalmology
+2395,My right eye feels a bit sore and blurry.,ophthalmology,ophthalmology
+2396,My right eye feels blurry and a bit sore.,ophthalmology,ophthalmology
+2399,My right eye feels blurry and a bit sore.,ophthalmology,ophthalmology
+2402,My right eye feels a bit sore and blurry.,ophthalmology,ophthalmology
+2405,My right eye feels a bit sore and blurry. I also feel some pressure and mild discomfort around the eye area.,ophthalmology,ophthalmology
+2408,"My vision is blurry, and my eye feels a bit sore.",ophthalmology,ophthalmology
+2409,My right eye feels blurry and a bit sore. There's some discomfort and sensitivity to light.,ophthalmology,ophthalmology
+2414,"My vision is blurry, and I have trouble seeing small print. I use a magnifier, but it doesn't help much.",ophthalmology,ophthalmology
+2421,"My eyes are constantly tearing up, and my eyelashes feel crusty.",ophthalmology,ophthalmology
+2424,I keep seeing double when I wake up. Sometimes I have pain above my right eye. The double vision gets better if I close one eye.,ophthalmology,ophthalmology
+2425,I feel really dizzy when I move my head to the right.,ophthalmology,ent - otolaryngology
+2426,"I'm having trouble seeing things clearly both far away and up close, especially when driving and reading.",ophthalmology,ophthalmology
+2427,"My vision feels a bit blurry, and my eyes feel sore. My face feels swollen and tender.",ophthalmology,ophthalmology
+2429,I can't see well out of my left eye. It's been like this for about a week. My right eye seems fine.,ophthalmology,ophthalmology
+2430,My right eyelid feels sore and a bit swollen. It's hard for me to open it fully.,ophthalmology,ophthalmology
+2436,"My vision is blurry, and my eye feels a bit sore.",ophthalmology,ophthalmology
+2438,"My vision is a bit blurry, and my eyes feel tired and dry.",ophthalmology,ophthalmology
+2440,My left eye feels a bit blurry and sore.,ophthalmology,ophthalmology
+2441,"My vision is a bit blurry, and my eyes feel sore and swollen.",ophthalmology,ophthalmology
+2442,My vision is really blurry. I feel nervous about having surgery on my eyes.,ophthalmology,ophthalmology
+2445,My right lower eyelid feels sore and swollen. My vision is a bit blurry.,ophthalmology,ophthalmology
+2447,My eyes feel dry and irritated. I have some discomfort in my eyelids.,ophthalmology,ophthalmology
+2448,"My eyelids feel heavy and droopy. My vision is a bit blurry, especially on the sides.",ophthalmology,ophthalmology
+2449,"My vision is blurry right now, and my eye feels a bit sore.",ophthalmology,ophthalmology
+3455,"I feel some intermittent pain in my abdomen, especially below my ostomy. Sometimes I get a little numbness in my right hand and forearm.",gastroenterology,gastroenterology
+3456,"My throat feels sore, and it's a bit hard to swallow.",gastroenterology,ent - otolaryngology
+3458,I'm feeling some pain around my belly button area and it's a bit swollen.,gastroenterology,gastroenterology
+3462,I feel really nauseous and have been vomiting a lot since last night. I've also had some diarrhea.,gastroenterology,gastroenterology
+3464,I feel bloated and nauseous.,gastroenterology,gastroenterology
+3467,I feel pain in my chest and stomach. I'm also really tired.,gastroenterology,cardiovascular / pulmonary
+3468,I feel some pain around my belly button and it's a bit tender.,gastroenterology,gastroenterology
+3470,I feel a bit of pain in my stomach and some discomfort.,gastroenterology,gastroenterology
+3471,I feel a bit weak but I'm starting to regain some strength. My abdomen is still a little tender.,gastroenterology,gastroenterology
+3474,I have really bad stomach pain and feel bloated. I keep feeling nauseous and have been vomiting a lot.,gastroenterology,gastroenterology
+3479,I'm feeling really weak and tired. My stomach feels uncomfortable.,gastroenterology,gastroenterology
+3480,My belly feels really swollen and tight. I feel quite uncomfortable and bloated.,gastroenterology,gastroenterology
+3481,I feel a lot of pain in my upper abdomen. I also feel really tired and weak.,gastroenterology,gastroenterology
+3482,I feel some pain in my abdomen and a bit bloated. I'm also feeling quite tired.,gastroenterology,gastroenterology
+3483,"I've been having pain when I go to the bathroom, and there's blood. It started a few days ago and has been getting worse.",gastroenterology,gastroenterology
+3484,I have pain in my abdomen and feel very tired. My skin looks yellowish. I also feel nauseated sometimes.,gastroenterology,gastroenterology
+3485,I feel pain in my upper abdomen and feel nauseous. I've been dizzy and my stomach feels bloated.,gastroenterology,gastroenterology
+3486,"I'm feeling really tired and short of breath. My legs are swollen, and I have some pain in my stomach.",gastroenterology,cardiovascular / pulmonary
+3487,I feel some soreness in my abdomen and a bit tired.,gastroenterology,gastroenterology
+3488,"I feel a sharp pain in my lower right abdomen that spreads to my side and back. It gets worse when I walk but eases up when I lie down. I don't feel nauseous or feverish, but I did feel warm earlier.",gastroenterology,urology
+3489,I feel a sharp pain in my lower right abdomen. I'm also feeling a bit nauseous.,gastroenterology,gastroenterology
+3490,"I feel short of breath and have a wheezing, productive cough. I'm also experiencing some throat irritation.",gastroenterology,cardiovascular / pulmonary
+3491,I feel very tired and my stomach hurts.,gastroenterology,gastroenterology
+3492,I have sharp abdominal pain and a fever. I'm also experiencing chills and frequent urination.,gastroenterology,urology
+3493,I feel pain in my upper abdomen and it's been happening repeatedly.,gastroenterology,gastroenterology
+3494,I feel a lot of pain in my upper right abdomen. It's hard to move without it hurting. I also feel really tired.,gastroenterology,gastroenterology
+3495,I'm feeling some pain around my belly button and my right side. I also feel a bit tired and sore.,gastroenterology,gastroenterology
+3496,"My stomach feels uncomfortable and I often feel full quickly. I get tired easily, and sometimes I feel nauseous.",gastroenterology,gastroenterology
+3497,I'm feeling some pain around my belly and a bit sore.,gastroenterology,gastroenterology
+3498,I feel pain in my abdomen and I'm really tired.,gastroenterology,gastroenterology
+3499,"I've been feeling nauseous and bloated, especially after eating. I sometimes have pain in my upper right abdomen.",gastroenterology,gastroenterology
+3500,I feel a sharp pain in my upper abdomen. It gets worse after eating.,gastroenterology,gastroenterology
+3501,I feel some pain in my abdomen. My stomach feels tender and sore.,gastroenterology,gastroenterology
+3502,"I feel a lot of pain in my upper right abdomen, especially after eating.",gastroenterology,gastroenterology
+3503,I feel some pain in my abdomen and a bit of tenderness. I also feel quite tired.,gastroenterology,gastroenterology
+3504,I have a sharp pain in my upper right abdomen and feel bloated. I also feel a bit nauseous.,gastroenterology,gastroenterology
+3505,I have upper abdominal and back pain. It started suddenly a couple of weeks ago.,gastroenterology,gastroenterology
+3507,I feel some pain in my abdomen and I'm a bit sore. I feel tired and a bit bloated.,gastroenterology,gastroenterology
+3510,"My stomach hurts a lot, and I feel really tired. I also have a high fever.",gastroenterology,gastroenterology
+3512,I have pain in my lower right abdomen. It feels tender and sore.,gastroenterology,gastroenterology
+3513,I have pain in my upper abdomen and feel nauseous.,gastroenterology,gastroenterology
+3515,I'm feeling some pain in my abdomen. I also feel really tired.,gastroenterology,gastroenterology
+3516,I feel some pain in my lower belly and I'm really tired.,gastroenterology,gastroenterology
+3518,"I feel weak and tired. I have frequent nausea and vomiting. My stomach hurts, and it's hard to breathe.",gastroenterology,gastroenterology
+3520,My stomach feels really bloated and painful. I feel very tired and weak.,gastroenterology,gastroenterology
+3521,I feel nauseous and have sharp pain in my abdomen after eating.,gastroenterology,gastroenterology
+3522,I feel a headache and some pain at the back of my head where I hit it. I also feel tired and a bit confused.,gastroenterology,orthopedic
+3523,I have pain in my upper right abdomen. I also feel a bit nauseous.,gastroenterology,gastroenterology
+3526,"I feel a constant pain in my abdomen and often feel nauseous. Sometimes, I vomit.",gastroenterology,gastroenterology
+3527,I notice some rectal bleeding and feel pretty tired. I also get headaches and feel really thirsty.,gastroenterology,gastroenterology
+3529,I feel like I have a lump in my throat and it's hard to swallow.,gastroenterology,ent - otolaryngology
+3530,I have trouble swallowing and feel full quickly. Sometimes I get a heavy feeling in my stomach.,gastroenterology,gastroenterology
+3531,I feel some discomfort in my stomach and have occasional heartburn.,gastroenterology,gastroenterology
+3532,I feel really weak and dizzy. I've had several very dark and smelly bowel movements.,gastroenterology,gastroenterology
+3533,"I'm feeling a bit nauseous and have occasional retching. Other than that, I feel okay.",gastroenterology,gastroenterology
+3534,"I’m feeling really tired and a bit weak. My stomach feels a bit off, but no pain.",gastroenterology,gastroenterology
+3538,I feel some discomfort in my lower abdomen. I also have mild cramping.,gastroenterology,gastroenterology
+3539,I feel tired and my stomach hurts a bit. I also noticed some blood in my stool.,gastroenterology,gastroenterology
+3540,I feel pain and discomfort when I swallow.,gastroenterology,ent - otolaryngology
+3541,I feel some bleeding from my rectum and irritation in that area. I'm also really constipated.,gastroenterology,gastroenterology
+3543,I'm feeling really nauseous and my stomach hurts a lot. It's hard to move around without feeling pain.,gastroenterology,gastroenterology
+3545,I feel a lot of stomach pain and some bloating. It’s really uncomfortable.,gastroenterology,gastroenterology
+3546,I'm feeling some abdominal pain and discomfort. I'm also really tired and weak.,gastroenterology,gastroenterology
+3547,I'm feeling some discomfort when I swallow and a bit of a sore throat.,gastroenterology,ent - otolaryngology
+3548,I feel some discomfort in my throat and a bit of pain when I swallow.,gastroenterology,ent - otolaryngology
+3550,I feel a lot of stomach discomfort and have trouble digesting food. I'm also experiencing frequent heartburn and nausea.,gastroenterology,gastroenterology
+3551,"I feel tired and weak. Eating is difficult, and I often choke or cough when I try.",gastroenterology,ent - otolaryngology
+3552,I feel a constant burning sensation in my chest and throat. I often have a chronic cough and my voice is hoarse.,gastroenterology,gastroenterology
+3553,I feel pain in my stomach and have trouble swallowing. I also feel really weak and tired.,gastroenterology,gastroenterology
+3554,I'm having some stomach pain and discomfort. I feel a bit of burning in my abdomen.,gastroenterology,gastroenterology
+3555,I have a burning pain in my upper abdomen. I feel nauseous and bloated.,gastroenterology,gastroenterology
+3557,I feel some discomfort in my stomach and a bit of nausea.,gastroenterology,gastroenterology
+3559,I have a constant pain in my abdomen. I've also noticed blood in my stool.,gastroenterology,gastroenterology
+3560,"I feel some discomfort in my stomach. Other than that, nothing noticeable.",gastroenterology,gastroenterology
+3561,I have stomach pain and feel a burning sensation in my chest. I'm also feeling bloated and a bit nauseous.,gastroenterology,gastroenterology
+3564,I have pain in my upper right abdomen and feel nauseous.,gastroenterology,gastroenterology
+3565,I have stomach pain that gets worse when I lie down. It sometimes spreads to my back. I also feel nauseous and have had a fever for the past two weeks.,gastroenterology,gastroenterology
+3566,I feel a lot of pain in my chest and abdomen. I'm also very tired and weak.,gastroenterology,cardiovascular / pulmonary
+3568,I have trouble swallowing solid food. Sometimes it hurts when I eat.,gastroenterology,gastroenterology
+3569,I'm feeling some abdominal pain and discomfort right now. It's hard to move around without feeling sore.,gastroenterology,gastroenterology
+3571,"I feel nauseous, I've been vomiting, and I have upper abdominal pain.",gastroenterology,gastroenterology
+3577,I have trouble swallowing and sometimes choke. It hurts when I swallow.,gastroenterology,ent - otolaryngology
+3580,I feel really nauseous and have been vomiting a lot. My upper abdomen is tender.,gastroenterology,gastroenterology
+3581,I feel really tired and my stomach hurts. I've also noticed some black stools.,gastroenterology,gastroenterology
+3584,"I feel severe pain in my abdomen, especially after eating greasy foods.",gastroenterology,gastroenterology
+3585,"I'm feeling really nauseous and can't keep anything down. My throat hurts, and I feel weak all over.",gastroenterology,ent - otolaryngology
+3590,"I'm feeling really weak and tired. I haven't felt like eating much, and I've lost a lot of weight recently.",gastroenterology,endocrinology
+3592,I'm feeling a lot of pain in my lower abdomen. I also have a fever and I'm really tired. My appetite is completely gone.,gastroenterology,gastroenterology
+3596,I feel chest pain when I eat and get short of breath after big meals. I also have some nausea and reflux symptoms.,gastroenterology,gastroenterology
+3597,"I have trouble swallowing, especially with thin liquids. It feels like things get stuck in my throat.",gastroenterology,ent - otolaryngology
+3598,I feel pain in my abdomen.,gastroenterology,gastroenterology
+3599,"I have a lot of abdominal pain, nausea, and diarrhea.",gastroenterology,gastroenterology
+3600,"I feel pain all over my abdomen, and there's some swelling around my ileostomy.",gastroenterology,gastroenterology
+3601,I have a lot of abdominal pain right now.,gastroenterology,gastroenterology
+3602,"I have pain in my lower abdomen, and I'm feeling nauseous. I've also been vomiting and experiencing diarrhea.",gastroenterology,gastroenterology
+3603,I have pain on the right side of my abdomen. I feel nauseous and have a fever.,gastroenterology,gastroenterology
+3607,My hernia is really uncomfortable and keeps getting bigger. I feel like I constantly need to hold it to stop it from getting worse.,gastroenterology,gastroenterology
+3611,"I feel really tired and have been having a lot of diarrhea lately. Also, I have some pain in my lower abdomen.",gastroenterology,gastroenterology
+3612,"I feel full quickly after eating and have lost my appetite. I've also been having trouble swallowing, heartburn, and indigestion. Sometimes I have abdominal discomfort and cramping, along with changes in my bowel habits, like constipation and diarrhea.",gastroenterology,gastroenterology
+3613,I'm feeling some pain in my abdomen and a bit of discomfort in my back.,gastroenterology,gastroenterology
+3614,I have pain in my lower left abdomen. It feels uncomfortable and sometimes sharp.,gastroenterology,gastroenterology
+3616,I feel really nauseous and have some heartburn. My colostomy bag isn't filling up.,gastroenterology,gastroenterology
+3618,I feel constipated and haven't had a bowel movement in two days.,gastroenterology,gastroenterology
+3619,I feel really tired and weak. My stomach feels uncomfortable.,gastroenterology,gastroenterology
+3623,I have a lot of abdominal pain and diarrhea. I'm also feeling feverish.,gastroenterology,gastroenterology
+3627,I feel some stomach discomfort and bloating.,gastroenterology,gastroenterology
+3633,I have some rectal bleeding with rusty-colored stools. My lower abdomen feels uncomfortable but not very painful. I also feel a bit fatigued.,gastroenterology,gastroenterology
+3635,I feel really uncomfortable and have a lot of stomach pain. I also notice blood in my stools. Eating makes me feel bloated and nauseous.,gastroenterology,gastroenterology
+3636,"I've noticed blood in my stool recently. Other than that, I don't feel any pain or discomfort right now.",gastroenterology,gastroenterology
+3641,I feel fine. No pain or discomfort.,gastroenterology,psychiatry / psychology
+3642,I feel some discomfort and bloating. I've also noticed some changes in my bowel movements.,gastroenterology,gastroenterology
+3643,"I feel fine, no pain or discomfort. Everything seems normal with my bowel movements.",gastroenterology,gastroenterology
+3644,I feel really tired and weak.,gastroenterology,sleep medicine
+3645,I feel some discomfort in my abdomen and occasional pain near my rectum.,gastroenterology,gastroenterology
+3646,I feel some stomach pain and bloating. I've also been having diarrhea and feeling really tired.,gastroenterology,gastroenterology
+3647,"I feel some bloating and mild discomfort in my lower abdomen. Also, I've noticed occasional bleeding when I go to the bathroom.",gastroenterology,gastroenterology
+3648,I feel bloated and my abdomen is uncomfortable.,gastroenterology,gastroenterology
+3649,I feel some pain and discomfort near my anus. I'm also noticing some bleeding and discharge from that area.,gastroenterology,gastroenterology
+3651,I feel some discomfort and changes in my bowel habits. My rectum feels like it's bulging or coming out.,gastroenterology,gastroenterology
+3653,I feel some discomfort in my lower abdomen. I've noticed occasional bloating and mild pain.,gastroenterology,gastroenterology
+3654,"I feel fine, just a bit tired. No pain or discomfort.",gastroenterology,sleep medicine
+3655,"I feel fine right now, just a bit tired.",gastroenterology,sleep medicine
+3656,"I feel some mild abdominal tenderness. Other than that, I feel okay.",gastroenterology,gastroenterology
+3659,I sometimes have night sweats and shortness of breath. I also feel some acid reflux.,gastroenterology,gastroenterology
+3661,I feel pain in my abdomen. I'm also feeling very tired.,gastroenterology,gastroenterology
+3662,I feel a lot of pain in my abdomen. I'm also really tired.,gastroenterology,gastroenterology
+3664,I feel weak and have diarrhea. There's also blood in my stool.,gastroenterology,gastroenterology
+3665,I feel some pain in my abdomen and a bit tired.,gastroenterology,gastroenterology
+3666,I have bad abdominal pain and cramping. I also have persistent diarrhea and feel weak.,gastroenterology,gastroenterology
+3667,"I feel a lot of pain in my upper right abdomen, and it's been going on for a while. I'm also very tired and have no appetite.",gastroenterology,gastroenterology
+3668,"I feel tired, and I've noticed some weight loss. My bowel movements have changed, and I've had loose stools.",gastroenterology,gastroenterology
+3670,"I noticed some blood in the toilet. Other than that, I feel fine.",gastroenterology,gastroenterology
+3671,"I feel like there's a lump in my throat, especially when I eat solid foods or take pills.",gastroenterology,ent - otolaryngology
+3672,I feel fine when eating and drinking. No problems swallowing right now.,gastroenterology,ent - otolaryngology
+3674,I feel some pain in my lower abdomen. I'm also feeling really tired.,gastroenterology,gastroenterology
+3675,"I feel nauseous and have some stomach pain. Also, there's a bit of blood when I vomit.",gastroenterology,gastroenterology
+3676,I feel some pain in my lower right abdomen. I also feel a bit sore and tender around the incision area.,gastroenterology,gastroenterology
+3678,"I feel some resistance when I exhale. It's hard to swallow, and my throat feels tight.",gastroenterology,ent - otolaryngology
+3680,"I feel a lot of pain in my lower abdomen, and I've had loose stools for a few days.",gastroenterology,gastroenterology
+3681,I feel short of breath. My stomach feels a bit weird.,gastroenterology,cardiovascular / pulmonary
+3682,I'm feeling some pain in my abdomen and a bit tired.,gastroenterology,gastroenterology
+3683,"I've had constant abdominal pain for over a week, especially on the lower left side. I feel some fullness and tenderness there. I'm not nauseous, but my appetite is gone.",gastroenterology,gastroenterology
+3684,"I feel pain in my abdomen, and it seems to get worse at times. Sometimes, it feels like there's a lump, and I feel really sick.",gastroenterology,gastroenterology
+3685,I feel nauseous and have pain on my right side that wraps around to my back. I also feel generally unwell and have a slight fever.,gastroenterology,gastroenterology
+3687,I feel off-balance a lot and it's hard to stay steady. I don't have any ringing in my ears or hearing loss.,ent - otolaryngology,ent - otolaryngology
+3688,I have pain across my lower abdomen. It feels really sore and tender.,gastroenterology,gastroenterology
+3689,"My stomach feels swollen and uncomfortable. Also, I feel very tired.",gastroenterology,gastroenterology
+3690,"My throat feels sore, and it's a bit hard to swallow. I'm feeling tired and a little groggy.",ent - otolaryngology,ent - otolaryngology
+3691,My ears feel full and I can't hear well.,ent - otolaryngology,ent - otolaryngology
+3692,I feel dizzy and unsteady.,ent - otolaryngology,ent - otolaryngology
+3693,My throat feels swollen and my ears are aching. I'm having trouble hearing clearly.,ent - otolaryngology,ent - otolaryngology
+3694,"I feel congested and have a stuffy nose. My left ear hurts, and I have some pressure in my sinuses.",ent - otolaryngology,ent - otolaryngology
+3695,I feel really tired and my throat is sore. My nose feels blocked and it's hard to breathe.,ent - otolaryngology,ent - otolaryngology
+3696,I'm having trouble breathing and feel really weak.,ent - otolaryngology,cardiovascular / pulmonary
+3697,"My throat hurts, and it's hard to swallow. I'm feeling really tired.",ent - otolaryngology,ent - otolaryngology
+3698,"I'm feeling some pain and discomfort in my left ear. My hearing seems a bit off, and there's some swelling.",ent - otolaryngology,ent - otolaryngology
+3699,My throat feels sore and it hurts to swallow. I'm feeling really tired.,ent - otolaryngology,ent - otolaryngology
+3701,I have a sore throat and my nose has been bleeding a lot.,ent - otolaryngology,ent - otolaryngology
+3702,"My throat feels sore, and it's hard to swallow. I feel really tired too.",ent - otolaryngology,ent - otolaryngology
+3703,"My throat feels really sore, and I have some discomfort when swallowing.",ent - otolaryngology,ent - otolaryngology
+3704,"My throat hurts a lot, and it's hard to swallow. My mouth feels dry and sore.",ent - otolaryngology,ent - otolaryngology
+3705,"My throat hurts, and I feel really tired. My ear is sore too.",ent - otolaryngology,ent - otolaryngology
+3707,"I'm having trouble hearing, especially in both ears. My right ear feels blocked and there's a ringing noise.",ent - otolaryngology,ent - otolaryngology
+3708,I feel short of breath and have some chest pain.,ent - otolaryngology,cardiovascular / pulmonary
+3710,"I'm feeling really congested, and my ear is bothering me. My right eyelid feels a bit sore.",ent - otolaryngology,ent - otolaryngology
+3711,"I feel a sore throat, congestion, and facial pain. I also have headaches and a burning sensation in my nose.",ent - otolaryngology,ent - otolaryngology
+3713,I'm feeling a lot of nasal congestion and difficulty breathing through my nose. I also have some discomfort around my ears.,ent - otolaryngology,ent - otolaryngology
+3714,I feel congested and my nose is a bit sore. Breathing through my nose is difficult.,ent - otolaryngology,ent - otolaryngology
+3715,"My throat feels swollen and sore, and it's hard to swallow. I'm also feeling a bit short of breath.",ent - otolaryngology,ent - otolaryngology
+3716,I feel tired and a bit sore around my nose and ear. My nose feels swollen and tender.,ent - otolaryngology,ent - otolaryngology
+3717,My nose feels sore and swollen. I have some trouble breathing through my nose. My face feels tender and puffy.,ent - otolaryngology,ent - otolaryngology
+3718,My nose feels tender and sore. There's some discomfort around the tip.,ent - otolaryngology,ent - otolaryngology
+3719,"I feel a lot of pain in my face and head. My nose is blocked, and I have trouble breathing through it. My right eye feels sore and swollen.",ent - otolaryngology,ent - otolaryngology
+3720,I feel like my nose is blocked on one side. It’s hard to breathe.,ent - otolaryngology,ent - otolaryngology
+3723,"My ears hurt, and I feel really cranky. I have a bit of a fever.",ent - otolaryngology,ent - otolaryngology
+3724,I feel a bit tired and my neck is sore.,ent - otolaryngology,orthopedic
+3727,"I'm feeling some pain and discomfort in my face. It's a bit hard to swallow, but a little better now. I'm also having trouble sleeping.",ent - otolaryngology,ent - otolaryngology
+3731,My neck feels sore and swollen. I feel tired and a bit weak.,ent - otolaryngology,ent - otolaryngology
+3732,My face feels sore and a bit swollen. I'm noticing some tightness around my cheeks and nose.,ent - otolaryngology,ent - otolaryngology
+3733,I have a sore throat and trouble breathing through my nose. My mouth feels swollen.,ent - otolaryngology,ent - otolaryngology
+3735,"I feel like my nose is always blocked, and it's hard to breathe through it.",ent - otolaryngology,ent - otolaryngology
+3737,I feel dizzy and my ears are bothering me.,ent - otolaryngology,ent - otolaryngology
+3739,I feel a constant pain in my right ear and a sensation of fullness at the base of my tongue.,ent - otolaryngology,ent - otolaryngology
+3745,"My right ear feels swollen and sore. There's some fluid buildup, and it feels uncomfortable.",ent - otolaryngology,ent - otolaryngology
+3746,I feel like there's something stuck in my throat. It hurts when I swallow.,ent - otolaryngology,ent - otolaryngology
+3747,My voice is hoarse and my throat feels sore. I feel some swelling and discomfort in my neck.,ent - otolaryngology,ent - otolaryngology
+3748,"I feel soreness and discomfort in my neck. It's hard to swallow, and my throat feels tight.",ent - otolaryngology,ent - otolaryngology
+3749,"I'm feeling a lot of pressure and congestion in my sinuses. My nose feels stuffed, and I have some pain around my face.",ent - otolaryngology,ent - otolaryngology
+3750,I feel hoarse and my voice is weak. My throat feels a bit sore.,ent - otolaryngology,ent - otolaryngology
+3751,I have trouble swallowing and feel something unusual on the right side of my throat.,ent - otolaryngology,ent - otolaryngology
+3752,"I'm having trouble swallowing and feel like there's a lump in my throat. My nose is always congested, mostly on the right side. I'm also having trouble hearing, especially in my right ear.",ent - otolaryngology,ent - otolaryngology
+3754,"My ears feel blocked, and I can't hear well. I breathe through my mouth a lot and snore loudly at night.",ent - otolaryngology,ent - otolaryngology
+3756,I feel like my left ear and nose are sore. Breathing through my nose is difficult. My nose feels clogged and swollen.,ent - otolaryngology,ent - otolaryngology
+3758,"My right ear feels sore, and I can't hear well out of it.",ent - otolaryngology,ent - otolaryngology
+3761,My ears feel sore and tender.,ent - otolaryngology,ent - otolaryngology
+3763,"My nose feels very dry, and I sometimes get nosebleeds. I also feel a stretching pressure inside my nose.",ent - otolaryngology,ent - otolaryngology
+3764,My right cheek feels swollen. I also have some pressure in my sinuses.,ent - otolaryngology,ent - otolaryngology
+3765,I'm feeling some pain and discomfort in my throat. I also feel a bit tired and weak.,ent - otolaryngology,ent - otolaryngology
+3767,My ears feel full and congested. My nose is always stuffy.,ent - otolaryngology,ent - otolaryngology
+3769,"My throat hurts and I have a cold. My voice is hoarse, and I snore loudly at night. I also breathe through my mouth when I sleep.",ent - otolaryngology,ent - otolaryngology
+3770,"My jaw feels numb and tingly, especially on the left side. I also can't taste much and my tongue feels weird.",ent - otolaryngology,ent - otolaryngology
+3772,My mouth feels sore and swollen. I have some pain and discomfort. It's hard to swallow.,ent - otolaryngology,ent - otolaryngology
+3774,I'm having trouble swallowing and my throat feels sore. My right ear is a bit tender.,ent - otolaryngology,ent - otolaryngology
+3777,I feel pressure in my ears and my nose is congested. My throat feels sore.,ent - otolaryngology,ent - otolaryngology
+3778,"My throat feels really sore, and it's hard to swallow. I also have a bit of trouble breathing through my nose.",ent - otolaryngology,ent - otolaryngology
+3781,My throat feels sore and dry. It's hard to swallow. My nose feels a bit congested.,ent - otolaryngology,ent - otolaryngology
+3782,"My throat really hurts, and I feel very tired.",ent - otolaryngology,ent - otolaryngology
+3786,I feel a bit tired and my throat is sore.,endocrinology,ent - otolaryngology
+3787,My throat feels sore and it's hard to swallow. My tongue feels a bit tender.,ent - otolaryngology,ent - otolaryngology
+3788,I feel really tired and weak. My breathing is difficult.,endocrinology,cardiovascular / pulmonary
+3789,I feel some discomfort in my neck and have trouble swallowing. I also get a bit short of breath when lying down.,endocrinology,ent - otolaryngology
+3790,"I feel really tired and sweaty, and I've put on some weight. My legs are swollen, and my belly feels bigger.",endocrinology,cardiovascular / pulmonary
+3791,I feel tired and have some difficulty swallowing. My neck feels swollen and uncomfortable.,endocrinology,ent - otolaryngology
+3792,My neck feels tight and a bit sore. I'm having trouble swallowing and feel pressure in my throat. My voice is a little hoarse.,endocrinology,ent - otolaryngology
+3794,I feel really tired and weak. My throat and neck hurt a lot. It's hard to swallow and talk.,endocrinology,ent - otolaryngology
+3796,I've been feeling really tired and my blood sugar levels have been hard to control recently.,endocrinology,endocrinology
+3797,"I feel a small lump in my neck. Other than that, I feel fine.",endocrinology,ent - otolaryngology
+3798,I feel a bit tired and my neck is sore. I also notice some swelling in the area.,endocrinology,orthopedic
+3799,I feel pain in my neck and some tightness. My neck feels swollen and sore.,endocrinology,ent - otolaryngology
+3801,I feel pain and some swelling under both arms. The area is sore and tender.,endocrinology,none
+3808,I feel a lot of pain in my abdomen.,endocrinology,gastroenterology
+3811,"I feel tired throughout the day, even though I wake up feeling refreshed. I'm not experiencing any other noticeable symptoms right now.",endocrinology,sleep medicine
+3998,My scalp feels a bit sore where they took the biopsy. The area is a little itchy too.,dermatology,dermatology
+4001,"My skin is really itchy and has a rash on my chest, legs, and arms. It feels raised and bumpy.",dermatology,dermatology
+4002,The areas where the biopsy was done feel sore. The skin feels a bit tender and tight.,dermatology,dermatology
+4003,My ear feels sore and a bit tender.,dermatology,ent - otolaryngology
+4004,I feel some soreness and tenderness on my scalp. There's also a bit of swelling where the procedure took place.,dermatology,dermatology
+4008,"I feel a sharp, sensitive pain on my right lower abdomen and right hip. It's been more noticeable in the past week. No visible changes on my skin.",dermatology,gastroenterology
+4009,I feel some itching and slight tenderness on my cheeks and neck. There's also a bit of roughness in those areas.,dermatology,dermatology
+4011,My skin feels tight and itchy. There’s some pain on my back and soreness around my donor sites.,dermatology,dermatology
+4012,I feel itchy all over my torso and arms. There's a rash that's spreading and it's really uncomfortable.,dermatology,dermatology
+4013,I feel some mild skin rash on my legs and occasional ankle pain. My ankles are a bit swollen too.,dermatology,dermatology
+4015,I feel some discomfort and tenderness on my left cheek and right side of my nose. There’s also a bit of swelling in those areas.,dermatology,ent - otolaryngology
+4018,I feel some soreness and tightness where the skin was removed.,dermatology,dermatology
+4019,"I feel tightness and some soreness around my face and neck. There's a bit of swelling and bruising, and it feels tender to touch.",dermatology,ent - otolaryngology
+4023,I feel some itching around my anal area.,dermatology,gastroenterology
+4609,"I've been coughing for about two weeks, and I feel short of breath.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4611,I'm feeling really tired and short of breath. My chest feels heavy and I'm a bit dizzy.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4614,I'm having trouble breathing and feel really weak.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4616,I feel some leg fatigue and tired from exercise. No chest discomfort.,cardiovascular / pulmonary,orthopedic
+4617,I'm having trouble breathing and my chest feels tight. My heart feels like it's working too hard.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4619,I'm having trouble breathing and feel really weak. My body feels extremely hot.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4621,I'm feeling short of breath and a bit tired. My chest sometimes feels tight.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4622,I feel a bit tired and have some trouble breathing. My chest feels a bit tight.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4623,I feel a bit tired and short of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4624,I'm feeling short of breath and my chest feels tight.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4625,I feel short of breath and my chest hurts sometimes. I also feel really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4626,I feel a bit tired and short of breath. My chest feels tight and I'm having trouble breathing deeply.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4627,I feel short of breath and have trouble breathing on my own.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4628,Feeling short of breath and tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4630,I feel dizzy and sometimes nauseous. I also feel hot and my heart races.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4631,I feel some tenderness around my tracheostomy tube and have trouble swallowing. I also need to use oxygen all the time.,cardiovascular / pulmonary,ent - otolaryngology
+4633,I'm having some trouble breathing and my chest feels tight.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4634,I feel short of breath and my chest feels tight. I'm also really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4635,I feel shortness of breath and tired easily. My chest feels tight.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4636,I'm feeling some chest pain and shortness of breath. My legs are also quite sore.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4637,My left forearm feels sore and a bit swollen. I also feel some throbbing in that area.,cardiovascular / pulmonary,orthopedic
+4638,I feel some pain in my chest and I'm a bit tired. Breathing feels a little difficult.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4639,I feel pain in my chest and it's hard to breathe. I'm also really tired and feel weak.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4641,"I'm having trouble breathing and feel really tired. My chest hurts a lot, especially on the right side.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4642,I feel pain in my chest and difficulty breathing. I'm also really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4643,"I feel pain in my chest and it’s hard to breathe. I get tired really quickly, and I’ve been coughing a lot.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4644,I feel short of breath and have some chest discomfort. I'm also feeling really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4645,I feel short of breath and have some chest discomfort.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4646,I feel dizzy and off balance.,cardiovascular / pulmonary,ent - otolaryngology
+4651,I feel some tightness and discomfort in my chest. My neck is a bit sore too.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4652,"I feel fine, but sometimes I get heartburn.",cardiovascular / pulmonary,gastroenterology
+4653,I'm breathing fast and having trouble feeding. I feel really tired and sweaty.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4654,I'm really short of breath and feel some chest discomfort.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4657,I'm feeling really tired and have some pain in my chest. My left leg also hurts quite a bit.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4660,I feel chest pain and my blood pressure seems high.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4661,I feel short of breath and my chest hurts.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4662,I'm feeling some chest discomfort and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4665,I feel really tired and weak. I get confused and have trouble remembering things.,cardiovascular / pulmonary,endocrinology
+4666,I feel some chest discomfort and shortness of breath. My breathing is a bit congested.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4668,I'm feeling a bit short of breath and my chest feels tight.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4670,I'm having trouble breathing and feel short of breath. My throat feels uncomfortable.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4671,I feel short of breath and tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4672,I feel short of breath and really tired. My chest feels tight and I get dizzy sometimes.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4674,"I feel like my heart is not beating normally, and I had some chest pain.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4676,"I feel a fullness in my chest and get tired quickly. My blood pressure seems high, and I feel worn out after minimal activity.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4677,She has a bad cough and a high fever. She seems to be having trouble breathing and looks really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4678,I feel short of breath sometimes. My chest feels tight occasionally.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4682,I feel short of breath when I move around. Sometimes I cough and cough up a little bit of mucus. I don't have any chest pain or fever.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4684,"I'm having trouble breathing and feel really short of breath. My chest feels uncomfortable, and I'm really tired.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4685,"I feel a bit short of breath, especially when I exert myself. I also felt dizzy and had cold sweats.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4688,I feel short of breath sometimes and it's hard to take deep breaths.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4689,I feel really tired during the day and sometimes doze off. My wife says I snore loudly and stop breathing at night.,cardiovascular / pulmonary,sleep medicine
+4692,I feel really tired and short of breath. My chest is a bit uncomfortable. Sometimes I get dizzy.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4693,I feel some discomfort and tenderness in my chest. There's also a bit of swelling around the area.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4694,"I'm feeling some back and joint pain, especially when I take a deep breath. I'm also experiencing more fatigue lately.",cardiovascular / pulmonary,rheumatology
+4695,I'm having trouble breathing and feel really short of breath. I've got a persistent cough and feel really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4697,I'm feeling short of breath and really tired. My arms are swollen and have some sores. My skin is really dry and bruised.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4698,I feel really tired and fatigued. My blood pressure feels high.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4699,I feel really weak and tired. I'm also having trouble breathing and coughing a lot.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4700,"I feel pain in my shoulder and my voice has changed. Also, my chest feels a bit swollen.",cardiovascular / pulmonary,ent - otolaryngology
+4701,I feel short of breath and have a lot of pain in my right hip.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4702,I'm having trouble breathing and there's some pain in my chest. I feel really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4704,I'm having trouble breathing and feel really short of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4705,I feel jittery and nervous. My heart is racing and irregular.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4707,"I feel occasional chest pains, especially during activity and sometimes at night. My feet are a bit swollen.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4708,"I feel short of breath, really tired, and have a dull chest pain.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4709,I'm having trouble breathing and feel really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4711,I feel short of breath and have some chest pain. I also feel very tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4712,I feel a bit short of breath and my chest feels strange. I also get tired very quickly.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4713,I feel chest pain that comes and goes. I'm also a bit short of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4714,I feel a bit tired and my chest feels sore.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4716,I feel short of breath and my heart is racing.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4717,I'm feeling really tired and my chest feels a bit sore. It's hard to catch my breath sometimes.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4718,I feel a bit tired and sometimes my heart feels like it’s racing.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4720,"I've been feeling dizzy and nauseous, and I've thrown up a few times. I don't have any chest pain and my breathing is okay.",cardiovascular / pulmonary,gastroenterology
+4722,I'm feeling some chest pain right now. I also feel really tired and my legs hurt.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4723,I feel a bit tired and sometimes short of breath. My heart feels like it's racing at times.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4724,I feel short of breath and really tired. I also feel weak.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4726,I feel some chest discomfort and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4730,I'm having trouble breathing and feel really tired. My chest hurts too.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4731,I'm having a lot of trouble breathing and my chest feels tight. I'm also feeling really tired and weak.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4734,I feel short of breath when I move around. My legs are swollen. I'm on oxygen.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4735,I feel some pain in my chest and I'm a bit short of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4736,I feel chest pain and sometimes it's hard to breathe. I'm also really tired and get out of breath easily.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4737,I feel short of breath and have some pain in my chest. There's also a bit of fatigue.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4739,I feel short of breath and very uncomfortable. I've been vomiting and my chest hurts.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4740,I feel very tired and weak. My chest feels tight and heavy.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4741,I feel some chest discomfort.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4742,"I'm feeling really lightheaded and tired. My chest hurts, and it's hard to breathe deeply.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4743,I feel chest pain and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4744,"I feel really tired and weak. I'm also having some pain in my lower right leg and mild swelling in my right foot. Occasionally, I have a cough and some discomfort in my lower abdomen.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4745,I feel short of breath and have a persistent cough.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4747,I'm having trouble breathing and feel some pain in my chest. I also feel very tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4748,I'm having trouble breathing and feel some pain in my chest. I'm also really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4749,I feel some pain in my chest and I'm really tired. It's hard to take deep breaths.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4754,I feel some pain when I swallow and discomfort in my mid-chest area. My left calf is swollen but not tender.,cardiovascular / pulmonary,gastroenterology
+4755,"I feel lightheaded and dizzy, like I might pass out. My heart is racing, and I have a fluttering feeling in my chest.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4756,"I'm having trouble breathing and feel short of breath, especially when I move around.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4757,I'm feeling a bit short of breath and really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4758,I feel fine right now. I don't have any chest pain or trouble breathing. Sometimes I notice a muscle spasm around my left eye when I'm stressed.,cardiovascular / pulmonary,psychiatry / psychology
+4759,I'm having trouble breathing and feel a tightness in my chest. I'm also feeling really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4760,I feel fine right now. No pain or discomfort.,cardiovascular / pulmonary,psychiatry / psychology
+4761,I have chest pain and feel a bit short of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4762,"I feel short of breath, even when I'm resting. My right upper abdomen hurts sometimes, and I feel a bit nauseous. My appetite isn't great.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4763,"I feel some palpitations and occasional dizziness. My left hip hurts a lot since I fell. Otherwise, I don't have chest pain or trouble breathing.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4764,"I feel some lower back pain, especially when standing. It radiates down my right leg. I also need to wake up at night to pee occasionally.",cardiovascular / pulmonary,orthopedic
+4766,I feel dizzy and lightheaded sometimes. My heart feels like it's skipping beats occasionally.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4767,I feel some tenderness and discomfort around my chest area.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4770,I feel some chest pain. I also feel a bit short of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4771,I'm feeling some chest pain and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4772,I'm feeling really tired and a bit short of breath. My heart feels like it's racing or fluttering sometimes.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4775,I'm feeling short of breath and my chest feels tight. I'm also really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4776,I'm having chest pain and feel really tired. My heart feels like it's racing too.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4777,I feel some chest discomfort and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4778,I feel some chest discomfort and a bit of fatigue.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4779,I'm feeling some chest discomfort and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4780,I feel some chest pain and shortness of breath. I'm also more tired than usual.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4781,I feel some chest discomfort and shortness of breath. My legs feel a bit weak too.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4782,I'm feeling some chest discomfort and shortness of breath. I also feel really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4783,"I feel short of breath when I exert myself. Sometimes, I have trouble breathing when lying down.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4784,I'm feeling constant chest pain and it's really bothering me.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4785,I'm feeling some chest pain and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4786,I feel short of breath and have some chest discomfort. I also feel really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4788,"I'm having chest pain, especially when I exert myself. I also feel short of breath and sweaty.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4789,"I feel more short of breath lately and my allergies seem worse. My asthma inhaler helps, but I use it daily.",cardiovascular / pulmonary,allergy / immunology
+4790,I feel short of breath and really tired. My chest feels tight sometimes.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4791,My left forearm feels sore and swollen. I feel tired and a bit short of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4793,I feel chest pain.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4795,I'm having trouble breathing and feel a bit of chest pain. I've also been coughing up blood.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4797,I'm having trouble breathing and feel really tired. I also have some coughing and notice blood in my sputum sometimes.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4798,I'm feeling short of breath and a bit tired. I also have a cough that won't go away.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4799,I feel some pain and discomfort in my left arm. My arm feels weak and a bit sore.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4800,"I'm having trouble breathing and feel really short of breath. My chest feels tight, and I'm really tired.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4801,I'm feeling chest pain and my legs hurt when I walk. It's hard to breathe sometimes and I get tired easily.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4802,I feel tired all the time and sometimes have pain in my left chest that goes down my left arm. This pain usually happens at night and can last until morning.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4803,I feel chest pain.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4804,I'm coughing up blood and have some chest pain.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4805,I'm feeling very tired and short of breath when I try to exercise.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4806,"I had chest pain during exercise, but it went away after I stopped. I felt really tired.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4808,I'm having trouble breathing and feel some tightness in my chest. I also feel quite tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4810,I feel some chest pain and a bit tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4811,I'm having trouble breathing and my chest feels really tight. I feel very weak and tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4812,I have a cough with dark-colored sputum. I don't have any chest pain or shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4813,I feel short of breath and really tired. It's hard to breathe.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4814,I feel chest pain.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4815,I'm feeling short of breath and a bit tired. My chest feels tight sometimes.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4817,"I feel really weak and tired. My chest feels tight, and I'm having trouble breathing.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4818,I'm having trouble breathing and feel very weak.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4820,I feel chest pain and shortness of breath. I get tired easily.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4821,I feel short of breath and my chest feels tight sometimes.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4823,I feel some mild chest discomfort and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4825,I'm feeling a bit tired and my chest feels a little uncomfortable.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4827,I'm feeling really tired and have some chest discomfort. My breathing feels a bit off too.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4828,"I'm feeling tired and weak. My legs are swollen, and I have some redness and swelling around my abdomen. I need help breathing at night with my BiPAP machine.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4829,I feel some chest pain.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4830,I feel a bit short of breath and have some nasal congestion.,cardiovascular / pulmonary,ent - otolaryngology
+4831,I've been coughing a lot and it's hard to breathe.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4832,I feel like it’s hard to breathe. I have a fever and I’m wheezing a lot.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4833,I feel a bit tired and my chest feels sore.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4834,"I feel short of breath and have some chest pain, especially when I breathe deeply. I've also been coughing up mucus.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4835,"I feel short of breath, especially when I exert myself. Sometimes, I even feel short of breath when I'm just resting. I'm also feeling really tired and stressed out.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4837,I feel some pain when I take deep breaths and have a bit of nausea. Swallowing has also been getting easier lately.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4838,"I have a chronic cough that's been a bit worse for the last few days. I don't cough up anything, and my sinuses feel clear. I feel okay otherwise.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4840,"My right arm feels weak, and I have a persistent cough. Breathing feels a bit tough at times.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4841,I've got chest pain.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4842,"I have chest pain and shortness of breath. Also, I've been coughing.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4843,I'm having trouble breathing and feel really short of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4844,I feel short of breath and have some chest discomfort.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4848,I'm feeling some chest pain and shortness of breath. My heart feels like it's racing sometimes.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4849,"I'm feeling really weak and a bit short of breath. My right knee hurts, and I have some swelling and bruising there. I'm also coughing up green mucus.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4851,I'm feeling really tired and short of breath. My chest feels a bit tight.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4853,I'm feeling some chest discomfort and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4854,"I feel short of breath and have been coughing a lot. My chest feels tight, and I can hear wheezing when I breathe.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4857,I feel short of breath and really tired. I've also been feeling weak.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4858,"I'm feeling confused and can't really remember why I'm here. My left side is weak, and I have some trouble moving it.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4859,I feel really short of breath and extremely tired. I also have pain on my right side and in my abdomen.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4860,I feel really tired and short of breath. My chest feels tight sometimes.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4861,I'm feeling really tired and fatigued. Sometimes I get short of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4862,I feel some chest pain and shortness of breath. My heart feels like it's racing.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4863,I'm having trouble breathing and feel really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4864,I feel really tired and weak. I'm also having trouble catching my breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4865,I'm feeling some chest pain and shortness of breath. My heart feels like it's working really hard.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4868,I feel some pain in my chest and it's hard to take deep breaths.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4869,I'm feeling short of breath and tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4870,I feel short of breath and have some chest pain. I'm also feeling really tired lately.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4871,I feel chest pain and have trouble breathing.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4872,I feel short of breath and very weak.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4873,I'm having trouble breathing and feel like my chest is tight on the left side.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4874,"I'm having chest pain again. It comes and goes, and it's making me worried.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4875,I feel my heart racing and have sharp chest pain that sometimes spreads to my back. It's been getting worse lately.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4877,I feel a bit short of breath and there's some pain on the right side of my chest.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4878,"My chest feels crampy and achy all day. I sometimes see spots before my eyes and feel like I'm going to faint. My left hand gets numb, and my left breast area is tender.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4880,I feel a bit of discomfort and some pain in my neck.,cardiovascular / pulmonary,orthopedic
+4882,I feel a bit short of breath and lightheaded.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4883,I feel a bit of discomfort in my chest and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4884,I'm having trouble breathing and feel really tired. My chest hurts a lot.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4885,I feel some pain in my neck and I’m a bit tired.,cardiovascular / pulmonary,orthopedic
+4886,I feel some tightness in my chest and it's hard to catch my breath. My neck feels sore and swollen.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4887,I'm feeling some chest discomfort and my heart is racing. I'm also a bit tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4888,I feel a bit tired and my chest feels normal now.,cardiovascular / pulmonary,sleep medicine
+4889,I feel weak and lightheaded. I’ve also had diarrhea recently.,cardiovascular / pulmonary,gastroenterology
+4892,"I feel fine, but I get really out of breath if I push myself too hard. Sometimes, my wife says I stop breathing when I sleep.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4894,I feel short of breath and have some swelling in my legs.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4895,I feel some chest discomfort and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4897,I feel a bit tired and short of breath sometimes. No pain or discomfort otherwise.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4898,I feel chest pressure and get very short of breath when I try to do things.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4899,I feel short of breath and really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4900,I'm feeling fine right now. No pain or discomfort.,cardiovascular / pulmonary,psychiatry / psychology
+4902,I feel pain in my left hip. No chest pain or trouble breathing.,cardiovascular / pulmonary,orthopedic
+4904,I'm feeling pretty tired and a bit short of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4905,"I feel pain and discomfort in my left upper arm, especially when I walk or after eating.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4906,I feel short of breath and dizzy sometimes. I get chest tightness when I walk briskly.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4907,I have some pain on the right side of my chest that goes from my neck down. It lasts about 10-15 minutes and feels like a 5 out of 10. I've also been coughing a little at night.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4908,"I feel lightheaded, have some chest discomfort, and get short of breath at times.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4909,I feel short of breath and a bit tired. My legs are slightly swollen.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4911,"I'm feeling really short of breath and it's getting worse. I also have a frequent cough and wake up at night struggling to breathe. My legs are swollen, and I've gained some weight recently.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4913,I feel short of breath and really tired. My chest feels tight sometimes.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4914,I've been having really bad chest pain. It feels like a heavy pressure in my chest.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4915,I feel short of breath and have some chest discomfort.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4916,I feel some chest discomfort and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4917,I'm feeling short of breath and a bit of chest discomfort. Sometimes I feel really tired too.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4918,I have chest pain.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4919,I feel short of breath and tired. I also get dizzy sometimes.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4920,I feel some chest pain and shortness of breath. I'm also a bit tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4921,I feel some chest pain and shortness of breath. I'm also a bit lightheaded.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4922,I feel really tired and out of breath. My chest feels tight and heavy.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4923,I'm feeling some chest pain and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4924,I feel discomfort in my right arm and neck.,cardiovascular / pulmonary,orthopedic
+4925,"I had chest pain earlier this morning, and now I have some shortness of breath.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4926,I feel really tired and short of breath. My chest feels heavy and uncomfortable.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4927,"I'm feeling some chest pain and a bit more shortness of breath than usual. Also, my back and left knee hurt, and my stomach feels uncomfortable at times.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4928,I feel chest pain when I exert myself. It's been getting worse over the past six months.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4929,I feel chest pain and shortness of breath. I'm also really tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4931,I feel chest pain and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4932,I feel really tired and my chest feels tight. Breathing is a bit harder than usual.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4933,I'm feeling some back pain and my chest feels sore.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4935,I feel really short of breath and tired. I have some chest pain too.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4936,I'm having trouble breathing and feel really tired. I've also been coughing a lot.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4937,I'm having trouble breathing and there's a lot of chest pain. I'm really tired and feel weak.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4938,I feel a little wheezy and it's hard to breathe.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4941,I'm having trouble breathing and feel tightness in my chest.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4942,I feel short of breath and tired. My chest hurts.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4943,I feel short of breath and tired. I've also been coughing a lot.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4944,I'm having a persistent cough that brings up mucus.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4945,I feel chest pain and shortness of breath. I'm also coughing a lot and have noticed some blood when I cough.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4946,"I'm feeling really tired, and my chest feels weird. I get short of breath easily.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4948,I feel feverish and have trouble breathing.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4949,"I feel some congestion and occasionally have a slight cough. Breathing is generally okay, but sometimes it sounds a bit crackly.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4950,I'm having trouble breathing and feel really congested in my chest.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4951,I'm having trouble breathing and feel a bit of tightness in my chest.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4953,I feel short of breath and tired. I have some chest discomfort.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4955,I feel really tired and sometimes it's hard to breathe. My chest feels a bit tight and I get out of breath quickly.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4956,"I feel very weak and tired. My heart is beating irregularly, and I feel short of breath. I'm also feeling quite warm.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4957,I feel tired and my heart races sometimes. I can't walk more than 25 feet without getting really exhausted.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4958,I feel some discomfort and tightness in my chest. My neck feels a bit sore too.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4960,"I feel short of breath when I exert myself. My heart races sometimes, and it happened a lot last night. I'm also really tired.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4961,"I've got pain in my left leg, especially when I walk. It gets really bad after a while.",cardiovascular / pulmonary,orthopedic
+4962,"I'm having a lot of trouble breathing and my chest feels tight. I get tired really quickly, even if I just walk a little.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4963,I feel short of breath and have some chest discomfort. My legs feel weak and tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4964,"I'm feeling quite tired and a bit sore. My legs are achy, and I'm having some trouble catching my breath.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4965,I'm feeling very tired and drowsy. No chest pain or shortness of breath.,cardiovascular / pulmonary,sleep medicine
+4967,I feel short of breath and a bit tired.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4968,I feel chest pain and shortness of breath.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4969,I feel short of breath and tired. My chest feels tight sometimes.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4972,I feel some chest pain.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4973,"I feel a sharp, heavy pain in my chest that spreads to my neck and left arm. I'm also short of breath and have been sweating a lot. I've felt nauseous and have vomited a few times.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4974,"I feel fine right now, no pain.",cardiovascular / pulmonary,psychiatry / psychology
+4975,"I feel some chest pain, especially at night. I also feel short of breath sometimes.",cardiovascular / pulmonary,cardiovascular / pulmonary
+4976,I feel really short of breath and super tired. It’s getting worse.,cardiovascular / pulmonary,cardiovascular / pulmonary
+4993,My mouth feels dry and my tongue is sore. I can't taste food well. I'm also feeling really tired.,allergy / immunology,ent - otolaryngology
+4994,"I feel congested and have some facial discomfort. My eyes hurt a bit, and there's a drip at the back of my throat. I also feel dizzy, especially when I move my head quickly.",allergy / immunology,ent - otolaryngology
+4995,The baby seems calm and quiet now. No fever or rash present.,allergy / immunology,none
+4996,"I feel like my asthma has been worse lately, and my allergies are bothering me more. My husband hauling corn seems to make it worse. I also feel more irritable and have PMS symptoms around my period.",allergy / immunology,allergy / immunology

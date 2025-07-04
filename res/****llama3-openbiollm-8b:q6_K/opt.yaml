@@ -1,8 +1,0 @@
-ai_triage_format: whole
-model_name: koesn/llama3-openbiollm-8b:q6_K
-specialty_similarity: 0.8
-data_root: datasets/mtsamples_layman.csv
-save_dir: res/2025_06_12_14_52_40_45_llama3-openbiollm-8b:q6_K
-cur_time: '2025_06_12_14_52_40_45'
-codes_dir: res/2025_06_12_14_52_40_45_llama3-openbiollm-8b:q6_K/codes
-log_dir: res/2025_06_12_14_52_40_45_llama3-openbiollm-8b:q6_K/log
