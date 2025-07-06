@@ -63,3 +63,10 @@ expic
 while kill -0 1202366 2>/dev/null; do sleep 10; done && 
 
 
+DEBUG             = False
+INPUT_JSON        = "datasets/patients.json"
+API_KEY_DEEPSEEK  = "sk-zlhpbuynjtlhysdqbqwfcuglzwdxxfhlasuamnsmkselhqto"
+BASE_URL_DEEPSEEK = "https://api.siliconflow.cn/v1"
+API_KEY_UF        = "sk-JoOzBJv4uLYVjOKFU5if1w"
+BASE_URL_UF       = "https://api.ai.it.ufl.edu/v1"
+TRANSLATION_DIR   = "res/translation-cache"

@@ -129,8 +129,8 @@ def main(opt):
     # List of medical specialties (same for all samples)
     specialty_str = f"'Allergy / Immunology', 'Cardiovascular / Pulmonary', "        \
                     f"'Sleep Medicine', 'Rheumatology', "        \
-                    f"'Nephrology', 'Hematology - Oncology', 'Gastroenterology', "   \
-                    f"'Endocrinology', 'Orthopedic', 'Radiology', 'Urology', "       \
+                    f"'Gastroenterology', "   \
+                    f"'Endocrinology', 'Orthopedic', 'Urology', "       \
                     f"'ENT - Otolaryngology', 'Ophthalmology', 'Psychiatry / Psychology', " \
                     f"'Dermatology'"
     

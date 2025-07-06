@@ -2,9 +2,11 @@ related/*
 # res/*
 # datasets/*
 *.yaml
+res/translation-cache/*
 
 diary.log
 !datasets/nejm_imagechallenge_dataset.csv
+
 
 
 
