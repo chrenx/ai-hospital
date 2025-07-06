@@ -1,8 +1,9 @@
 related/*
 # res/*
 # datasets/*
+*.yaml
 
-
+diary.log
 !datasets/nejm_imagechallenge_dataset.csv
 
 
