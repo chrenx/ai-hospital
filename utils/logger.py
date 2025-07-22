@@ -2,11 +2,11 @@ import logging, os
 
 
 # Define loggers
-PRED_LOGGER = logging.getLogger("pred_log")
-ERR_LOGGER = logging.getLogger("error_log")
+# PRED_LOGGER = logging.getLogger("pred_log")
+# ERR_LOGGER = logging.getLogger("error_log")
 
 
-def setup_logger(log_folder):
+def setup_logger(log_folder, PRED_LOGGER, ERR_LOGGER):
     os.makedirs(log_folder, exist_ok=True)
     
     formatter = logging.Formatter(
