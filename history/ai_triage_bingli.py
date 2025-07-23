@@ -10,7 +10,7 @@ from openai import OpenAI
 from utils.logger import setup_logger
 from utils.tools import create_folders, get_cur_time, save_codes_args
 import prompts
-from yes_no_checker import ask_yes_no_specialty_check, TriageCorrector, DialogueTriageAssistant
+from utils.yes_no_checker import ask_yes_no_specialty_check, TriageCorrector, DialogueTriageAssistant
 
 
 
