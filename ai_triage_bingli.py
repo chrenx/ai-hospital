@@ -44,7 +44,7 @@ def find_similar_specialties(specialty_list, text, cutoff=0.75):
 
 
 def extract_confidence_from_response(response_text):
-    match = re.search(r'Confidence[: ]?(\d+)', response_text, re.IGNORECASE)
+    match = re.search(r'Confidence\s*:\s*(\d+)', response_text, re.IGNORECASE)
     if match:
         return int(match.group(1))
     return -1  # 表示未提取到
@@ -128,6 +128,7 @@ def predict_specialty_whole_description(description, target_llm, specialty_str, 
 
 
     if predicted_specialty == "none" or confidence_score < 90:
+        # print("confidence:", confidence_score)
         dialogue_assistant = DialogueTriageAssistant(
             model_name=opt.model_name,
             api_key=opt.api_key,
@@ -138,10 +139,10 @@ def predict_specialty_whole_description(description, target_llm, specialty_str, 
         candidates = dialogue_assistant.run(description + f"\n既往史: \n{history}")
         if len(candidates) == 1:
             predicted_specialty = candidates[0]
-            response_text += f"\n<对话式纠正> -> {predicted_specialty}"
+            response_text += f"\n<对话式纠正> -> {predicted_specialty}\n"
         elif len(candidates) > 1:
             predicted_specialty = "none"  # 或 fallback to main model
-            response_text += f"\n<对话式辅助> 剩余候选：{','.join(candidates)}"
+            response_text += f"\n<对话式辅助> 剩余候选：{','.join(candidates)}\n"
 
     return predicted_specialty, response_text
 
@@ -171,7 +172,7 @@ def main(opt):
         complaint = re.search(r"<病情陈述>(.*?)<性别>", entry["profile"], re.DOTALL).group(1).strip()
 
         desc = f"{gen_info.strip()}\n{complaint.strip()}"
-        history = entry["medical_record"].get("既往史", "")
+        history = entry["medical_record"].get("现病史", "")
 
         # actual_specialty = entry.get("specialty", "").strip()
         actual_specialty = (entry.get("specialty") or "").strip()
