@@ -44,9 +44,9 @@ def predict_specialty_whole_description(case, specialty_list, specialty_similari
     pipeline = SGNN(llm_sgnn=LLM_SGNN, llm_experts=LLM_EXPERTS, 
                     pred_logger=opt.pred_logger, err_logger=opt.err_logger, 
                     cutoff=opt.specialty_similarity)
-    pred, voting, sgnn = pipeline.predict(case, specialty_list, specialty_similarity)
+    pred, sgnn, voting = pipeline.predict(case, specialty_list, specialty_similarity)
 
-    return pred, voting, sgnn
+    return pred, sgnn, voting
 
 
 
@@ -67,13 +67,12 @@ def main(opt):
     specialty_list = ["儿科病例", "耳鼻咽喉科病例", "妇产科病例", "外科病例", "内科病例", "眼科病例", "口腔科病例"]
 
     for entry in tqdm(data, total=len(data), desc="    Processing"):
-        gen_info = entry["medical_record"].get("一般资料", "")
-        # complaint = entry["medical_record"].get("主诉", "")
+        demo_info = entry["medical_record"].get("一般资料", "")
         complaint = re.search(r"<病情陈述>(.*?)<性别>", entry["profile"], re.DOTALL).group(1).strip()
 
-        whole_desc = f"{gen_info.strip()}\n{complaint.strip()}"
+        whole_desc = f"{demo_info.strip()}\n{complaint.strip()}"
 
-        case = {"id": entry["id"], "desc": gen_info.strip(), "demographics": complaint.strip()}
+        case = {"id": entry["id"], "desc":complaint.strip(), "demographics": demo_info.strip()}
 
         # actual_specialty = entry.get("specialty", "").strip()
         actual_specialty = (entry.get("specialty") or "").strip()
@@ -82,7 +81,7 @@ def main(opt):
             opt.err_logger.info(f"Not Valid: ID {entry['id']}, specialty: {entry['department']}, {complaint}\n")
             continue
 
-        pred, voting, sgnn = predict_specialty_whole_description(
+        pred, sgnn, voting = predict_specialty_whole_description(
                             case,
                             specialty_list,
                             opt.specialty_similarity,

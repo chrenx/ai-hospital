@@ -69,6 +69,8 @@ def extract_json_array(text):
         return json.loads(text_clean)
     except json.JSONDecodeError as e:
         print(f"❌ Failed to parse JSON: {e}")
+        print(text)
+        print()
         return None
 
 
@@ -141,6 +143,7 @@ class SGNN():
             with open(self.sgnn_path, "r", encoding="utf-8") as f:
                 self.sgnn_data = json.load(f)
 
+
     def predict(self, case, specialty_list, specialty_similarity):
         # case {"id": , "desc": , "demographics": }
         id, desc, demo = case["id"], case["desc"], case["demographics"]
@@ -149,19 +152,20 @@ class SGNN():
         else:
             structured_info, err_flag = self._extract_structured_info(desc)
             if err_flag:
-                return "none", structured_info
+                return "none", structured_info, None
             symptom_graph, err_flag = self._infer_symptom_graph(structured_info)
             if err_flag:
-                return "none", symptom_graph
-            for s, t, r in symptom_graph:
-                print(f"{s} --[{r}]--> {t}")
+                return "none", symptom_graph, None
+            # for s, t, r in symptom_graph:
+            #     print(f"{s} --[{r}]--> {t}")
 
             save_sgnn_with_id(symptom_graph, id)
 
         pred, voting = self._classify_specialty_from_graph(demo, desc, 
                                                              symptom_graph, specialty_list)
-        return pred, voting, symptom_graph
-    
+        return pred, symptom_graph, voting
+
+
     def _classify_specialty_from_graph(self, demo, desc, graph_triples, specialty_list):
         specialty_str = ", ".join(specialty_list)
         graph_description = "\n".join([
@@ -205,7 +209,7 @@ class SGNN():
 
         return final_res, str(voting)
 
-        
+
     def _infer_symptom_graph(self, structured_info):
         symptoms = structured_info["symptoms"]
         demographics = structured_info.get("demographics", {})
@@ -280,6 +284,8 @@ class SGNN():
         return response, err_flag
     
 
+    #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
     def _build_prompt_classify(self, demo, desc, graph, specialty_str):
         return f"""
 请根据患者的基本信息和以下症状之间的关系，推测最可能的就诊科室。
@@ -290,9 +296,9 @@ class SGNN():
 症状图谱关系如下：
 {graph}
 
-请从**{specialty_str}**中选出最合适的科室名称,**格式以外的信息请勿输出**。
+请从**{specialty_str}**中选出最合适的科室名称, **格式以外的信息请勿输出**。
 输出格式如下：
-Specialty: <科室>
+Specialty: <中文科室>
 """
     
     def _build_prompt_symptom_graph(self, symptom_list, demographics):
@@ -305,23 +311,20 @@ Specialty: <科室>
 年龄: {demographics.get("age", "未知")}
 职业: {demographics.get("occupation", "未知")}
 
-症状列表:
-{symptom_list}
-
 输出格式为JSON数组，每个元素是一个三元组: [源症状, 目标症状, 关系]，如:
 [
 ["左侧肢体无力", "口干", "可能共病"],
 ["左侧肢体无力", "便秘", "神经系统相关可能性"]
 ]
+
+你需要处理的症状列表如下, 并且输出必须是中文:
+{symptom_list}
 """
 
     def _build_prompt_extract_structured_info(self, description):
         return f"""
 你是一个医学助手。请从以下文本中提取结构化信息，返回一个JSON格式，包含两个部分："demographics" 和 "symptoms"。
 每个symptom应当包含: "term", 可选的"onset", "duration", "location", "modifier", "response_to_rest"，若信息缺失可省略。
-
-示例输入:
-{description}
 
 **除了JSON内容以外, 其他东西不要包括在输出中**
 输出格式如下:
@@ -342,6 +345,9 @@ Specialty: <科室>
     ...
 ]
 }}
+
+你需要处理的输入如下, 并且输出必须是中文:
+{description}
 """
 
 
